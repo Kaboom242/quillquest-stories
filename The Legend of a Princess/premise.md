@@ -1,1 +1,0 @@
-A hero saves a princess.
