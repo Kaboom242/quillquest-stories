@@ -1,0 +1,1 @@
+Sora, a junior clerk at the Victoria Guild, possesses a unique magic: she can "read" residual magic in objects, places, and people. This ability allows her to uncover historical fragments, emotional echoes, and hidden truths.
