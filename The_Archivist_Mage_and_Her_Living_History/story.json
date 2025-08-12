@@ -11,10 +11,10 @@
   "chapters": [
     {
       "id": "1754975431364",
-      "title": "Untitled",
-      "content": "",
+      "title": "The Rookie",
+      "content": "[DEFENSE MODE]\n{\n  \"model\": \"claude-3-opus-20240229\",\n  \"max_tokens\": 1300,\n  \"messages\": [\n    {\n      \"role\": \"user\",\n      \"content\": \"Write next chapter, \\n\\n 1000+ words \"\n    }\n  ]\n}",
       "createdAt": "2025-08-12T05:10:31.364Z",
-      "updatedAt": "2025-08-12T05:10:31.364Z",
+      "updatedAt": "2025-08-12T05:34:33.479Z",
       "approved": false,
       "book": "Book 1",
       "order": 1
