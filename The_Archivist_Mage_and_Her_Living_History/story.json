@@ -7,5 +7,16 @@
     "Book 1": {
       "name": "Book 1"
     }
-  }
+  },
+  "chapters": [
+    {
+      "id": "1754977389138",
+      "title": "Untitled",
+      "createdAt": "2025-08-12T05:43:09.138Z",
+      "updatedAt": "2025-08-12T05:43:09.138Z",
+      "approved": false,
+      "book": "Book 1",
+      "order": 1
+    }
+  ]
 }
