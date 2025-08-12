@@ -2,22 +2,5 @@
   "displayName": "The Archivist Mage and Her Living History ",
   "sanitizedName": "The_Archivist_Mage_and_Her_Living_History",
   "premise": "Sora, a junior clerk at the Victoria Guild, possesses a unique magic: she can \"read\" residual magic in objects, places, and people. This ability allows her to uncover historical fragments, emotional echoes, and hidden truths.",
-  "createdAt": "2025-08-11T22:50:48.863Z",
-  "books": {
-    "Book 1": {
-      "name": "Book "
-    }
-  },
-  "chapters": [
-    {
-      "id": "1754975431364",
-      "title": "The Rookie",
-      "content": "[DEFENSE MODE]\n{\n  \"model\": \"claude-3-opus-20240229\",\n  \"max_tokens\": 1300,\n  \"messages\": [\n    {\n      \"role\": \"user\",\n      \"content\": \"Write next chapter, \\n\\n 1000+ words \"\n    }\n  ]\n}",
-      "createdAt": "2025-08-12T05:10:31.364Z",
-      "updatedAt": "2025-08-12T05:38:54.144Z",
-      "approved": false,
-      "book": "Book 1",
-      "order": 1
-    }
-  ]
+  "createdAt": "2025-08-11T22:50:48.863Z"
 }
