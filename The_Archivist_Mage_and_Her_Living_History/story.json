@@ -11,12 +11,13 @@
   "chapters": [
     {
       "id": "1754977389138",
-      "title": "The Rookie",
+      "title": "The Old Man's Journal",
       "createdAt": "2025-08-12T05:43:09.138Z",
       "updatedAt": "2025-08-13T00:17:50.202Z",
       "approved": false,
       "book": "Book 1",
-      "order": 1
+      "order": 1,
+      "summary": ""
     }
   ]
 }
