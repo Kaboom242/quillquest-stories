@@ -43,3 +43,51 @@ His smile never wavered, but something flickered in his eyes. Recognition, maybe
 The hall had gone quiet around us. I could feel the weight of attention, volunteers pausing in their work to watch our strange confrontation. Mrs. Elmsworth's hands stilled on her banners. The young men hanging garlands from the rafters stopped their hammering.
 
 Elder Matthias leaned closer, his voice dropping
+
+Elder Matthias leaned closer, his voice dropping to barely above a whisper. "Careful, child. Old papers can be misleading. Memory plays tricks, and documents don't always tell the whole story." His weathered hand reached for the ledger, but I pulled it back instinctively, clutching it against my chest.
+
+"Perhaps we should review these records together," he suggested, louder now, addressing the room as much as me. "For historical accuracy, of course. We wouldn't want to present incorrect information at the festival."
+
+The weight of his authority pressed down on me like a physical thing. This was Elder Matthias, who had led our village council for twenty years. Who had overseen the expansion of the market square and negotiated the trade agreements that kept Millhaven prosperous. Who attended every birth celebration and spoke at every funeral. The man who had shaped the very fabric of our community stood before me, and I was just the seamstress's daughter, barely past my eighteenth winter.
+
+But I could still feel the merchant's terror echoing in my bones, could still hear the clink of those coins that had bought silence at the cost of lives.
+
+"I think the records are quite clear," I said, surprised by the steadiness in my voice. "The inspection was signed. The bridge was declared sound. And then it wasn't."
+
+A murmur rippled through the hall. Elder Matthias's jaw tightened, the grandfather's mask slipping for just a moment to reveal something harder underneath. "Young lady, grief can make us seek someone to blame for tragedies that have no villain. Those merchants who died were good people. Their families have suffered enough without dragging their memory through baseless speculation."
+
+The calculated cruelty of invoking the dead families made my stomach turn. He was using their grief as a shield, knowing that challenging him meant appearing to dishonor the victims. But as I stood there, the ledger warm against my chest, another echo pulsed through me. Fainter this time, like looking through frosted glass.
+
+A woman crying. A child's wagon, abandoned by the riverbank. The same merchant from the first vision, standing at the bridge days before the collapse, running his hands along support beams that were already beginning to crack. His face pale with the knowledge of what he'd allowed to happen.
+
+"You're right," I said quietly. "They were good people. Thomas Brightwater, who sold the finest cloth in three villages. Marcus Irondale, the blacksmith's cousin. Young Felix Morrow, barely married a year." I recited their names like a prayer, watching the color drain from Elder Matthias's face. "Good people who trusted that when village officials declared a bridge safe, it was safe."
+
+The silence in the hall had weight now, pressing against the walls like water against a dam. Mrs. Elmsworth set down her banners with deliberate care. The young men on the ladders had descended, forming a loose circle of witnesses. Even the dust motes seemed to pause in their lazy drift through the sunbeams.
+
+"What are you suggesting?" Elder Matthias asked, his voice dangerously soft.
+
+"I'm not suggesting anything." I opened the ledger, running my finger along the faded ink of the inspection record. "But I am wondering why this signature looks so different from the inspector's other documents. And why there's a deposit in the village treasury the very next day, marked only as 'anonymous donation for festival improvements.'"
+
+It was a guess, but his flinch told me I'd struck true. The echoes from objects weren't always complete, but they gave me enough to piece together the shape of the truth. And the truth had a way of recognizing itself when spoken aloud.
+
+"You don't know what you're playing with, girl." The grandfather's warmth had completely disappeared from his voice now. "The village survived because of decisions I made. Trade routes were established. Prosperity was secured. Sometimes leadership requires difficult choices."
+
+"Choices that killed three people."
+
+"Choices that saved dozens more from poverty when the trade route opened!" He slammed his hand on a nearby table, making everyone jump. "Do you think maintaining a village is simple? Do you think it's all harvest festivals and pie contests? That bridge would have been inspected eventually. The flooding was unprecedented. No one could have predicted—"
+
+"You could have." The words came out barely louder than a breath, but they cut through his justification like a blade. "The merchant who bribed you knew the bridge was failing. He came to you because he'd used substandard materials and needed time to move his assets before the truth came out. And you took his money."
+
+Elder Matthias's face had gone the color of old parchment. Around us, the volunteers stood frozen, as if afraid that moving might shatter something irreparable. The afternoon sun had shifted, casting long shadows across the floor like accusatory fingers.
+
+"You have no proof," he said finally. "Only old papers and wild accusations."
+
+He was right, of course. I had no proof that would stand before a magistrate. The visions that haunted me weren't evidence. They were ghosts of emotion, echoes of truth that only I could hear. But sometimes, truth didn't need a courtroom to find its justice.
+
+"No," I agreed. "I have no proof. But I have questions. And I think the families of those who died deserve answers." I turned to address the room, meeting the eyes of my neighbors one by one. "Don't they deserve to know why the inspection records don't match? Why the treasury shows a mysterious donation? Why Elder Matthias is so eager to dismiss concerns about documents he claims are meaningless?"
+
+Mrs. Elmsworth stepped forward, her usual cheerfulness replaced by something stern and purposeful. "I lost my nephew in that collapse," she said quietly. "Marcus was bringing supplies for my shop. I was told it was an act of nature. Unavoidable." She looked at Elder Matthias, and I saw years of suppressed suspicion crystallizing into certainty. "But I always wondered why you pushed so hard against the memorial stone. Why you insisted we should 'move forward' so quickly."
+
+Others began to speak then, voices overlapping as long-buried doubts found air. The baker mentioned odd discrepancies in shipping records. The stableman recalled seeing the merchant who'd overseen the bridge construction leaving the village in haste days before the collapse. Each small observation was meaningless alone, but together they wove a tapestry of complicity that couldn't be ignored.
+
+Elder Matthias stood in the center of it all, his authority crumbling like old mortar. He looked older suddenly, the weight of his secret finally showing on his shoulders. When he spoke again, his voice carried the exhaustion of a man who'd been running from
