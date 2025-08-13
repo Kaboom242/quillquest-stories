@@ -187,3 +187,63 @@ Most of all, I thought of tomorrow. The festival would likely be canceled, the f
 When I reached my mother's shop, I paused before entering. Through the window, I could see her working by candlelight, her fingers moving steadily over fabric, creating something beautiful from raw materials. She would have questions about why I was so late, about the rumors that were surely already spreading through the village like wildfire.
 
 But first, I wanted one more moment with
+
+But first, I wanted one more moment with the weight of what had happened. The night air carried the scent of woodsmoke and approaching autumn, familiar and grounding. I pressed my palm against the shop's rough wooden door frame, and for a moment, I felt it: the echo of countless homecomings, layers of contentment and exhaustion, worry and relief. My mother's emotions, my father's before his death, mine from childhood through to this very moment. This building held our family's story in its bones, just as the green ledger had held the village's secret shame.
+
+The door's bell chimed softly as I entered, and my mother looked up from her work. Elara Ashworth had the kind of face that invited confidences, weathered by years but still striking, with eyes the same unusual amber as mine. Those eyes widened as she took in my appearance, disheveled from the day's upheaval.
+
+"You look like you've seen a ghost," she said, setting aside the midnight-blue fabric she'd been hemming. "Several, actually."
+
+"In a way, I have." I sank into the chair across from her worktable, suddenly exhausted. "Elder Matthias has been arrested. He falsified the inspection reports for the Silverbrook Bridge before it collapsed."
+
+The needle slipped from her fingers, clattering onto the floor. My mother never dropped her tools. In all my years of watching her work, I'd never seen her hands falter. "Matthias? But he... how do you know this?"
+
+"I found evidence in the old records. He confessed when confronted." I kept my explanation simple, though I could see questions forming in the furrow of her brow. My mother had always suspected there was something different about me, something beyond what could be easily explained. But we'd developed an unspoken agreement over the years, dancing around the edges of my peculiarity without ever addressing it directly.
+
+She was quiet for a long moment, then rose and moved to the kettle hanging over the banked fire. The familiar ritual of tea-making filled the silence, giving us both time to think. When she finally spoke, her voice was carefully neutral. "You found evidence that everyone else missed. Evidence from five years ago, buried in storage."
+
+"Yes."
+
+"Evidence that was compelling enough to make Elder Matthias, the most powerful man in our village, confess to a crime that will destroy him."
+
+"Yes."
+
+She handed me a cup of tea, the ceramic warm against my palms. Then she sat back down, fixing me with that particular look mothers perfect, the one that says they know exactly what you're not telling them. "Your grandmother could do it too, you know. See things others couldn't. Feel things that had already happened."
+
+The words hung between us like a bridge suddenly appearing over a chasm I'd thought uncrossable. All these years of careful silence, and my mother had known. Of course she had known.
+
+"Why didn't you ever say anything?" I asked, my voice smaller than intended.
+
+"Because your grandmother spent her life being feared for it. People called her touched, said she communed with spirits, crossed themselves when she passed. I watched it isolate her, even as they came to her in secret when they needed to find lost things or understand old mysteries." She reached across the table, covering my hand with hers. "I wanted you to choose when and how to use your gift, without the weight of expectation or fear."
+
+"But you knew what I could do."
+
+"I suspected. When you were small, you'd touch objects and react to things that weren't there. You'd comfort toys that no one else knew were sad. You knew which chair your father preferred before he'd ever sat in it, because you could feel his presence calling to it." Her smile was soft, tinged with old sorrow. "After he died, you wouldn't go near his tools for months. You said they were too loud."
+
+I remembered that, though I'd been barely six at the time. The echoes of his frustration and satisfaction, the weight of unfinished projects and fulfilled commissions, all of it had been overwhelming to a grieving child. It had been easier to avoid them entirely than to feel his absence in every hammer blow that still reverberated through the metal.
+
+"Is that why you kept them?" I asked. "His tools? Even though neither of us does metalwork?"
+
+"I kept them because someday, when you're ready, you might want to hear those echoes again. To know him through the work he loved, the pieces of himself he left behind." She squeezed my hand gently. "But that's a choice for another day. Tonight, we need to talk about what you've done and what comes next."
+
+"What do you mean?"
+
+"You've exposed the most powerful man in the village. You've revealed a truth that implicates not just him but the systems that allowed it to happen. The merchant's guild, the other council members who should have provided oversight, the inspectors who should have been harder to bribe." She leaned back, her expression thoughtful. "There will be consequences, Sora. Some people will be grateful for the truth. Others will resent you for disturbing their comfortable illusions."
+
+She was right, I realized. Already I could imagine the divisions forming. Those who had lost family in the collapse would see me as a hero. Those who had benefited from Elder Matthias's leadership, who had prospered under the trade agreements he'd secured, might see me as a troublemaker who had destroyed a good man over one mistake. The village would fracture along lines of loyalty and loss, and I would be at the center of that break.
+
+"I couldn't let it stay hidden," I said. "Those families deserved to know."
+
+"I'm not saying you were wrong. I'm saying you need to be prepared. Your gift has always been a private thing, something you could choose to use or ignore. But after today, even if people don't understand exactly how you knew what you knew, they'll remember that you're the one who sees what others miss. Some will seek you out. Others will avoid you. None of them will look at you the same way again."
+
+The weight of that settled over me like a heavy cloak. I'd been so focused on revealing the truth that I hadn't considered what would come after. The simple life I'd planned, helping my mother with her shop, perhaps marrying one of the merchant's sons, raising children in the safety of familiar routines, all of that seemed suddenly impossible. How could I pretend to be ordinary when I'd just toppled the village's most powerful leader with nothing but old papers and impossible knowledge?
+
+"Your grandmother left something for you," my mother said suddenly, rising and moving to an old chest in the corner. "I was supposed to give it to you when you were ready. I think perhaps that time is now."
+
+She returned with a small wooden box, its surface smooth with age and handling. The moment she placed it in my hands, I felt them, layers upon layers of echoes. My grandmother's determination, her loneliness, her fierce pride in a gift that had set her apart. But underneath that, stretching back further than I could fully grasp, were other women's touches. Other hands that had held this box, other hearts that had carried this burden and blessing.
+
+Inside was a simple silver ring, unadorned except for a single symbol etched into its band: an eye, half-closed, with rays extending from it like sun or sight. The moment I touched it, I understood. This was a recognition, a sign that others like us had used to find each other across distances and years. My grandmother hadn't been alone, not entirely. There had been others who could feel the echoes, who could give voice to the memories held in stone and steel and fabric.
+
+"She told me once that the gift chooses its own purpose in each generation," my mother said softly. "Her mother used it to find lost children. Your grandmother used it to solve mysteries that plagued the guilty and gave peace to the innocent. And now you've used it to bring justice to those who thought their crimes safely buried. That's no small thing, Sora."
+
+I slippe
