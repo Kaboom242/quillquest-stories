@@ -91,3 +91,99 @@ Mrs. Elmsworth stepped forward, her usual cheerfulness replaced by something ste
 Others began to speak then, voices overlapping as long-buried doubts found air. The baker mentioned odd discrepancies in shipping records. The stableman recalled seeing the merchant who'd overseen the bridge construction leaving the village in haste days before the collapse. Each small observation was meaningless alone, but together they wove a tapestry of complicity that couldn't be ignored.
 
 Elder Matthias stood in the center of it all, his authority crumbling like old mortar. He looked older suddenly, the weight of his secret finally showing on his shoulders. When he spoke again, his voice carried the exhaustion of a man who'd been running from
+
+from the truth for years.
+
+"You don't understand the position I was in," he said, his words heavy with the kind of weariness that comes from carrying guilt like stones in your pockets. "The merchant's guild was threatening to reroute entirely around Millhaven. We would have become a forgotten waystation, bleeding families to larger towns, watching our children leave for opportunities we couldn't provide. The bridge needed repairs, yes, but the inspector was demanding immediate closure. Six months, he said. Maybe a year. Do you have any idea what that would have meant?"
+
+"So you falsified the inspection," I said, the ledger still warm against my chest. "You took a bribe to declare it safe, hoping what? That it would hold until after the trade route was secured?"
+
+His silence was answer enough. Around us, the hall felt smaller, as if the walls were drawing in to bear witness to this unraveling. Someone had lit the oil lamps, though I hadn't noticed when, and their flickering light made everything feel unstable, shifting between revelation and shadow.
+
+"I thought we had time," Elder Matthias continued, his voice barely audible. "The merchant, Garrett Stonefield, he swore the supports would hold through summer. Just long enough to establish the route, to bring in enough revenue to fund proper repairs. No one was supposed to die. It was meant to be a temporary risk for permanent prosperity."
+
+"Garrett Stonefield." Mrs. Elmsworth's voice cut through the hall like winter wind. "The man who left town the week before the collapse. Who sold his holdings here and never returned." She turned to face the gathered volunteers, her face set in lines of determined fury. "The man who knew exactly when that bridge would fail."
+
+The truth hung in the air like smoke from a snuffed candle, acrid and undeniable. I watched Elder Matthias shrink before us, the powerful village leader becoming just an old man who had made a terrible choice and spent years trying to live with it. Part of me, a small part, felt pity for him. But then I remembered the echo of that crying woman, the abandoned child's wagon, and my sympathy evaporated like morning dew.
+
+"The families deserve to know," I said. "Thomas Brightwater's widow, she blamed herself for asking him to make that trip. Marcus Irondale's mother still lights a candle every week, praying for forgiveness for some imagined failure as a parent. Felix Morrow's wife... she was pregnant when he died. Their son has never known his father. They've carried guilt that was never theirs to bear."
+
+Elder Matthias sank onto a bench, his head in his hands. "I've tried to make amends. Anonymous gifts to the families, ensuring their children received apprenticeships, covering debts quietly. I've spent five years trying to balance the scales."
+
+"But you never gave them the one thing that might have helped them heal," Mrs. Elmsworth said sharply. "The truth. The knowledge that it wasn't random misfortune or divine punishment. That someone was responsible."
+
+The hall had filled with more people as word spread through the village. I recognized faces from the market, from the temple, from the fields. They pressed in, drawn by the gravity of unfolding scandal. Among them, I spotted a familiar figure pushing through the crowd. Constable Harwick, his uniform hastily thrown over work clothes, his expression grim.
+
+"What's all this then?" he asked, though his tone suggested he already had some idea. Small villages had few secrets that stayed completely buried.
+
+Mrs. Elmsworth took charge, her natural authority asserting itself. "We've discovered irregularities in the old inspection records for the Silverbrook Bridge. Elder Matthias has admitted to falsifying documents prior to the collapse five years ago."
+
+The constable's weathered face hardened. He'd been the one to pull bodies from the river, I remembered. He'd been the one to deliver the news to waiting families. "Is this true, Matthias?"
+
+Elder Matthias raised his head, and for a moment, I saw him consider denial. But perhaps he was tired of carrying the weight, or perhaps he recognized that the truth had developed its own momentum now, impossible to stop. "Yes," he said simply. "I accepted a bribe to approve a false inspection. I believed the risk was minimal. I was wrong."
+
+The admission rippled through the crowd like a stone dropped in still water. Some gasped, others muttered prayers, and a few began to weep. I saw Samuel Brightwater, Thomas's eldest son, push forward, his carpenter's hands clenched into fists.
+
+"You knew," Samuel said, his voice thick with rage and grief. "You stood at my father's memorial and spoke of unavoidable tragedy. You held my mother while she wept. You knew, and you said nothing."
+
+"I'm sorry," Elder Matthias began, but Samuel's bitter laugh cut him off.
+
+"Sorry? My mother died believing she'd sent father to his death with her requests for special fabric. She never forgave herself. The guilt ate her alive, and you could have lifted that burden with a word of truth. But you chose your reputation over her peace."
+
+The constable stepped between them, one hand on Samuel's shoulder. "That's enough. There will be time for recriminations later. Elder Matthias, you'll need to come with me. We'll send to Glyphmere for a magistrate. This is beyond village justice now."
+
+As the constable led Elder Matthias away, the crowd parted silently. The man who had shaped our village for two decades walked through them like a ghost, already absent from the life he'd built. At the doorway, he paused and looked back at me.
+
+"How did you know?" he asked, genuine puzzlement in his voice. "Those records were buried deep. No one else ever questioned them."
+
+I couldn't explain about the echoes, about the visions that clung to objects like morning dew on spider silk. So I gave him a different truth, one he could understand. "The dead don't rest easy when justice is denied. Their stories find a way to be heard, through whatever vessel will listen."
+
+He nodded slowly, as if that made perfect sense, and then he was gone, swallowed by the gathering dusk outside.
+
+The hall erupted in discussion the moment he left. People clustered in groups, sharing theories and remembrances, piecing together signs they'd dismissed or ignored. Mrs. Elmsworth organized them with practiced efficiency, appointing some to gather relevant documents, others to compile a list of those affected by the collapse, and still others to prepare for the magistrate's arrival.
+
+I slipped away from the chaos, the green ledger still clutched against my chest. The storage room felt different now, lighter somehow, as if releasing that secret had cleared the air of more than just dust. I set the ledger carefully back in its chest, running my fingers one last time over its faded binding. The echoes were quiet now, the merchant's terror and guilt finally given voice after five years of silence.
+
+"That was brave, what you did." 
+
+I turned to find Samuel Brightwater in the doorway. His anger had faded, replaced by something raw and vulnerable.
+
+"I just asked questions," I said. "The truth revealed itself."
+
+"No," he said firmly. "You stood up to him. Elder Matthias, he had a way of making you feel foolish for questioning him. Like you were a child who didn't understand how the world really worked. But you didn't back down."
+
+"I had help," I admitted, though he couldn't know what kind. "The evidence was there. Someone just needed to look."
+
+Samuel was quiet for a moment, then said, "My mother would have been grateful. She died last winter, still carrying that guilt. But maybe... maybe knowing the truth would have only hurt her more. Maybe it's better she never knew."
+
+"Maybe," I agreed, though I wasn't sure I believed it. In my experience, truth had its own kind of healing, even when it hurt. Lies festered like untreated wounds, poisoning everything around them.
+
+The festival preparations had been abandoned, banners and decorations scattered like aftermath of a storm. Tomorrow's celebration seemed impossible now, with the village reeling from revelation. But as I watched my neighbors rally together, supporting those who grieved anew and organizing for what came next, I thought perhaps we were stronger than we knew. Truth had shaken our foundations, but it hadn't toppled them.
+
+Mrs. Elmsworth appeared at my elbow, her usual energy subdued but still present. "You've got a gift, dear," she said quietly. "Seeing what others miss. That's valuable, especially in times like these."
+
+If only she knew how literal that gift was. But I simply nodded, accepting her praise while knowing I could never fully explain how I'd known where to look, what questions to ask.
+
+"What will happen to him?" I asked. "To Elder Matthias?"
+
+"The magistrate will decide. Exile, most likely. Possibly imprisonment. The merchant, Stonefield, if they can find him, will face worse. He knew the bridge would fail. That makes it murder, not just negligence." She sighed, looking older than her years. "The village will need new leadership. People we can trust."
+
+"You should stand for the council," I suggested. "People respect you."
+
+She laughed, though there was little humor in it. "Perhaps. Though after today, I think we'll all be slower to trust, more eager to question. That's not necessarily bad. Blind faith in authority is what allowed this to happen."
+
+As the evening wore on, the hall slowly emptied. Families drifted home to process the day's revelations in private. The abandoned festival preparations would be dealt with tomorrow, or perhaps not at all. Some celebrations couldn't survive the harsh light of truth.
+
+I was among the last to leave, helping to extinguish the oil lamps and secure the building. Outside, the village looked the same as it always had. The same thatched roofs and cobbled streets, the same market square and ancient oak. But something fundamental had shifted, like a bone reset after being broken. It would heal, but it would always bear the mark of this day.
+
+As I walked home through streets silvered by moonlight, I thought about the gift I carried, this ability to read the emotional echoes of objects. I'd always seen it as a curiosity, sometimes a burden, occasionally useful for small kindnesses. But today had shown me it could be more. In a world where powerful men buried their crimes beneath respectability and authority, perhaps there was value in someone who could hear the voices of the past, who could give the dead their say in the affairs of the living.
+
+The green ledger had told its story, had finally released the truth it had held for five years. But there were other objects in the world, other secrets waiting to be discovered. Other voices that deserved to be heard.
+
+I thought of Elder Matthias, probably spending tonight in the constable's holding cell, awaiting judgment for choices made in fear and greed. I thought of the families who would finally understand that their loved ones' deaths weren't random tragedy but preventable loss. I thought of the merchant who had fled, believing his crime successfully buried, not knowing that objects remember what people try to forget.
+
+Most of all, I thought of tomorrow. The festival would likely be canceled, the founding ceremony foregone in favor of grieving and reckoning. But eventually, the village would need to move forward. New leadership would emerge, hopefully wiser and more transparent than what came before. The trade routes would continue, the merchants would still need the bridge that had been properly rebuilt after the collapse. Life would go on, marked but not broken by tragedy and revelation.
+
+When I reached my mother's shop, I paused before entering. Through the window, I could see her working by candlelight, her fingers moving steadily over fabric, creating something beautiful from raw materials. She would have questions about why I was so late, about the rumors that were surely already spreading through the village like wildfire.
+
+But first, I wanted one more moment with
