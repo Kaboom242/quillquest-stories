@@ -186,8 +186,6 @@ Most of all, I thought of tomorrow. The festival would likely be canceled, the f
 
 When I reached my mother's shop, I paused before entering. Through the window, I could see her working by candlelight, her fingers moving steadily over fabric, creating something beautiful from raw materials. She would have questions about why I was so late, about the rumors that were surely already spreading through the village like wildfire.
 
-But first, I wanted one more moment with
-
 But first, I wanted one more moment with the weight of what had happened. The night air carried the scent of woodsmoke and approaching autumn, familiar and grounding. I pressed my palm against the shop's rough wooden door frame, and for a moment, I felt it: the echo of countless homecomings, layers of contentment and exhaustion, worry and relief. My mother's emotions, my father's before his death, mine from childhood through to this very moment. This building held our family's story in its bones, just as the green ledger had held the village's secret shame.
 
 The door's bell chimed softly as I entered, and my mother looked up from her work. Elara Ashworth had the kind of face that invited confidences, weathered by years but still striking, with eyes the same unusual amber as mine. Those eyes widened as she took in my appearance, disheveled from the day's upheaval.
@@ -245,5 +243,3 @@ She returned with a small wooden box, its surface smooth with age and handling. 
 Inside was a simple silver ring, unadorned except for a single symbol etched into its band: an eye, half-closed, with rays extending from it like sun or sight. The moment I touched it, I understood. This was a recognition, a sign that others like us had used to find each other across distances and years. My grandmother hadn't been alone, not entirely. There had been others who could feel the echoes, who could give voice to the memories held in stone and steel and fabric.
 
 "She told me once that the gift chooses its own purpose in each generation," my mother said softly. "Her mother used it to find lost children. Your grandmother used it to solve mysteries that plagued the guilty and gave peace to the innocent. And now you've used it to bring justice to those who thought their crimes safely buried. That's no small thing, Sora."
-
-I slippe
