@@ -1,31 +1,21 @@
 # Story Arcs
 
-## Mystery 1 – Claiming Her Gift (3–5 chapters)
-- Inciting incident: Sora’s magic flares in her rural hometown at 16, reading residual echoes in everyday objects.  
-- Backlash: Neighbors brand her power “useless” and fearful whispers drive her family to send her away.  
-- Exile: Sora arrives in Victoria alone, clutching a single satchel and bruised self-worth.  
-- New beginning: A junior clerk’s post at the Guild offers endless paperwork—and no clear purpose.  
-- Catalyst case: A broken silver locket yields echoes of love, loss, and unanswered questions.  
-- First triumph: Sora uses her ability to reunite a grieving widow with the truth, discovering her magic’s real value.  
+# Mystery 1 – Claiming Her Gift (Revised Arc)
 
-## Mystery 2 – Compass of Broken Oaths (4–6 chapters)
-- Discovery: A tarnished brass compass recovered from a sunken smuggler’s ship resonates with betrayal.  
-- Investigation: Residual images reveal gunpowder flashes and whispered pleas in moonlit docks.  
-- Moral crossroads: Captain Ainsworth, haunted by old loyalties, begs Sora to bury the compass’s secret.  
-- Emotional stakes: Sora must balance her oath to history against compassion for a man on the brink of ruin.  
-- Turning point: She exposes a hidden injustice, redefining her relationship to truth and mercy.  
+**Inciting Incident – The Public Fracture**  
+At 16, Sora brushes an old ledger and unintentionally reveals a village elder’s buried betrayal. Instead of awe, she’s met with fear, gossip, and the quiet loss of friends.
 
-## Mystery 3 – The Scarlet Masquerade (3–6 chapters)
-- Assignment: A dusty theatre mask arrives, its velvet now threadbare and muted by time.  
-- Echoes uncovered: Hints of stolen glances, whispered conspiracies, and a final, shattered promise.  
-- Social tension: Revealing the mask’s secret risks toppling the city’s most influential patrons.  
-- Quiet courage: Sora debates silencing the scandal to protect reputations versus honoring the wronged.  
-- Growth moment: Choosing empathy over expedience, she safeguards what remains of both truth and dignity.  
+**Backlash – A Gentle Exile**  
+Her parents send her to Victoria “for education,” knowing she’s no longer welcome. She leaves with one satchel, a tea tin, and a hollow in her chest.
 
-## Mystery 4 – Shards of the Vault (5–8 chapters)
-- Vault breach: Crystal-orb fragments pulsing with high-council corruption arrive under guard.  
-- Layered echoes: Faint traces of altered records, silenced witnesses, and councilors’ hushed collusion.  
-- Ultimate dilemma: Report the scandal and shatter the Guild’s authority—or conceal it to preserve order.  
-- Personal stakes: Sora confronts mentors she once admired, wrestling with loyalty and conscience.  
-- Climactic choice: She opts to expose the rot from within, accepting the fallout of her discovery.  
-- New role: No longer a clerk hidden among ledgers, Sora steps forward as Victoria’s empathic investigator.  
+**New Beginning – The Guild as Paper Cage**  
+Hired as a junior clerk, Sora files forms and brews tea in corridors that smell of ink and quiet ambition. Her magic is dismissed as a curiosity.
+
+**Catalyst Case – The Unfiled Locket**  
+While cataloging confiscated items, she touches a broken silver locket. Echoes reveal a rain-soaked farewell and a promise never kept.
+
+**Moral Dilemma – Healing or Harming**  
+The locket’s story leads to a widow still living in the city. Guild rules forbid interference. Truth could comfort — or reopen wounds.
+
+**First Triumph – Choosing to See**  
+Sora bends protocol: the locket “accidentally” arrives at the widow’s door. Days later, she sees the woman standing taller. Her magic isn’t useless — it’s quietly powerful.
