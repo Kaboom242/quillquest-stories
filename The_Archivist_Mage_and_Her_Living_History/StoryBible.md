@@ -106,31 +106,6 @@ In a world where magic is studied like science and monsters threaten civilizatio
 
 ---
 
-## Plot Structure – Episodic Adventure Arcs
-
-Each arc follows this structure:
-1. **Contract Assigned** – Sora joins or supports a mission.
-2. **Artifact/Monster Encountered** – Echo Sight reveals hidden truths.
-3. **Mystery Unfolds** – Political, magical, or emotional dilemma emerges.
-4. **Climax** – Sora makes a choice that affects the outcome.
-5. **Aftermath** – Growth, consequences, and new opportunities.
-
-### Arc 1 – *The Forgotten Locket*
-- Dungeon: Abandoned train station ruin
-- Monster: C-rank Echo Wraith
-- Artifact: Silver locket with emotional residue
-- Dilemma: Return it illegally or follow protocol
-- Outcome: Sora earns quiet respect, begins questioning Guild norms
-
-### Arc 2 – *The Compass of Lies*
-- Dungeon: Sunken merchant ship
-- Monster: B-rank Sea Serpent
-- Artifact: Brass compass with betrayal echoes
-- Dilemma: Expose noble corruption or protect Guild reputation
-- Outcome: Sora chooses truth, gains allies in the field
-
----
-
 ## Tone & Style
 
 - **Tone**: Light adventure with emotional depth and grounded realism
