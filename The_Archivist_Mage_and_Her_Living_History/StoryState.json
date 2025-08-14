@@ -1,0 +1,19 @@
+{
+  "characters": {
+    "active": [],
+    "inactive": [],
+    "history": []
+  },
+  "locations": [],
+  "foreshadowing": {
+    "pending": [],
+    "resolved": []
+  },
+  "unresolvedThreads": [],
+  "storySummary": "",
+  "worldNotes": "",
+  "timeline": [],
+  "other": {},
+  "lastUpdated": "2025-08-14T20:59:32.211Z",
+  "version": "1.0"
+}
