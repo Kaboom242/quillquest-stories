@@ -24,7 +24,7 @@ This arc follows Sora’s journey from isolation to quiet belonging, as she lear
 
 ---
 ### Chapter 2 – *Rust and Resonance*
-- **Setting**: Glyphmere city, Victoria Guild branch  
+- **Setting**: Glyphmere city, Glyphmere Guild branch  
 - **Scene Beats**:  
   - Sora arrives in Glyphmere and joins the Guild as a clerk  
   - Navigates the bustling, layered city and her quiet role in the archives  
