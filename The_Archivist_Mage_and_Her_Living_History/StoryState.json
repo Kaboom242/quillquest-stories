@@ -2,107 +2,11 @@
   "characters": {
     "active": [
       {
-        "name": "Age",
+        "name": "Sora Remniel",
         "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** 19 (young adult)",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "Height",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Petite (approx. 155 cm / 5'1\")",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "Build",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Slender, bookish",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "Hair",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Ash-brown, shoulder-length, often tied with a ribbon or quill",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "Eyes",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Soft amber with subtle silver flecks (magical shimmer when active)",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "Clothing",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Rumpled guild archivist robes (muted blues/greys), practical satchels",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "Accessories",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Charm bracelet of past investigation trinkets, well-worn guild badge",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "Aura",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Gentle, unassuming, but intense when focused; often underestimated",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "- Optimistic Realist",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Believes in a better world if truths are confronted",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "- Emotionally Intelligent",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Reads people and magical residue easily",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "- Introspective & Witty",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Inner monologues filled with humor and self-reflection",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "- Stubborn",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Won't back down from what's right",
-        "introducedIn": "Migrated from Character.md"
-      },
-      {
-        "name": "- Comfort-Oriented",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "** Loves tea, blankets, quiet corners; uses rituals to ground herself",
+        "description": "A 19-year-old junior clerk at the Adventurer’s Guild with a rare empathic magic called Echo Sight. Quietly resilient, emotionally intelligent, and often underestimated, Sora reads emotional residue from objects and people to uncover hidden truths.",
+        "appearance": "- **Age:** 19 (young adult)\n- **Height:** Petite (approx. 155 cm / 5'1\")\n- **Build:** Slender, bookish\n- **Hair:** Ash-brown, shoulder-length, often tied with a ribbon or quill\n- **Eyes:** Soft amber with subtle silver flecks (magical shimmer when active)\n- **Clothing:** Rumpled guild archivist robes (muted blues/greys), practical satchels\n- **Accessories:** Charm bracelet of past investigation trinkets, well-worn guild badge\n- **Aura:** Gentle, unassuming, but intense when focused; often underestimated",
+        "personality": "- **Optimistic Realist:** Believes in a better world if truths are confronted\n- **Emotionally Intelligent:** Reads people and magical residue easily\n- **Introspective & Witty:** Inner monologues filled with humor and self-reflection\n- **Stubborn:** Won't back down from what's right\n- **Comfort-Oriented:** Loves tea, blankets, quiet corners; uses rituals to ground herself",
         "introducedIn": "Migrated from Character.md"
       }
     ],
