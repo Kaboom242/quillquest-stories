@@ -10,14 +10,6 @@
         "introducedIn": "Chapter 1 – The Ledger and the Lie"
       },
       {
-        "name": "Elder Matthias",
-        "status": "active",
-        "description": "Village leader of Millhaven for 20 years. Took a bribe to falsify bridge inspection records, leading to the deaths of three merchants. Believed his actions would preserve village prosperity.",
-        "appearance": "",
-        "personality": "",
-        "introducedIn": "Chapter 1 – The Ledger and the Lie"
-      },
-      {
         "name": "Elara Ashworth",
         "status": "active",
         "description": "Sora’s mother, a seamstress who knows about her daughter’s empathic gift. Protective and aware of the family’s magical lineage.",
@@ -59,7 +51,16 @@
       }
     ],
     "inactive": [],
-    "history": []
+    "history": [
+      {
+        "name": "Elder Matthias",
+        "status": "history",
+        "description": "Village leader of Millhaven for 20 years. Took a bribe to falsify bridge inspection records, leading to the deaths of three merchants. Believed his actions would preserve village prosperity.",
+        "appearance": "",
+        "personality": "",
+        "introducedIn": "Chapter 1 – The Ledger and the Lie"
+      }
+    ]
   },
   "locations": [],
   "foreshadowing": {
@@ -87,6 +88,6 @@
   "worldNotes": "",
   "timeline": [],
   "other": {},
-  "lastUpdated": "2025-08-14T23:09:09.099Z",
+  "lastUpdated": "2025-08-15T00:04:01.600Z",
   "version": "1.0"
 }
