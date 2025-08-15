@@ -48,6 +48,33 @@
         "description": "",
         "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
         "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
+      },
+      {
+        "name": "Marcus Ironwood",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook"
+      },
+      {
+        "name": "Thomas Graystone",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook"
+      },
+      {
+        "name": "Kael Ironwood",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook"
       }
     ],
     "inactive": [],
@@ -125,6 +152,34 @@
         "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
         "category": "plot",
         "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755297134463-rfmk04043",
+        "description": "Brass key with arcane symbols, potentially revealing a hidden location",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755297134463-u0kby0s27",
+        "description": "Suppressed information about Westmere region",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755297134463-8c4qutawa",
+        "description": "Hint of a larger conspiracy within the Guild",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755297134463-ll9gdh3vc",
+        "description": "Suggestion of a specific artifact or information being deliberately concealed",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
       }
     ],
     "resolved": []
@@ -192,6 +247,41 @@
       "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
       "category": "mystery",
       "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755297134463-lrduogsq5",
+      "description": "What specific information is being suppressed about Westmere?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755297134463-2z99vda26",
+      "description": "What is the purpose of the targeted artifact recovery?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755297134463-whfmaqhsy",
+      "description": "Who else in the Guild might be involved in the conspiracy?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755297134463-57wfls4t9",
+      "description": "What does the brass key unlock?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755297134463-rpp4s35zu",
+      "description": "What happened to Marcus Ironwood?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
     }
   ],
   "storySummary": "",
@@ -217,6 +307,6 @@
   },
   "timeline": [],
   "other": {},
-  "lastUpdated": "2025-08-15T05:11:29.740Z",
+  "lastUpdated": "2025-08-15T22:32:14.463Z",
   "version": "1.0"
 }
