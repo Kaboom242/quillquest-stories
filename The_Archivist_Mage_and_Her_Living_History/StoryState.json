@@ -4,10 +4,12 @@
       {
         "name": "Sora Ashworth",
         "status": "active",
-        "description": "A 19-year-old junior clerk at the Adventurer’s Guild with a rare empathic magic called Echo Sight. Quietly resilient, emotionally intelligent, and often underestimated, Sora reads emotional residue from objects and people to uncover hidden truths.",
+        "description": "",
         "appearance": "- **Age:** 19 (young adult)\n- **Height:** Petite (approx. 155 cm / 5'1\")\n- **Build:** Slender, bookish\n- **Hair:** Ash-brown, shoulder-length, often tied with a ribbon or quill\n- **Eyes:** Soft amber with subtle silver flecks (magical shimmer when active)\n- **Clothing:** Rumpled guild archivist robes (muted blues/greys), practical satchels\n- **Accessories:** Charm bracelet of past investigation trinkets, well-worn guild badge\n- **Aura:** Gentle, unassuming, but intense when focused; often underestimated",
-        "personality": "- **Optimistic Realist:** Believes in a better world if truths are confronted\n- **Emotionally Intelligent:** Reads people and magical residue easily\n- **Introspective & Witty:** Inner monologues filled with humor and self-reflection\n- **Stubborn:** Won't back down from what's right\n- **Comfort-Oriented:** Loves tea, blankets, quiet corners, reading; uses rituals to ground herself",
-        "introducedIn": "Chapter 1 – The Ledger and the Lie"
+        "personality": "",
+        "introducedIn": "Chapter 1 – The Ledger and the Lie",
+        "traits": "",
+        "lastSeenIn": "Chapter 3: Untitled"
       },
       {
         "name": "Elara Ashworth",
@@ -36,10 +38,12 @@
       {
         "name": "Master Aldric",
         "status": "active",
-        "description": "Elderly dwarf and head archivist of the Glyphmere Guild. Pragmatic, experienced, and quietly observant.",
+        "description": "",
         "appearance": "",
         "personality": "",
-        "introducedIn": "Chapter 2 – Rust and Resonance"
+        "introducedIn": "Chapter 2 – Rust and Resonance",
+        "traits": "",
+        "lastSeenIn": "Chapter 3: Untitled"
       },
       {
         "name": "Elena Brightquill",
@@ -48,6 +52,24 @@
         "appearance": "",
         "personality": "",
         "introducedIn": "Chapter 2 – Rust and Resonance"
+      },
+      {
+        "name": "Kael",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 3: Untitled",
+        "introducedIn": "Chapter 3: Untitled"
+      },
+      {
+        "name": "Elena",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 3: Untitled",
+        "introducedIn": "Chapter 3: Untitled"
       }
     ],
     "inactive": [],
@@ -71,7 +93,35 @@
       "Sora's emerging role as a truth-revealer",
       "Hints of larger conspiracy within the Guild",
       "Potential future conflicts around Sora's magical abilities",
-      "Unresolved mystery about the shrine and what Marcus Ironwood discovered"
+      "Unresolved mystery about the shrine and what Marcus Ironwood discovered",
+      {
+        "id": "1755164980632-1755219280130-o18jdqoss",
+        "description": "Unusual goblin population surges across multiple villages",
+        "introducedIn": "Chapter 3: Untitled",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755164980632-1755219280130-uksan03py",
+        "description": "Hints of a hidden 'Westmere Covenant'",
+        "introducedIn": "Chapter 3: Untitled",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755164980632-1755219280130-yckjfz8el",
+        "description": "Artifacts suggesting a historical archive of suppressed knowledge",
+        "introducedIn": "Chapter 3: Untitled",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755164980632-1755219280130-ab3scn7h7",
+        "description": "Guild's potential involvement in systematic information suppression",
+        "introducedIn": "Chapter 3: Untitled",
+        "category": "plot",
+        "importance": "medium"
+      }
     ],
     "resolved": []
   },
@@ -82,12 +132,47 @@
     "The broader implications of the bridge collapse investigation",
     "Identity of the unknown accomplice in Marcus Ironwood's murder",
     "What valuable or dangerous information was being hidden",
-    "Potential broader corruption within the Adventurer's Guild"
+    "Potential broader corruption within the Adventurer's Guild",
+    {
+      "id": "1755164980632-1755219280130-rpbur9334",
+      "description": "What really happened to Marcus Ironwood?",
+      "introducedIn": "Chapter 3: Untitled",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755164980632-1755219280130-z6198uy6c",
+      "description": "Nature and purpose of the Westmere Covenant",
+      "introducedIn": "Chapter 3: Untitled",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755164980632-1755219280130-j5rl7udv1",
+      "description": "Identity of external parties paying the Guild for information suppression",
+      "introducedIn": "Chapter 3: Untitled",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755164980632-1755219280130-bvpq0rd4f",
+      "description": "Full context of the magical artifacts from the Westmere ruins",
+      "introducedIn": "Chapter 3: Untitled",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755164980632-1755219280130-k75ecvxog",
+      "description": "Origin and meaning of the goblin population surge",
+      "introducedIn": "Chapter 3: Untitled",
+      "category": "mystery",
+      "importance": "medium"
+    }
   ],
   "storySummary": "",
   "worldNotes": "",
   "timeline": [],
   "other": {},
-  "lastUpdated": "2025-08-15T00:04:01.600Z",
+  "lastUpdated": "2025-08-15T00:54:40.130Z",
   "version": "1.0"
 }
