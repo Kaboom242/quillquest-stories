@@ -12,6 +12,42 @@
           "Curious and determined"
         ],
         "lastSeenIn": "Chapter 3: Untitled"
+      },
+      {
+        "name": "Sora",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
+      },
+      {
+        "name": "Kael",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
+      },
+      {
+        "name": "Elena",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
+      },
+      {
+        "name": "Master Aldric",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": "",
+        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
       }
     ],
     "inactive": [],
@@ -61,6 +97,34 @@
         "introducedIn": "Chapter 3: Untitled",
         "category": "plot",
         "importance": "high"
+      },
+      {
+        "id": "1755234053713-1755234689740-j44lfww5g",
+        "description": "Mysterious request for Sora's divination services",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755234053713-1755234689740-co9xob2gb",
+        "description": "Magical staff that was deliberately damaged to prevent misuse",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755234053713-1755234689740-n2htv7q11",
+        "description": "Potential ongoing conspiracy involving archaeological discoveries",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755234053713-1755234689740-wooak5fyx",
+        "description": "Suggestion that forces are actively tracking or interested in Sora's abilities",
+        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+        "category": "plot",
+        "importance": "medium"
       }
     ],
     "resolved": []
@@ -100,6 +164,34 @@
       "introducedIn": "Chapter 3: Untitled",
       "category": "mystery",
       "importance": "high"
+    },
+    {
+      "id": "1755234053713-1755234689740-gmdzl0uxb",
+      "description": "True cause of Marcus Ironwood's death",
+      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755234053713-1755234689740-gwuf05x6c",
+      "description": "Identity and motives of the anonymous requester",
+      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755234053713-1755234689740-hi1za5hvf",
+      "description": "Extent of the potential archaeological discovery conspiracy",
+      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755234053713-1755234689740-ty1buzu9g",
+      "description": "Details of the dangerous magic found in the wizard's staff",
+      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
+      "category": "mystery",
+      "importance": "medium"
     }
   ],
   "storySummary": "",
@@ -125,6 +217,6 @@
   },
   "timeline": [],
   "other": {},
-  "lastUpdated": "2025-08-15T00:54:59.649Z",
+  "lastUpdated": "2025-08-15T05:11:29.740Z",
   "version": "1.0"
 }
