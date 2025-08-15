@@ -2,12 +2,60 @@
   "characters": {
     "active": [
       {
-        "name": "Sora Remniel",
+        "name": "Sora Ashworth",
         "status": "active",
         "description": "A 19-year-old junior clerk at the Adventurer’s Guild with a rare empathic magic called Echo Sight. Quietly resilient, emotionally intelligent, and often underestimated, Sora reads emotional residue from objects and people to uncover hidden truths.",
         "appearance": "- **Age:** 19 (young adult)\n- **Height:** Petite (approx. 155 cm / 5'1\")\n- **Build:** Slender, bookish\n- **Hair:** Ash-brown, shoulder-length, often tied with a ribbon or quill\n- **Eyes:** Soft amber with subtle silver flecks (magical shimmer when active)\n- **Clothing:** Rumpled guild archivist robes (muted blues/greys), practical satchels\n- **Accessories:** Charm bracelet of past investigation trinkets, well-worn guild badge\n- **Aura:** Gentle, unassuming, but intense when focused; often underestimated",
-        "personality": "- **Optimistic Realist:** Believes in a better world if truths are confronted\n- **Emotionally Intelligent:** Reads people and magical residue easily\n- **Introspective & Witty:** Inner monologues filled with humor and self-reflection\n- **Stubborn:** Won't back down from what's right\n- **Comfort-Oriented:** Loves tea, blankets, quiet corners, Reading; uses rituals to ground herself",
-        "introducedIn": "Migrated from Character.md"
+        "personality": "- **Optimistic Realist:** Believes in a better world if truths are confronted\n- **Emotionally Intelligent:** Reads people and magical residue easily\n- **Introspective & Witty:** Inner monologues filled with humor and self-reflection\n- **Stubborn:** Won't back down from what's right\n- **Comfort-Oriented:** Loves tea, blankets, quiet corners, reading; uses rituals to ground herself",
+        "introducedIn": "Chapter 1 – The Ledger and the Lie"
+      },
+      {
+        "name": "Elder Matthias",
+        "status": "active",
+        "description": "Village leader of Millhaven for 20 years. Took a bribe to falsify bridge inspection records, leading to the deaths of three merchants. Believed his actions would preserve village prosperity.",
+        "appearance": "",
+        "personality": "",
+        "introducedIn": "Chapter 1 – The Ledger and the Lie"
+      },
+      {
+        "name": "Elara Ashworth",
+        "status": "active",
+        "description": "Sora’s mother, a seamstress who knows about her daughter’s empathic gift. Protective and aware of the family’s magical lineage.",
+        "appearance": "",
+        "personality": "",
+        "introducedIn": "Chapter 1 – The Ledger and the Lie"
+      },
+      {
+        "name": "Kael Ironwood",
+        "status": "active",
+        "description": "Bronze-ranked adventurer and son of Marcus Ironwood. Grieving and determined to uncover the truth about his father’s death.",
+        "appearance": "",
+        "personality": "",
+        "introducedIn": "Chapter 2 – Rust and Resonance"
+      },
+      {
+        "name": "Thomas Graystone",
+        "status": "active",
+        "description": "Former adventurer turned Guild assessor. Involved in the murder of Marcus Ironwood and part of a possible conspiracy.",
+        "appearance": "",
+        "personality": "",
+        "introducedIn": "Chapter 2 – Rust and Resonance"
+      },
+      {
+        "name": "Master Aldric",
+        "status": "active",
+        "description": "Elderly dwarf and head archivist of the Glyphmere Guild. Pragmatic, experienced, and quietly observant.",
+        "appearance": "",
+        "personality": "",
+        "introducedIn": "Chapter 2 – Rust and Resonance"
+      },
+      {
+        "name": "Elena Brightquill",
+        "status": "active",
+        "description": "Junior clerk in the Guild Archives. Efficient, knowledgeable, and a potential mentor or ally to Sora.",
+        "appearance": "",
+        "personality": "",
+        "introducedIn": "Chapter 2 – Rust and Resonance"
       }
     ],
     "inactive": [],
@@ -15,10 +63,26 @@
   },
   "locations": [],
   "foreshadowing": {
-    "pending": [],
+    "pending": [
+      "The silver ring with the eye symbol",
+      "Hints about a lineage of women with special abilities",
+      "Potential future conflicts in the village",
+      "Sora's emerging role as a truth-revealer",
+      "Hints of larger conspiracy within the Guild",
+      "Potential future conflicts around Sora's magical abilities",
+      "Unresolved mystery about the shrine and what Marcus Ironwood discovered"
+    ],
     "resolved": []
   },
-  "unresolvedThreads": [],
+  "unresolvedThreads": [
+    "The full extent of Sora's ability to read object echoes",
+    "The merchant Garrett Stonefield's whereabouts",
+    "The future leadership of Millhaven village",
+    "The broader implications of the bridge collapse investigation",
+    "Identity of the unknown accomplice in Marcus Ironwood's murder",
+    "What valuable or dangerous information was being hidden",
+    "Potential broader corruption within the Adventurer's Guild"
+  ],
   "storySummary": "",
   "worldNotes": "",
   "timeline": [],
