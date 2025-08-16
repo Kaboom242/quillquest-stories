@@ -7,5 +7,15 @@
     "Book 1": {
       "name": "Roots of Witchcraft"
     }
-  }
+  },
+  "chapters": [
+    {
+      "id": "1755357871931",
+      "title": "Echoes of an Ancient Awakening",
+      "approved": false,
+      "book": "Book 1",
+      "order": 1,
+      "summary": "{\n  \"plotPoints\": [\n    \"Lin Xiu accepts a mysterious dungeon investigation contract from the Ministry of Magical Anomalies\",\n    \"The dungeon exhibits unusual behavior: shifting layouts, responsive architecture, and inconsistent magical signatures\",\n    \"Contract involves documenting a pre-Cataclysm dungeon that seems to have its own consciousness\",\n    \"Lin Xiu plans to bring her golem companion Cairn on the investigation\"\n  ],\n  \"characters\": [\n    {\n      \"name\": \"Lin Xiu\",\n      \"background\": [\n        \"Experienced Bronze-rank adventurer\",\n        \"Trained in Witchcraft by her grandmother\",\n        \"Believes in spiritual awareness of magical constructions\",\n        \"Curious and analytical investigator\"\n      ]\n    },\n    {\n      \"name\": \"Mira\",\n      \"background\": [\n        \"Experienced receptionist at the Adventurer's Guild\",\n        \"Has worked at the guild for five years\",\n        \"Intuitive about magical anomalies\"\n      ]\n    },\n    {\n      \"name\": \"Cairn\",\n      \"background\": [\n        \"Lin Xiu's golem companion\",\n        \"Potentially unique in how it might interact with the dungeon\"\n      ]\n    }\n  ],\n  \"relationships\": [\n    \"Professional rapport between Lin Xiu and Mira\",\n    \"Lin Xiu's reverence for her grandmother's magical teachings\"\n  ],\n  \"emotionalBeats\": [\n    \"Lin Xiu's excitement about investigating an unknown magical phenomenon\",\n    \"Underlying tension about the potential dangers of the dungeon\",\n    \"Curiosity overriding caution about the mysterious investigation\"\n  ],\n  \"foreshadowing\": [\n    \"The dungeon's ability to change and potentially think\",\n    \"Pre-Cataclysm runes that shift when observed\",\n    \"Hints of an ancient, possibly sentient magical construct\",\n    \"Potential awakening of a long-dormant magical entity\"\n  ],\n  \"unresolvedThreads\": [\n    \"The true nature and origin of the shape-shifting dungeon\",\n    \"The purpose of the pre-Cataclysm magical construction\",\n    \"What happened to the previous survey teams\",\n    \"The meaning of the changing runes\",\n    \"The potential consciousness within the dungeon\"\n  ],\n  \"shortSummary\": \"Lin Xiu accepts a dangerous dungeon investigation contract for the Ministry of Magical Anomalies, discovering a pre-Cataclysm site with mysterious, potentially sentient characteristics. The investigation promises to challenge everything known about magical constructs and ancient magical practices.\"\n}"
+    }
+  ]
 }
