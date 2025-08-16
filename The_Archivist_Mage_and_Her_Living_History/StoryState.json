@@ -180,6 +180,34 @@
         "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
         "category": "plot",
         "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755305490840-7xkiv260a",
+        "description": "Mysterious brass key with arcane symbols",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755305490840-c78tvhx80",
+        "description": "Hints of a hidden room with significant documents in Westmere",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755305490840-atpqg5nct",
+        "description": "Suggestion of a larger conspiracy within the Guild",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755297021599-1755305490840-syjnluej8",
+        "description": "Potential connection between artifact acquisitions and information suppression",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "plot",
+        "importance": "medium"
       }
     ],
     "resolved": []
@@ -282,6 +310,41 @@
       "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
       "category": "mystery",
       "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755305490840-k4hej8wmt",
+      "description": "What is the significance of the unusual goblin activity?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755305490840-6qjk5r7p4",
+      "description": "What specific artifact or information is being hidden?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755305490840-bbx73gkwt",
+      "description": "Who exactly is involved in the information suppression?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755305490840-d5dkcj9om",
+      "description": "What is the purpose of the mysterious brass key?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755297021599-1755305490840-69gnsml4n",
+      "description": "What happened in the Westmere region?",
+      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "category": "mystery",
+      "importance": "medium"
     }
   ],
   "storySummary": "",
@@ -307,6 +370,6 @@
   },
   "timeline": [],
   "other": {},
-  "lastUpdated": "2025-08-15T22:32:14.463Z",
+  "lastUpdated": "2025-08-16T00:51:30.840Z",
   "version": "1.0"
 }
