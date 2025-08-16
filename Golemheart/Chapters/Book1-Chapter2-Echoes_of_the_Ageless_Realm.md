@@ -2,7 +2,7 @@
 
 The familiar weight of her travel pack settled across Lin Xiu's shoulders as she made her way through the early morning streets toward the workshop behind her cottage. Three days had passed since accepting the Ministry contract, three days of methodical preparation that had transformed her usual collection of Witchcraft supplies into a carefully curated expedition kit. The rain had finally cleared, leaving the cobblestones gleaming under pale sunlight and the air crisp with the promise of good traveling weather.
 
-Her fingers traced the edge of a clay tablet tucked into her satchel, feeling the subtle ridges of the runes she'd etched there the night before. Protection wards, mostly, along with a few divination arrays that might help her understand whatever consciousness seemed to inhabit the mysterious dungeon. The familiar texture of the clay beneath her fingertips was reassuring, a tangible connection to the traditions her grandmother had passed down through generations of careful teaching.
+Her fingers traced the edge of a clay tablet tucked into her satchel, feeling the subtle ridges of the runes she'd etched there the night before. Protection wards, mostly, along with a few divination arrays that might help her understand whatever consciousness seemed to inhabit the mysterious dungeon. The familiar texture of the clay beneath her fingertips was reassuring, a tangible connection to the traditions her grandmother had passed down through generations of careful teaching. Sometimes, when the night was quiet, she imagined the old spirits of the land watching over her work, unseen but ever-present.
 
 The workshop door creaked open at her approach, though she hadn't touched the handle. Cairn always seemed to know when she was coming, some subtle awareness that extended beyond the normal range of constructed senses. She found her golem companion standing beside the workbench, massive hands delicately arranging travel supplies with the sort of precision that still amazed her after all these years together.
 
@@ -42,25 +42,19 @@ The philosophical implications made Lin Xiu's head spin, but she tucked them awa
 
 "Always." Cairn gathered his own supplies with fluid grace, the heavy materials seeming weightless in his powerful hands. "Though I reserve the right to remind you of this moment if we end up trapped in a maze built by an ancient mind with questionable intentions."
 
-The journey north from the city took them along well-maintained roads for the first day, passing through farmland where the late harvest painted the fields in shades of gold and amber. Lin Xiu found herself studying the way magic flowed through the landscape, visible as faint streams of light when viewed through the lens of her spirit lantern. The laylines here were strong and stable, following predictable patterns that had been mapped and studied for centuries.
+The journey north from the city took them along well-maintained roads for the first day, passing through farmland where the late harvest painted the fields in shades of gold and amber. Lin Xiu found herself studying the way magic flowed through the landscape, visible as faint streams of light when viewed through the lens of her spirit lantern. The laylines here were strong and stable, following predictable patterns that had been mapped and studied for centuries. She wondered if the silent caretakers—the spirits her grandmother spoke of—walked these fields, tending the currents and keeping the land in balance.
 
 But as they traveled further from civilization, she began to notice subtle irregularities. Places where the magical currents seemed to hesitate or pool unexpectedly, as if something far ahead was creating disturbances in the normal flow of energy. By the time they reached the waystation halfway to their destination, the anomalies had become pronounced enough that even Cairn could sense them without any special equipment.
 
 "The laylines are twisted," he observed as they made camp beside the stone waystation, his voice carrying a note of concern that Lin Xiu had learned to take seriously. "Not broken or corrupted, but... bent. As if something massive is pulling them out of their natural alignment."
 
-Lin Xiu held up her spirit lantern, studying the streams of magical energy that flowed overhead like aurora in miniature. What should have been smooth, parallel currents were instead drawn into complex spirals and knots, all of them pointing toward the north where their destination waited. "I've never seen anything like this. It's as if the laylines are being actively manipulated rather than just disrupted."
-
-"Your grandmother's stories mentioned that the ancient practitioners could reshape the flow of magic itself, weaving it into patterns that served their purposes." Cairn settled beside their small fire, his clay form radiating gentle warmth that supplemented the flames. "If something from that era is still active..."
-
-"Then we might be walking into a situation far more significant than just an anomalous dungeon." Lin Xiu pulled out one of her clay tablets and began etching notes about the layline distortions, her fingers working automatically while her mind raced through possibilities. "The Ministry thought they were investigating a simple magical phenomenon. They have no idea they might have found a surviving piece of the pre-Cataclysm world."
-
-As they journeyed north, Lin Xiu found herself sharing more stories with Cairn—tales of her grandmother's lessons, the odd rituals, and the laughter that filled their cabin. Cairn listened with patient amusement, occasionally offering a dry comment or a gentle tease that made Lin Xiu roll her eyes and smile. The subtle ways he echoed her grandmother's mannerisms—never quite the same, but always familiar—were a comfort she rarely acknowledged aloud.
+"Then we might be walking into a situation far more significant than just an anomalous dungeon." Lin Xiu pulled out her battered leather-bound journal, flipping to a fresh page. She began jotting down observations about the layline distortions, her handwriting quick and precise as her mind raced through possibilities. The act of writing in her grandmother's old script grounded her, connecting her thoughts to the lineage of Witchcrafters who had come before. "The Ministry thought they were investigating a simple magical phenomenon. They have no idea they might have found a surviving piece of the pre-Cataclysm world."
 
 The second day of travel took them off the main roads and onto forest paths that showed little sign of regular use. The trees here were ancient, their trunks thick enough that it would take several people holding hands to encircle them, their canopy so dense that even midday felt like twilight. The twisted laylines grew stronger with each mile, until Lin Xiu could see them without her spirit lantern, silver threads weaving between the trees like spiderwebs made of light.
 
 "The forest is unusually quiet," Cairn observed as they picked their way along a trail marked only by subtle differences in the spacing of trees. "I haven't heard a single bird or animal call in over an hour."
 
-Lin Xiu nodded, having noticed the same eerie silence. Even the wind seemed muted here, as if the very air was holding its breath. "Animals are sensitive to magical disturbances. If something ahead is powerful enough to reshape the laylines, it's probably powerful enough to make wildlife deeply nervous. Grandma used to say that the old places could hush a forest for miles."
+Lin Xiu nodded, having noticed the same eerie silence. Even the wind seemed muted here, as if the very air was holding its breath. "Animals are sensitive to magical disturbances. If something ahead is powerful enough to reshape the laylines, it's probably powerful enough to make wildlife deeply nervous. Grandma used to say that the old places could hush a forest for miles. Maybe the spirits are watching, waiting to see who dares enter."
 
 Cairn's response was a low, amused rumble. "And yet you still insist on walking straight into them."
 
@@ -76,6 +70,8 @@ Cairn moved to stand beside her, his crystalline heart pulsing in rhythm with th
 
 As if responding to their presence, the carvings on the nearest standing stone began to glow with soft, warm light. The illumination spread from stone to stone until the entire circle was outlined against the growing darkness, and Lin Xiu could see what the survey teams had described as the dungeon entrance. The hillside at the center of the circle was opening like a flower, stone petals folding back to reveal a passage that descended into earth lit by the same gentle radiance.
 
+As they approached the standing stones, Lin Xiu could feel the ancient magic responding to her presence in ways that sent shivers through her spiritual senses. The laylines that had seemed twisted and chaotic from a distance revealed themselves to be woven into patterns of incredible complexity and beauty, each thread of energy precisely placed to serve purposes she could only begin to guess at. She felt certain the spirits were near, tending the flows and guarding the secrets of the place.
+
 "It knows we're here," Cairn said quietly. "And I think it's inviting us in."
 
 Lin Xiu felt a tremor of excitement mixed with apprehension as she studied the opening. The magical signature was unlike anything in her experience, but there was something familiar about it nonetheless. It felt like coming home to a place she'd never been, like remembering a dream that had somehow become real.
@@ -90,13 +86,21 @@ The entrance passage was wide enough for two people to walk abreast, its walls c
 
 "The writing is definitely pre-Cataclysm," she said, running her fingers along one of the carved passages. The stone was warm to the touch and seemed to respond to her spiritual energy with gentle pulses of light. "But it's not just decorative. These are functional runes, part of the structure's magical framework."
 
-Cairn paused to examine another section of wall, his clay features creased in concentration. "They're written in multiple scripts layered over each other. Some of them look familiar from your grandmother's notes, but others are completely foreign to me."
+The golem moved to stand beside her, his crystalline heart casting rainbow reflections across the glowing runes. "The patterns remind me of something," he said slowly. "Not from your grandmother's teachings, but from the structure of the magic itself. There's a logic to it—a kind of order and intent that feels familiar, even if I can't name it."
+
+Lin Xiu studied the shifting runes, her brow furrowing. "Familiar how?"
+
+Cairn traced a line of light with one clay fingertip, careful not to disturb the delicate energy. "It's like recognizing the style of a master craftsman. The way the energy is woven, the symmetry, the purpose behind each thread. Whoever built this, they understood Witchcraft at a level I've never seen."
+
+Lin Xiu nodded, her excitement tempered by awe. "My grandmother used to say that true Witchcraft isn't just about power—it's about intention, about listening to the world and shaping it with respect. She believed the land itself is alive, tended by spirits that dwell in the laylines and watch over the forests and rivers. Most people think they're just old stories, but I know they're real."
+
+She glanced at the glowing runes, her voice softening. "The spirits—the silent caretakers. They're never seen, but I feel them sometimes, especially in places like this. When the laylines are strong and the magic is pure, it's as if the world is being tended by invisible hands. The animals sense it too, even if people have forgotten."
+
+Cairn regarded her with quiet respect. "If those spirits are here, they've been watching over this place for centuries. Maybe that's why the magic feels so... whole."
+
+The runes on the wall pulsed brighter, as if responding to their conversation, and Lin Xiu felt a presence touch the edges of her consciousness. Not hostile or threatening, but ancient beyond imagining and patient in ways that made her realize how brief and hurried her own existence was by comparison. Something was indeed awake in this place, and it had been waiting for a very long time for someone who could understand what it was trying to say.
 
 As they descended deeper into the passage, Lin Xiu began to notice something that none of the survey reports had mentioned. The runes weren't just shifting when observed—they were actively rearranging themselves in response to her presence, forming new combinations and patterns that seemed designed to communicate. It was as if the dungeon was trying to speak to her in a language she almost but not quite understood.
-
-"Cairn," she whispered, stopping to study a particularly complex array that had just reformed itself across an entire wall section. "I think it's trying to talk to us."
-
-The golem moved to stand beside her, his crystalline heart casting rainbow reflections across the glowing runes. "The patterns remind me of something," he said slowly. "Not from your grandmother's teachings, but from deeper memories. Dreams I sometimes have that feel more like echoes of the past."
 
 The implications of that statement sent a chill through Lin Xiu's understanding. If Cairn was experiencing memory echoes from the manastone that served as his heart, and if that manastone had belonged to her grandmother, then the memories might stretch back through generations of practitioners to the time before the Cataclysm itself.
 

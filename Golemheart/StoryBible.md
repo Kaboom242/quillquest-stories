@@ -121,6 +121,10 @@ Western Magic in Elarion is structured, academic, and widely practiced. It resem
 
 Witchcraft in this world is rooted in the belief that everything has a spirit, and that creation is a sacred act. Drawing deeply from Chinese folklore and cultivation, practitioners do not simply cast spells—they build, bind, awaken, and cultivate their own spirit. The system is defined by five core pillars, each reflecting aspects of spiritual growth, harmony, and the pursuit of enlightenment:
 
+### Animist Spirits & Laylines
+- The land is alive, tended by Animist-style spirits—silent caretakers who dwell in the laylines, forests, and rivers. These spirits are rarely seen, but their influence is felt in the health of the land, the flow of magic, and the behavior of animals. Most people dismiss them as folklore, but Lin Xiu’s worldview and Witchcraft practice are deeply shaped by their presence. She senses them in places of strong magic and believes they guide, protect, and sometimes test practitioners.
+- Spirits are especially important in Witchcraft: overharvesting, neglect, or disrespect can anger them, weakening magic or causing unpredictable effects. Rituals, offerings, and respectful cultivation help maintain harmony with these unseen guardians.
+
 ### Pillars of Witchcraft
 1. **Claybinding – Magic of Form and Foundation**
    - Manipulating earth and clay to create constructs, barriers, and vessels. Golem creation is the pinnacle art, using an etched manastone as its core—known as the Golem Heart. The manastone functions as a dantian, storing and circulating qi (life energy).
@@ -139,14 +143,14 @@ Witchcraft in this world is rooted in the belief that everything has a spirit, a
    - Used for sympathetic magic (e.g., a lock of hair binding two people’s fates), remote sensing, or emotional tethering. Threads can fray, snap, or be rewoven—symbolizing change and choice.
    - Witches can sense and manipulate threads to influence relationships, destinies, or magical flows. Threadcraft is subtle and requires great focus; mistakes can cause unintended consequences or sever important bonds.
    - Rituals may involve weaving, knotting, or embroidery. Can be enhanced by using enchanted needles, spirit silk, or even the hair of spirit beasts.
-   - Limitations: Threadcraft cannot force true love or fate, only nudge or reveal connections. Severing threads can cause emotional pain or magical backlash.
+   - Limitations: Threadcraft cannot force true love or fate, only nudge or reveal connections. Severing threads can cause emotional pain or magical backlash. Spirits are believed to tend and repair the laylines, maintaining balance.
 
 4. **Hearthflame – Magic of Protection and Presence**
    - Centered around warmth, light, and sanctuary. Fire is nurturing, not destructive—like a hearth. Ritual fires are used for ancestor offerings, burning talismans, and purifying spaces.
    - Wards, healing, and emotional resilience. Rituals include warding circles, healing fires, and the creation of protective charms.
    - Fire pits and kilns are sacred spaces for firing clay, brewing potions, infusing thread with mana, and burning incense. Emotional states (hope, grief, joy) affect the strength and nature of hearthflame magic.
    - Hearthflame can purify spaces, banish minor spirits, and restore vitality. It is often used in community rituals and celebrations.
-   - Limitations: Hearthflame cannot destroy or harm intentionally; its power wanes in places of despair or deep cold.
+   - Limitations: Hearthflame cannot destroy or harm intentionally; its power wanes in places of despair or deep cold. Offerings to spirits are often made through hearthflame rituals.
 
 5. **Horticulture – Magic of Growth and Renewal**
    - Cultivating herbs, mushrooms, and magical plants for spellwork, potions, and rituals. Witch-gardeners use enchanted soil, mana-infused water, and ritual planting to enhance potency. Alchemy and herbal medicine are central, echoing Chinese traditions of spiritual and physical healing.
@@ -162,7 +166,7 @@ Witchcraft in this world is rooted in the belief that everything has a spirit, a
 - Fire pits and kilns for crafting advanced magic; warding circles, healing fires
 - Chalk / Manapen and Tablet for portable etching
 - Ritual knives, ancestor tablets
-- Spirit lanterns, used to better see Sprites and the Laylines they follow
+- Spirit lanterns, used to better see Laylines they follow; sometimes used to sense Animist spirits
 - Flying Broom
 - Spirit beast contracts, used to summon or bond with magical creatures
 

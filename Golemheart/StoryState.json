@@ -4,230 +4,150 @@
       {
         "name": "Lin Xiu",
         "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
+        "traits": "Curious, quirky, clever, reform-minded, deeply spiritual, persistent, often oblivious to chaos she causes",
+        "personality": "Happy, sassy, idealistic, compassionate, practical, deeply believes in Animist spirits and Witchcraft traditions",
+        "appearance": "Petite, with expressive dark eyes, long black hair often tied back, usually dressed in practical travel clothes and a well-worn cloak. Hands often stained with ink or clay from her magical work.",
+        "description": "Native of Elarion, rare practitioner of Witchcraft, inheritor of her grandmother's manastone, skilled in claybinding, etching, threadcraft, and horticulture. Stands out for her Eastern magical philosophy and unique worldview.",
+        "lastSeenIn": "Chapter 2: Echoes of the Ageless Realm",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+      },
+      {
+        "name": "Cairn",
+        "status": "active",
+        "traits": "Protective, wise, dry-witted, practical, gentle, subtly echoes Lin Xiu's grandmother's personality",
+        "personality": "Grounded, patient, deadpan humor, fiercely loyal, quietly observant",
+        "appearance": "Nearly seven feet tall, sculpted from rich dark clay, elegant human-like features, crystalline manastone heart visible in his chest, moves with surprising grace and precision.",
+        "description": "Golem companion created by Lin Xiu using her grandmother's manastone. Elegant, human-like features, powerful and precise, gradually developing self-awareness and subtle emotional depth.",
         "lastSeenIn": "Chapter 2: Echoes of the Ageless Realm",
         "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
       },
       {
         "name": "Mira",
         "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": [
-          "Experienced receptionist at the Adventurer's Guild",
-          "Has worked at the guild for almost five years",
-          "Demonstrates intuitive understanding of magical contracts"
-        ],
-        "background": [
-          "Experienced receptionist at the Adventurer's Guild",
-          "Has worked at the guild for almost five years",
-          "Demonstrates intuitive understanding of magical contracts"
-        ],
+        "traits": "Intuitive, friendly, efficient, experienced",
+        "personality": "Cheerful, helpful, perceptive, professional",
+        "appearance": "Young woman with auburn hair in a neat bun, freckled face, green eyes, always dressed in tidy guild attire.",
+        "description": "Receptionist at the Adventurer's Guild, skilled at handling contracts and paperwork, has a knack for sensing unusual magical cases.",
         "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
-      },
-      {
-        "name": "Cairn",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
-        "lastSeenIn": "Chapter 2: Echoes of the Ageless Realm",
         "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
       }
     ],
     "inactive": [],
     "history": []
   },
-  "locations": [],
+  "locations": [
+    {
+      "name": "Eldermere",
+      "description": "Bustling riverside city in northern Elarion, home to the Adventurer's Guild main hall, markets, and Lin Xiu's cottage. Starting point for the dungeon investigation.",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+    },
+    {
+      "name": "Adventurer's Guild Main Hall",
+      "description": "Bustling hub for adventurers, contracts, and magical bureaucracy. Reception desk staffed by Mira.",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+    },
+    {
+      "name": "Northern Dungeon (Standing Stones Circle)",
+      "description": "Pre-Cataclysm magical construction, entrance marked by standing stones in a perfect circle. Dungeon interior shifts and responds to presence, runes change when observed, laylines converge and twist here.",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+    },
+    {
+      "name": "Waystation",
+      "description": "Rest stop halfway to the dungeon, used for resupply and communication. Laylines begin to show signs of twisting nearby.",
+      "introducedIn": "Chapter 2: Echoes of the Ageless Realm"
+    },
+    {
+      "name": "Lin Xiu's Cottage & Workshop",
+      "description": "Cozy home and magical workshop where Lin Xiu prepares Witchcraft supplies and travels with Cairn.",
+      "introducedIn": "Chapter 2: Echoes of the Ageless Realm"
+    },
+    {
+      "name": "Forest Path & Ancient Woods",
+      "description": "Dense, ancient forest with strong laylines, eerie silence, and subtle presence of Animist spirits. Path leads to the standing stones and dungeon entrance.",
+      "introducedIn": "Chapter 2: Echoes of the Ageless Realm"
+    }
+  ],
   "foreshadowing": {
     "pending": [
       {
-        "id": "1755357871931-1755357963834-a522178kg",
-        "description": "The dungeon's ability to change and potentially think",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "id": "dungeon-sentience",
+        "description": "The dungeon's ability to change, observe, and potentially think; hints of ancient sentient magic.",
+        "introducedIn": "Chapter 1 & 2",
         "category": "plot",
+        "importance": "high"
+      },
+      {
+        "id": "pre-cataclysm-runes",
+        "description": "Runes that shift when observed, not in any known magical script; possible link to lost civilization.",
+        "introducedIn": "Chapter 1 & 2",
+        "category": "mystery",
+        "importance": "high"
+      },
+      {
+        "id": "animist-spirits",
+        "description": "Subtle references to Animist spirits as silent caretakers of the land and laylines, influencing magic and daily life.",
+        "introducedIn": "Chapter 2",
+        "category": "theme",
         "importance": "medium"
       },
       {
-        "id": "1755357871931-1755357963834-1fdhjlpxx",
-        "description": "Pre-Cataclysm runes that shift when observed",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "category": "plot",
+        "id": "cairn-self-awareness",
+        "description": "Cairn's gradual development of self-awareness and emotional depth, echoing Lin Xiu's grandmother.",
+        "introducedIn": "Chapter 2",
+        "category": "character",
         "importance": "medium"
       },
       {
-        "id": "1755357871931-1755357963834-psruuttcc",
-        "description": "Hints of an ancient, possibly sentient magical construct",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755357871931-1755357963834-xf4pfmdxv",
-        "description": "Potential awakening of a long-dormant magical entity",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755357871931-1755357984412-vexgfkifd",
-        "description": "The dungeon's ability to change and seemingly observe survey teams",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755357871931-1755357984412-d0jhpjwin",
-        "description": "Mysterious pre-Cataclysm runes that shift when observed",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755357871931-1755357984412-lvjg59bk8",
-        "description": "Hints of an ancient, potentially sentient magical construct",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755357871931-1755357984412-enrmcus2w",
-        "description": "Standing stones in a perfect circle marking the dungeon entrance",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755364704354-1755365341679-1urfuw9jw",
-        "description": "Twisted laylines suggesting massive magical manipulation",
-        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755364704354-1755365341679-7x09kg6xx",
-        "description": "Cairn's mysterious dream-memories of pre-Cataclysm magical practices",
-        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755364704354-1755365341679-9hxfe4uud",
-        "description": "The dungeon's apparent sentience and ability to communicate",
-        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755364704354-1755365341679-pg55aqp9w",
-        "description": "Hints about a lost magical civilization with extraordinary capabilities",
-        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-        "category": "plot",
-        "importance": "medium"
+        "id": "shape-shifting-dungeon",
+        "description": "The true nature and origin of the shape-shifting, responsive dungeon; its purpose and motivations.",
+        "introducedIn": "Chapter 1 & 2",
+        "category": "mystery",
+        "importance": "high"
       }
     ],
     "resolved": []
   },
   "unresolvedThreads": [
     {
-      "id": "1755357871931-1755357963834-zmffohng7",
-      "description": "The true nature and origin of the shape-shifting dungeon",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "id": "dungeon-origin",
+      "description": "The true nature, origin, and purpose of the pre-Cataclysm dungeon and its sentience.",
+      "introducedIn": "Chapter 1 & 2",
+      "category": "mystery",
+      "importance": "high"
+    },
+    {
+      "id": "survey-teams-fate",
+      "description": "What happened to the previous survey teams who entered the dungeon.",
+      "introducedIn": "Chapter 1",
       "category": "mystery",
       "importance": "medium"
     },
     {
-      "id": "1755357871931-1755357963834-4pumg8nno",
-      "description": "The purpose of the pre-Cataclysm magical construction",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "id": "changing-runes",
+      "description": "The meaning and function of the shifting runes inside the dungeon.",
+      "introducedIn": "Chapter 1 & 2",
       "category": "mystery",
       "importance": "medium"
     },
     {
-      "id": "1755357871931-1755357963834-jjeqdw32z",
-      "description": "What happened to the previous survey teams",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-      "category": "mystery",
+      "id": "animist-spirit-role",
+      "description": "The true role and influence of Animist spirits in Witchcraft and the world’s magic.",
+      "introducedIn": "Chapter 2",
+      "category": "theme",
       "importance": "medium"
     },
     {
-      "id": "1755357871931-1755357963834-skrt1oja6",
-      "description": "The meaning of the changing runes",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755357871931-1755357963834-7j8adhuqj",
-      "description": "The potential consciousness within the dungeon",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755357871931-1755357984412-pxfjlp3pt",
-      "description": "The true nature and origin of the shape-shifting dungeon",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755357871931-1755357984412-us6f20s4d",
-      "description": "The purpose of the dungeon's apparent consciousness",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755357871931-1755357984412-sgz5gwunc",
-      "description": "What happened to the previous survey teams",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755357871931-1755357984412-z8rz0oyww",
-      "description": "The significance of the pre-Cataclysm magical signatures",
-      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755364704354-1755365341679-e49ef4ojs",
-      "description": "The true nature and purpose of the pre-Cataclysm magical construction",
-      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755364704354-1755365341679-zfzjv6k23",
-      "description": "What happened during the Cataclysm that destroyed ancient magical traditions",
-      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755364704354-1755365341679-8xja9ycj9",
-      "description": "The extent of Cairn's self-awareness and potential consciousness",
-      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755364704354-1755365341679-ogber0dd2",
-      "description": "The dungeon's motivations for 'inviting' Lin Xiu and Cairn",
-      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
-      "category": "mystery",
+      "id": "cairn-consciousness",
+      "description": "The extent and nature of Cairn's self-awareness and connection to Lin Xiu's grandmother.",
+      "introducedIn": "Chapter 2",
+      "category": "character",
       "importance": "medium"
     }
   ],
-  "storySummary": "",
-  "worldNotes": "",
+  "storySummary": "Lin Xiu, a rare Witchcraft practitioner, is contracted to investigate a mysterious, shape-shifting dungeon with pre-Cataclysm origins. Accompanied by her golem Cairn, she uncovers signs of ancient sentient magic, shifting runes, and the subtle influence of Animist spirits. The investigation raises questions about the dungeon’s true nature, the fate of previous survey teams, and the role of spirits in the world’s magic.",
+  "worldNotes": "Witchcraft is rooted in Animist beliefs, with spirits tending laylines and influencing magic. Most people dismiss these spirits as folklore, but Lin Xiu’s practice and worldview are shaped by their presence. The distinction between Witchcraft and Western magic is central, with Witchcraft focused on harmony, intention, and listening to the world.",
   "timeline": [],
   "other": {},
   "lastUpdated": "2025-08-16T17:29:01.679Z",
-  "version": "1.0"
+  "version": "1.2"
 }
