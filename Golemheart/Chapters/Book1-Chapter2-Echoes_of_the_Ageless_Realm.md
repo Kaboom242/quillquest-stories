@@ -6,7 +6,7 @@ Her fingers traced the edge of a clay tablet tucked into her satchel, feeling th
 
 The workshop door creaked open at her approach, though she hadn't touched the handle. Cairn always seemed to know when she was coming, some subtle awareness that extended beyond the normal range of constructed senses. She found her golem companion standing beside the workbench, massive hands delicately arranging travel supplies with the sort of precision that still amazed her after all these years together.
 
-Cairn stood nearly seven feet tall, his form hewn from rich, dark clay that seemed to absorb and reflect light in equal measure. His grandmother's old manastone rested in the center of his chest like a heart of crystallized starlight, its gentle luminescence visible through the translucent window Lin Xiu had crafted when binding his essence. Unlike the crude, blocky golems she'd seen in Western magic demonstrations, Cairn's proportions were elegant and human-like, his features carefully sculpted with an artist's attention to both function and beauty.
+Cairn stood nearly seven feet tall, his form hewn from rich, dark clay that seemed to absorb and reflect light in equal measure. Her grandmother's old manastone rested in the center of his chest like a heart of crystallized starlight, its gentle luminescence visible through the translucent window Lin Xiu had crafted when binding his essence. Unlike the crude, blocky magical automatons she'd seen in Western magic demonstrations—animated but never truly alive—Cairn's proportions were elegant and human-like, his features carefully sculpted with an artist's attention to both function and beauty.
 
 His face bore the serene expression she'd shaped into the clay during those grief-stricken weeks after her grandmother's passing, but over the years, something deeper had emerged in the set of his features. There was a wisdom in the tilt of his head, a dry humor in the slight upturn of his mouth, and a fierce protectiveness in the way he carried himself that reminded her so strongly of her grandmother that sometimes her breath caught.
 
@@ -18,11 +18,17 @@ Lin Xiu grinned, recognizing the gentle teasing that had become their morning ri
 
 "The survey reports all mentioned the same thing—the dungeon responds to human presence like something aware and watching. If there's truly consciousness involved, Witchcraft might be the only magical tradition capable of understanding what we're dealing with." Lin Xiu began checking each item in her pack methodically, a habit that had saved her from unpleasant surprises on more than one expedition. "Western magic treats dungeons as natural phenomena to be catalogued and exploited. If this one is actually thinking, that approach could be not only ineffective but dangerous."
 
-Cairn nodded, his crystalline heart pulsing slightly brighter as spiritual energy flowed through the channels etched into his frame. "Your grandmother once told me a story about the ancient practitioners who could wake stone and teach it to dream. She claimed some of their greatest works were buildings that learned to protect themselves, growing and changing in response to threats."
+Lin paused, a smile tugging at her lips as she remembered evenings spent with her grandmother, listening to stories about ancient practitioners who could wake stone and teach it to dream. "Grandma used to say that some of the greatest Witchcrafters built places that learned to protect themselves, growing and changing in response to threats. She'd tell me about buildings that could listen, and rivers that could be taught to change their course. I always thought she was exaggerating, but now..."
 
-Lin Xiu paused in her packing, looking up sharply. "Grandma told you that story? She never shared that one with me."
+Cairn gave a slow, dry blink, his mouth quirking in a familiar deadpan. "If your grandmother was exaggerating, she did it with impressive consistency. I suppose it's only fair you inherited her optimism."
 
-"It was during one of our evening conversations, several months before she passed. She said some knowledge was too dangerous for children, but that someday you might need to understand the difference between magic that creates and magic that awakens." Cairn's expression remained serene, but something in his posture suggested deeper currents of memory. "She was quite specific that awakened constructions were not the same as animated ones. Animation imposes will from outside, but awakening nurtures consciousness that grows from within."
+Lin laughed, warmth blooming in her chest. "She also said that animation imposes will from outside, but awakening nurtures consciousness that grows from within. I think that's what makes Witchcraft so different."
+
+Cairn's crystalline heart pulsed softly, the light within shifting in subtle patterns. "If that's true, then perhaps some things are best left to those who know how to listen."
+
+Lin Xiu paused in her packing, looking up sharply. "You remember her stories? She never shared that one with me."
+
+"Not memories of direct conversation," Cairn clarified gently. "But impressions, dreams, and fragments that come from the manastone itself. Sometimes it feels as if her wisdom is guiding me, or as if I recall things she once cherished. She was quite specific that awakened constructions were not the same as animated ones. Animation imposes will from outside, but awakening nurtures consciousness that grows from within."
 
 The distinction sent a shiver through Lin Xiu's understanding of her own craft. She'd always thought of golem creation as a form of sophisticated animation, her will and intent giving purpose to clay and manastone. But if Cairn himself was something more, if the way he'd developed personality and initiative over the years was actually a form of gradual awakening...
 
@@ -48,13 +54,15 @@ Lin Xiu held up her spirit lantern, studying the streams of magical energy that 
 
 "Then we might be walking into a situation far more significant than just an anomalous dungeon." Lin Xiu pulled out one of her clay tablets and began etching notes about the layline distortions, her fingers working automatically while her mind raced through possibilities. "The Ministry thought they were investigating a simple magical phenomenon. They have no idea they might have found a surviving piece of the pre-Cataclysm world."
 
-The implications were staggering. The Cataclysm had shattered the ancient magical traditions so completely that most modern practitioners believed the old powers were gone forever, their secrets buried under ten thousand years of gradual decline. If something from that era had survived intact, it would represent a treasure trove of lost knowledge—or a danger beyond current understanding.
+As they journeyed north, Lin Xiu found herself sharing more stories with Cairn—tales of her grandmother's lessons, the odd rituals, and the laughter that filled their cabin. Cairn listened with patient amusement, occasionally offering a dry comment or a gentle tease that made Lin Xiu roll her eyes and smile. The subtle ways he echoed her grandmother's mannerisms—never quite the same, but always familiar—were a comfort she rarely acknowledged aloud.
 
 The second day of travel took them off the main roads and onto forest paths that showed little sign of regular use. The trees here were ancient, their trunks thick enough that it would take several people holding hands to encircle them, their canopy so dense that even midday felt like twilight. The twisted laylines grew stronger with each mile, until Lin Xiu could see them without her spirit lantern, silver threads weaving between the trees like spiderwebs made of light.
 
 "The forest is unusually quiet," Cairn observed as they picked their way along a trail marked only by subtle differences in the spacing of trees. "I haven't heard a single bird or animal call in over an hour."
 
-Lin Xiu nodded, having noticed the same eerie silence. Even the wind seemed muted here, as if the very air was holding its breath. "Animals are sensitive to magical disturbances. If something ahead is powerful enough to reshape the laylines, it's probably powerful enough to make wildlife deeply nervous."
+Lin Xiu nodded, having noticed the same eerie silence. Even the wind seemed muted here, as if the very air was holding its breath. "Animals are sensitive to magical disturbances. If something ahead is powerful enough to reshape the laylines, it's probably powerful enough to make wildlife deeply nervous. Grandma used to say that the old places could hush a forest for miles."
+
+Cairn's response was a low, amused rumble. "And yet you still insist on walking straight into them."
 
 They crested a small ridge as the afternoon light began to fade, and Lin Xiu felt her breath catch at the sight that spread before them. In the valley below, five massive standing stones formed a perfect circle around what appeared to be a seamless hillside. Each stone stood at least twenty feet tall, their surfaces covered in intricate carvings that seemed to shift and flow when viewed directly. The twisted laylines all converged here, spiraling down into the earth at the center of the circle like water flowing into an unseen drain.
 
