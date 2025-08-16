@@ -2,5 +2,10 @@
   "displayName": "Golemheart",
   "sanitizedName": "Golemheart",
   "premise": "Nyra Remniel, a quirky and clever native of Elarion, begins her journey weak and overlooked but grows through mastering Witchcraft, sparking unintended revolutions with her reform-minded spirit. Alongside Cairn, her golem companion, she blends cozy slice-of-life adventures with high drama, bridging cultures and uncovering the world’s hidden secrets.",
-  "createdAt": "2025-08-16T05:12:02.066Z"
+  "createdAt": "2025-08-16T05:12:02.066Z",
+  "books": {
+    "Book 1": {
+      "name": "Roots of Witchcraft"
+    }
+  }
 }
