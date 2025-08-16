@@ -38,7 +38,11 @@ Lin Xiu closed the folder and tapped her fingers against its cover, considering.
 
 "Of course. The contract specifically mentions that familiars and constructed companions are permitted." Mira began preparing the necessary paperwork, her pen scratching efficiently across several forms. "Will you need any special equipment? The Ministry has authorized us to advance funds for items specifically related to this mission."
 
-"I'll want extra etching supplies—clay tablets, good quality ink, maybe some of those enhanced preservation scrolls for documenting runes that might shift or fade." Lin Xiu mentally catalogued what she had at home versus what she'd need to purchase. "And I'll need to stock up on barrier talismans. If something in there has been watching survey teams, I'd rather be prepared for the possibility that it might decide to do more than watch."
+"I'll want extra etching supplies—clay tablets, good quality ink, and raw materials I can use for talismans and wards. If you have any blank scrolls or unenchanted parchment, I'll take those too. I don't use the standard Western magic scrolls, but I can adapt some of the materials for my own work." Lin Xiu mentally catalogued what she had at home versus what she'd need to purchase. "And I'll need to stock up on barrier materials—herbs, mineral salts, maybe some spirit-thread if you have it. If something in there has been watching survey teams, I'd rather be prepared for the possibility that it might decide to do more than watch."
+
+Mira nodded, making a note. "We have plenty of blank scrolls and unenchanted parchment, and I can authorize the purchase of raw materials. If you need any traditional magical items or scrolls, just let me know."
+
+Lin Xiu smiled, appreciating the offer but knowing most Western magic tools wouldn't suit her needs. "I'll take a look, but I doubt I'll find much that's compatible. Witchcraft is... a bit different."
 
 As Mira filled out the equipment authorization forms, Lin Xiu found herself staring out the rain-streaked windows at the bustling street beyond. Merchants hurried between shops with their cloaks pulled tight against the weather, while a group of children splashed gleefully through puddles despite their parents' scolding. It was such an ordinary scene, full of the comfortable rhythms of daily life in a world where magic was predictable and dungeons followed known rules.
 

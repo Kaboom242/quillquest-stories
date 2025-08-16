@@ -290,3 +290,5 @@ The Adventurer’s Guild is the largest and most influential contractor organiza
   - Let characters reflect on their journey, relationships, and the impact of their actions between major events.
 
 ---
+
+- Lin Xiu is a rare practitioner of Witchcraft, a tradition nearly lost in the West. Her methods, tools, and magical philosophy are unfamiliar to most Western mages and guild staff. She crafts her own talismans, wards, and magical implements from raw materials, adapting what she can from Western supplies but relying on unique Eastern techniques. The Adventurer's Guild and Royal Academies have little understanding of Witchcraft's true nature, and Lin Xiu's abilities are often underestimated or misunderstood.
