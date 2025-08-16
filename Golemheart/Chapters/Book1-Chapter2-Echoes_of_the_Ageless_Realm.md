@@ -58,29 +58,33 @@ Lin Xiu nodded, having noticed the same eerie silence. Even the wind seemed mute
 
 Cairn's response was a low, amused rumble. "And yet you still insist on walking straight into them."
 
-They crested a small ridge as the afternoon light began to fade, and Lin Xiu felt her breath catch at the sight that spread before them. In the valley below, five massive standing stones formed a perfect circle around what appeared to be a seamless hillside. Each stone stood at least twenty feet tall, their surfaces covered in intricate carvings that seemed to shift and flow when viewed directly. The twisted laylines all converged here, spiraling down into the earth at the center of the circle like water flowing into an unseen drain.
+As they crested the ridge, the world seemed to hold its breath. The air grew thick with the scent of moss and ancient earth, and the last rays of sunlight filtered through the trees in shimmering bands, painting the valley below in gold and shadow. Lin Xiu paused, heart pounding, as the standing stones came into view—five monoliths encircling a seamless hillside, their surfaces alive with shifting carvings that glimmered like fireflies in the dusk.
 
-But it was the quality of the magic itself that made Lin Xiu's skin prickle with recognition and unease. This wasn't the wild, chaotic energy of a natural layline rupture or the structured, predictable flow of Western magical construction. It felt deliberate and purposeful, like the magic her grandmother had taught her but magnified beyond anything she'd ever experienced.
+A hush fell over the land, broken only by the distant call of a night bird and the soft rustle of leaves. Lin Xiu felt the laylines thrumming beneath her feet, a pulse of energy that seemed to echo her own anticipation. She glanced at Cairn, who watched the stones with a solemn intensity, his crystalline heart casting faint rainbows on the ground.
 
-"Those aren't just standing stones," she whispered, pulling out her spirit lantern for a clearer view of the magical flows. "They're regulators, controlling and directing the layline energy into specific patterns. The entire circle is one massive Witchcraft construction."
+"Do you feel that?" she whispered, her voice barely more than a breath. "It's like the land itself is waiting. Grandma used to say the spirits gather at places like this, drawn by old magic and memory."
 
-Cairn moved to stand beside her, his crystalline heart pulsing in rhythm with the energy patterns below. "If this is Witchcraft on such a scale, then whoever built it was working with power beyond anything in your grandmother's stories. The amount of intent and spiritual energy required to create something like this..."
+Cairn nodded, his gaze never leaving the glowing stones. "If the spirits are here, they're watching us. Maybe even judging."
 
-"Would have required multiple practitioners working in perfect harmony over decades," Lin Xiu finished, her voice filled with awe. "This isn't just a dungeon. It's a monument to everything the Cataclysm was supposed to have destroyed."
+Lin Xiu stepped forward, her spirit lantern casting gentle light that danced across the carvings. As she approached, the runes responded, shifting and brightening, the air growing warmer and charged with possibility. She reached out, letting her fingers hover just above the stone, feeling a subtle vibration—a greeting, perhaps, or a warning.
 
-As if responding to their presence, the carvings on the nearest standing stone began to glow with soft, warm light. The illumination spread from stone to stone until the entire circle was outlined against the growing darkness, and Lin Xiu could see what the survey teams had described as the dungeon entrance. The hillside at the center of the circle was opening like a flower, stone petals folding back to reveal a passage that descended into earth lit by the same gentle radiance.
+"She believed Witchcraft was about listening, not commanding," Lin Xiu murmured, half to herself and half to the unseen caretakers she sensed nearby. "If we show respect, maybe they'll let us pass."
 
-As they approached the standing stones, Lin Xiu could feel the ancient magic responding to her presence in ways that sent shivers through her spiritual senses. The laylines that had seemed twisted and chaotic from a distance revealed themselves to be woven into patterns of incredible complexity and beauty, each thread of energy precisely placed to serve purposes she could only begin to guess at. She felt certain the spirits were near, tending the flows and guarding the secrets of the place.
+Cairn offered a dry smile. "Or they'll test us first."
 
-"It knows we're here," Cairn said quietly. "And I think it's inviting us in."
+The hillside at the center of the circle began to open, stone petals unfurling with a sound like distant thunder. Lin Xiu's breath caught, awe and fear mingling as the passage revealed itself, lit by a soft, golden glow. The magic here was unlike anything she'd ever felt—layered, ancient, and alive.
 
-Lin Xiu felt a tremor of excitement mixed with apprehension as she studied the opening. The magical signature was unlike anything in her experience, but there was something familiar about it nonetheless. It felt like coming home to a place she'd never been, like remembering a dream that had somehow become real.
+She turned to Cairn, her eyes wide. "Ready?"
 
-"The survey teams all reported that the dungeon responded to their presence," she murmured, checking her equipment one final time. "But this feels different from their descriptions. Less like being watched and more like being... welcomed."
+"As I'll ever be," he replied, his voice steady but tinged with reverence.
 
-"Perhaps the difference is in how we're approaching it." Cairn gathered his supplies and began making his way down the hillside toward the circle. "They came as investigators trying to catalog and classify. We're coming as practitioners of the same tradition that created this place."
+They stepped into the passage together, the world outside fading into silence. The air inside was cool and fragrant, carrying hints of wildflowers and old incense. The walls pulsed with gentle light, runes rearranging themselves in intricate patterns as Lin Xiu passed, responding to her presence with curiosity and welcome.
 
-As they approached the standing stones, Lin Xiu could feel the ancient magic responding to her presence in ways that sent shivers through her spiritual senses. The laylines that had seemed twisted and chaotic from a distance revealed themselves to be woven into patterns of incredible complexity and beauty, each thread of energy precisely placed to serve purposes she could only begin to guess at.
+She ran her fingers along the stone, feeling the warmth and the subtle pressure of unseen eyes. "Grandma always said the spirits could be playful, if you let them. Maybe that's why the animals avoid this place—they know it's not just a dungeon, but a home for things older than memory."
+
+Cairn's footsteps echoed softly, his form casting long shadows on the polished floor. "Let's hope they're in a welcoming mood."
+
+Lin Xiu smiled, her nerves settling into a quiet determination. "If not, we'll just have to convince them."
 
 The entrance passage was wide enough for two people to walk abreast, its walls carved from living stone that seemed to pulse with inner light. Unlike the rough-hewn tunnels of natural dungeons, this space showed clear evidence of deliberate craftsmanship. The surfaces were smooth and polished, decorated with flowing scripts that reminded Lin Xiu of the etching techniques her grandmother had taught her but elevated to an art form that bordered on the sublime.
 
