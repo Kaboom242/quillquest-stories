@@ -6,19 +6,8 @@
         "status": "active",
         "traits": "",
         "personality": "",
-        "description": [
-          "Experienced Bronze-rank adventurer",
-          "Trained in Witchcraft by her grandmother",
-          "Believes in spiritual awareness of magical constructions",
-          "Curious and analytical investigator"
-        ],
-        "background": [
-          "Experienced Bronze-rank adventurer",
-          "Trained in Witchcraft by her grandmother",
-          "Believes in spiritual awareness of magical constructions",
-          "Curious and analytical investigator"
-        ],
-        "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "description": "",
+        "lastSeenIn": "Chapter 2: Echoes of the Ageless Realm",
         "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
       },
       {
@@ -28,13 +17,13 @@
         "personality": "",
         "description": [
           "Experienced receptionist at the Adventurer's Guild",
-          "Has worked at the guild for five years",
-          "Intuitive about magical anomalies"
+          "Has worked at the guild for almost five years",
+          "Demonstrates intuitive understanding of magical contracts"
         ],
         "background": [
           "Experienced receptionist at the Adventurer's Guild",
-          "Has worked at the guild for five years",
-          "Intuitive about magical anomalies"
+          "Has worked at the guild for almost five years",
+          "Demonstrates intuitive understanding of magical contracts"
         ],
         "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
         "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
@@ -44,15 +33,8 @@
         "status": "active",
         "traits": "",
         "personality": "",
-        "description": [
-          "Lin Xiu's golem companion",
-          "Potentially unique in how it might interact with the dungeon"
-        ],
-        "background": [
-          "Lin Xiu's golem companion",
-          "Potentially unique in how it might interact with the dungeon"
-        ],
-        "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "description": "",
+        "lastSeenIn": "Chapter 2: Echoes of the Ageless Realm",
         "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
       }
     ],
@@ -87,6 +69,62 @@
         "id": "1755357871931-1755357963834-xf4pfmdxv",
         "description": "Potential awakening of a long-dormant magical entity",
         "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755357871931-1755357984412-vexgfkifd",
+        "description": "The dungeon's ability to change and seemingly observe survey teams",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755357871931-1755357984412-d0jhpjwin",
+        "description": "Mysterious pre-Cataclysm runes that shift when observed",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755357871931-1755357984412-lvjg59bk8",
+        "description": "Hints of an ancient, potentially sentient magical construct",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755357871931-1755357984412-enrmcus2w",
+        "description": "Standing stones in a perfect circle marking the dungeon entrance",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755364704354-1755365341679-1urfuw9jw",
+        "description": "Twisted laylines suggesting massive magical manipulation",
+        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755364704354-1755365341679-7x09kg6xx",
+        "description": "Cairn's mysterious dream-memories of pre-Cataclysm magical practices",
+        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755364704354-1755365341679-9hxfe4uud",
+        "description": "The dungeon's apparent sentience and ability to communicate",
+        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755364704354-1755365341679-pg55aqp9w",
+        "description": "Hints about a lost magical civilization with extraordinary capabilities",
+        "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
         "category": "plot",
         "importance": "medium"
       }
@@ -128,12 +166,68 @@
       "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
       "category": "mystery",
       "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357984412-pxfjlp3pt",
+      "description": "The true nature and origin of the shape-shifting dungeon",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357984412-us6f20s4d",
+      "description": "The purpose of the dungeon's apparent consciousness",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357984412-sgz5gwunc",
+      "description": "What happened to the previous survey teams",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357984412-z8rz0oyww",
+      "description": "The significance of the pre-Cataclysm magical signatures",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755364704354-1755365341679-e49ef4ojs",
+      "description": "The true nature and purpose of the pre-Cataclysm magical construction",
+      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755364704354-1755365341679-zfzjv6k23",
+      "description": "What happened during the Cataclysm that destroyed ancient magical traditions",
+      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755364704354-1755365341679-8xja9ycj9",
+      "description": "The extent of Cairn's self-awareness and potential consciousness",
+      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755364704354-1755365341679-ogber0dd2",
+      "description": "The dungeon's motivations for 'inviting' Lin Xiu and Cairn",
+      "introducedIn": "Chapter 2: Echoes of the Ageless Realm",
+      "category": "mystery",
+      "importance": "medium"
     }
   ],
   "storySummary": "",
   "worldNotes": "",
   "timeline": [],
   "other": {},
-  "lastUpdated": "2025-08-16T15:26:03.834Z",
+  "lastUpdated": "2025-08-16T17:29:01.679Z",
   "version": "1.0"
 }
