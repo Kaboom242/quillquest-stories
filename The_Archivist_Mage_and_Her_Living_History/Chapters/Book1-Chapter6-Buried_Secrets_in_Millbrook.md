@@ -1,60 +1,60 @@
-**Chapter 5: Secrets in Millbrook**
+**Chapter 6: Buried Secrets in Millbrook**
 
 The morning air carried the earthy scent of turned soil and distant woodsmoke as our cart rolled through the countryside toward Millbrook. Kael sat across from me, his jaw tight with the kind of tension that comes from returning home after everything's changed. Elena had stayed behind to handle the Guild's morning rush, but not before pressing a small leather pouch into my hands.
 
-"Emergency supplies," she'd whispered. "Healing salves, mana crystals, and a few other useful things. Just in case."
+"Emergency supplies," she'd whispered, her fingers lingering for a moment. "Healing salves, mana crystals, and a few other useful things. Just in case."
 
 The anonymous request for my services still nagged at me like a splinter under the skin. Someone knew about my abilities—knew enough to ask specifically for "the new diviner in Archives." Master Aldric had been characteristically cryptic when I'd mentioned it, suggesting we "gather more information before acting rashly." Which, translated from diplomatic speak, meant he was just as concerned as I was but didn't want to show it.
 
-"How long has it been since you were home?" I asked, watching Kael's hands fidget with the leather cord he always wore around his wrist.
+I watched Kael's hands fidget with the leather cord he always wore around his wrist. "How long has it been since you were home?"
 
-"Three months," he said, then corrected himself. "Three months and four days." His voice carried the weight of someone who'd been counting.
+"Three months," he said, then corrected himself. "Three months and four days." His voice carried the weight of someone who'd been counting, each day etched into memory.
 
 The landscape shifted from rolling hills to dense forest as we traveled deeper into the countryside. Millbrook was a mining town, built around a series of iron deposits that had sustained the community for generations. The Ironwood family had been part of that tradition—Marcus had worked the mines in his youth before joining the Guild, and his own father before that.
 
 As we crested a hill, the town came into view. Millbrook sprawled along the banks of a narrow river, its buildings a mix of sturdy stone foundations and timber frames darkened by years of forge smoke. The mine entrances dotted the hillsides like open mouths, most of them sealed now as the easily accessible veins had played out.
 
-"It looks smaller than I remembered," Kael murmured.
+"It looks smaller than I remembered," Kael murmured, his gaze distant.
 
 I understood that feeling. Places from our past often do—as if our childhood perspective had somehow made everything grander than it actually was. The town looked tired, like so many places that had seen their best days pass by with the changing times.
 
-Our cart driver, a weathered man named Corwin who'd made this route countless times, guided us through the main street toward the residential district. "Ironwood place is still standing," he said over his shoulder. "Been empty since... well, since Marcus passed. Town council's been keeping an eye on it, though nobody's quite sure what to do with it."
+Our cart driver, a weathered man named Corwin who'd made this route countless times, guided us through the main street toward the residential district. "Ironwood place is still standing," he said over his shoulder, voice rough but kind. "Been empty since... well, since Marcus passed. Town council's been keeping an eye on it, though nobody's quite sure what to do with it."
 
 Kael's family home was a two-story structure with a well-tended garden that had started to show signs of neglect. The shutters were closed, giving it a hollow, abandoned look that made my chest tighten with sympathy for Kael. Coming home to an empty house had to be its own kind of grief.
 
-"I've got the key," he said quietly, pulling it from his pocket. The metal was worn smooth from years of handling. "Father always said I should have it, just in case."
+He turned the key in his palm, the metal worn smooth from years of handling. "Father always said I should have it, just in case."
 
-Just in case. The phrase hung between us like an unspoken prophecy.
+Just in case. The phrase hung between us like an unspoken prophecy, heavy and unresolved.
 
 The door opened with a creak that echoed through the empty rooms. Dust motes danced in the afternoon light that slanted through gaps in the shutters, and the air held that particular stillness that comes with abandonment. Everything was exactly as Marcus had left it—his cloak still hanging by the door, his favorite mug sitting unwashed by the basin.
 
-I felt the emotional weight of the place immediately, even without deliberately using my gift. Grief had a way of soaking into the walls of a home, leaving traces that lingered long after the mourning had passed. But there was something else here—a sense of urgency, of important things left undone.
+I felt the emotional weight of the place immediately, a chill running down my spine. Grief had a way of soaking into the walls of a home, leaving traces that lingered long after the mourning had passed. But there was something else here—a sense of urgency, of important things left undone.
 
-Kael moved through the rooms like a sleepwalker, touching familiar objects with reverent fingers. "His study is upstairs," he said finally. "That's where he kept his journals and Guild correspondence."
+Kael moved through the rooms like a sleepwalker, touching familiar objects with reverent fingers. "His study is upstairs," he said finally, voice barely above a whisper. "That's where he kept his journals and Guild correspondence."
 
 The study was a cramped room under the eaves, with a desk positioned to catch the morning light from a small window. Bookshelves lined the walls, crammed with volumes on mining techniques, Guild regulations, and local history. But it was the desk that drew my attention—specifically, the locked drawer built into its base.
 
 "He always kept his personal papers in there," Kael explained, producing a smaller key from the same ring. "Said it was important to separate Guild business from family matters."
 
-The drawer slid open with surprising ease, revealing a collection of leather-bound journals and loose correspondence. I could feel the emotional resonance even before touching anything—curiosity, concern, and underneath it all, a growing sense of danger.
+The drawer slid open with surprising ease, revealing a collection of leather-bound journals and loose correspondence. I hesitated, fingertips tingling with the emotional resonance—curiosity, concern, and underneath it all, a growing sense of danger.
 
 Kael lifted out the most recent journal, its cover worn from frequent handling. "This should cover the months before his death." He paused, looking at me uncertainly. "I know I asked for your help, but now that we're here... these were his private thoughts."
 
-"We don't have to do this if you're not ready," I said gently. "But remember—he's the one who started investigating something that got him killed. If there are answers here, don't you think he'd want them found?"
+"We don't have to do this if you're not ready," I said gently, meeting his eyes. "But remember—he's the one who started investigating something that got him killed. If there are answers here, don't you think he'd want them found?"
 
-He nodded slowly and handed me the journal. The moment my fingers made contact with the leather binding, impressions flooded through me like water through a broken dam.
+He nodded slowly and handed me the journal. The moment my fingers made contact with the leather binding, impressions flooded through me like water through a broken dam—frustration, fear, and a desperate need for truth.
 
 Marcus Ironwood had been a methodical man, but in his final months, that methodology had been strained by growing alarm. I could feel his frustration as clearly as if he were standing beside me—the sense of pieces that didn't quite fit, of questions that led to more questions instead of answers.
 
 I opened the journal and began reading aloud, letting my gift guide me to the most emotionally charged entries. The early pages dealt with routine Guild business—contract reviews, supply requisitions, the usual administrative work of a senior clerk. But as the months progressed, a pattern emerged.
 
-"Third report this month of unusual goblin activity near Westmere," I read from an entry dated two months before Marcus's death. "Population estimates don't match previous surveys. Where are they coming from?" The words carried his confusion and growing concern.
+"Third report this month of unusual goblin activity near Westmere," I read from an entry dated two months before Marcus's death. "Population estimates don't match previous surveys. Where are they coming from?" The words pulsed with confusion and growing concern.
 
 A few pages later: "Requested access to historical survey records from Westmere region. Request denied—archived materials restricted pending 'administrative review.' Since when do survey records require special clearance?"
 
-And then, in an entry that made my hands tremble with the emotional weight behind it: "Thomas came by today asking about my research. Friendly conversation, but something felt wrong. He knew details I hadn't shared with anyone. Someone's been reading my reports before they reach their intended recipients."
+And then, in an entry that made my hands tremble: "Thomas came by today asking about my research. Friendly conversation, but something felt wrong. He knew details I hadn't shared with anyone. Someone's been reading my reports before they reach their intended recipients."
 
-Kael leaned forward intently. "Thomas Graystone. The same man who—"
+Kael leaned forward, tension in his posture. "Thomas Graystone. The same man who—"
 
 "The same man whose crossbow bolt we found traces of," I confirmed, feeling Marcus's growing paranoia and fear through the pages. "Your father was onto something, and Graystone knew it."
 
@@ -62,7 +62,7 @@ The final entries were the most disturbing. Marcus had begun to suspect that som
 
 "He was building a case," I murmured, skimming through pages that practically vibrated with determination and dread. "But he knew it was dangerous. He was trying to gather enough evidence to present to someone he could trust completely."
 
-"Who?" Kael asked.
+"Who?" Kael asked, voice tight.
 
 I turned to one of the last entries, dated just a week before Marcus's death. The emotional resonance here was so strong it made me nauseous—fear and resolve warring with each other as Marcus made a terrible decision.
 
@@ -84,11 +84,11 @@ But what made my blood run cold was the final paragraph: "I believe there may be
 
 "He figured it out," I whispered. "Whatever's happening with Westmere, it's not random. Someone knows exactly what they're looking for."
 
-A sound from downstairs made us both freeze—the creak of the front door opening. Kael's eyes met mine, and I saw my own alarm reflected there. We hadn't been expecting anyone.
+A sound from downstairs—a slow, deliberate creak—made us both freeze. Kael's eyes met mine, and I saw my own alarm reflected there. We hadn't been expecting anyone.
 
 Footsteps moved across the wooden floor below, deliberate and unhurried. Whoever had entered wasn't trying to be stealthy, but that somehow made it worse. It suggested confidence—the kind that comes from knowing you have every right to be somewhere, or from not caring who might object.
 
-Kael moved toward the study door, but I caught his arm. "Wait," I whispered, pressing my ear to the floor. The footsteps had stopped directly below us, in what I remembered as the main sitting room.
+Kael moved toward the study door, his hand hovering near the utility knife on his belt. I caught his arm, shaking my head. "Wait," I whispered, pressing my ear to the floor. The footsteps had stopped directly below us, in what I remembered as the main sitting room. My heart pounded, every sense alert.
 
 Then a voice called up from downstairs—cultured, patient, and terrifyingly familiar from my brief encounter at the Guild.
 
@@ -98,15 +98,15 @@ My gift didn't need direct contact to sense the emotional resonance that accompa
 
 He was wrong about that last part, but the first two were troubling enough.
 
-Kael looked at me questioningly, his hand moving instinctively toward the utility knife on his belt. I shook my head slightly. Whatever Graystone wanted, a confrontation in Marcus's home wouldn't end well for any of us.
+Kael looked at me, uncertainty flickering in his eyes. I shook my head again. Whatever Graystone wanted, a confrontation in Marcus's home wouldn't end well for any of us.
 
-But as I gathered up the most important documents from the desk, my fingers brushed against something else hidden in the drawer—a small object wrapped in cloth. The emotional resonance that hit me was unlike anything I'd felt from Marcus's other belongings.
+As I gathered up the most important documents from the desk, my fingers brushed against something else hidden in the drawer—a small object wrapped in cloth. The emotional resonance that hit me was unlike anything I'd felt from Marcus's other belongings.
 
 This wasn't fear or determination or even desperation. This was hope. Desperate, precious hope, tied to whatever was hidden in that small bundle.
 
 I unwrapped it quickly, revealing a small brass key unlike any of the others Marcus had kept. It was older, more ornate, with symbols carved into its surface that looked like they might be related to the arcane scripts I'd seen on some of the Guild's more ancient documents.
 
-But what made my breath catch was the impression that came with touching it—an image of a place I'd never seen but somehow recognized from Marcus's research. A hidden room, filled with documents and artifacts that someone had gone to great lengths to conceal.
+As my fingers closed around the key, a vision flashed in my mind—an image of a hidden room, filled with documents and artifacts that someone had gone to great lengths to conceal. The air seemed to hum with possibility.
 
 Marcus had found something in Westmere. Something important enough to kill for, and valuable enough that powerful people were willing to corrupt Guild operations to protect it.
 

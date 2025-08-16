@@ -4,75 +4,57 @@
       {
         "name": "Sora Ashworth",
         "status": "active",
-        "description": "Guild archivist trainee with empathic object reading abilities",
-        "appearance": "- **Age:** 19 (young adult)\n- **Height:** Petite (approx. 155 cm / 5'1\")\n- **Build:** Slender, bookish\n- **Hair:** Ash-brown, shoulder-length, often tied with a ribbon or quill\n- **Eyes:** Soft amber with subtle silver flecks (magical shimmer when active)\n- **Clothing:** Rumpled guild archivist robes (muted blues/greys), practical satchels\n- **Accessories:** Charm bracelet of past investigation trinkets, well-worn guild badge\n- **Aura:** Gentle, unassuming, but intense when focused; often underestimated",
+        "description": "Guild archivist trainee with empathic object reading abilities. Petite, bookish, ash-brown hair, amber eyes with magical shimmer. Wears rumpled archivist robes and a charm bracelet of investigation trinkets.",
+        "appearance": "Age: 19, Height: 155 cm, Slender build, Ash-brown hair, Amber eyes, Muted blue/grey robes, Satchels, Charm bracelet, Guild badge.",
         "traits": [
           "Truth-seeker",
           "Empathic artifact reader",
-          "Curious and determined"
+          "Curious",
+          "Emotionally intelligent",
+          "Introspective & witty",
+          "Stubborn",
+          "Comfort-oriented"
         ],
-        "lastSeenIn": "Chapter 3: Untitled"
+        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
+        "introducedIn": "Chapter 1: The Ledger and the Lie"
       },
       {
-        "name": "Sora",
+        "name": "Kael Ironwood",
         "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
-        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
-      },
-      {
-        "name": "Kael",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
-        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
+        "description": "Son of Marcus Ironwood, former miner, now Guild clerk. Loyal, reserved, and determined to uncover the truth about his father's death.",
+        "traits": ["Loyal", "Reserved", "Determined", "Grieving"],
+        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
+        "introducedIn": "Chapter 2: Rust and Resonance"
       },
       {
         "name": "Elena",
         "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
-        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
+        "description": "Guild clerk, Sora's friend and mentor. Resourceful, perceptive, and supportive.",
+        "traits": ["Resourceful", "Perceptive", "Supportive"],
+        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
+        "introducedIn": "Chapter 2: Rust and Resonance"
       },
       {
         "name": "Master Aldric",
         "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
-        "lastSeenIn": "Chapter 4: Uncovering Dangerous Truths",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths"
+        "description": "Head archivist of Glyphmere Guild. Gruff, wise, and trusted by Marcus Ironwood.",
+        "traits": ["Gruff", "Wise", "Diplomatic"],
+        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
+        "introducedIn": "Chapter 2: Rust and Resonance"
       },
       {
         "name": "Marcus Ironwood",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
+        "status": "deceased",
+        "description": "Kael's father, former miner and Guild member. His death is the central mystery.",
+        "traits": ["Methodical", "Concerned", "Secretive"],
         "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
         "introducedIn": "Chapter 6: Buried Secrets in Millbrook"
       },
       {
         "name": "Thomas Graystone",
         "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
-        "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook"
-      },
-      {
-        "name": "Kael Ironwood",
-        "status": "active",
-        "traits": "",
-        "personality": "",
-        "description": "",
+        "description": "Guild member with hidden motives, suspected in Marcus's death.",
+        "traits": ["Confident", "Manipulative", "Threatening"],
         "lastSeenIn": "Chapter 6: Buried Secrets in Millbrook",
         "introducedIn": "Chapter 6: Buried Secrets in Millbrook"
       }
@@ -83,293 +65,130 @@
   "locations": [
     {
       "name": "Glyphmere Guild",
-      "description": "Magical guild headquarters with multiple archive levels",
+      "description": "Magical guild headquarters with multiple archive levels, bustling with adventurers and clerks.",
       "sections": [
-        "Main Floor",
-        "Archive Level Two"
+        "Main Hall",
+        "Archive Level Two",
+        "Dormitory",
+        "Quartermaster's Warehouse",
+        "Healer's Hall"
       ]
     },
     {
       "name": "Westmere Ruins",
-      "description": "Mysterious archaeological site with potential hidden archive",
+      "description": "Mysterious archaeological site with potential hidden archive and artifact vault. Site of suppressed knowledge and recent goblin activity.",
       "status": "Unexplored/Dangerous"
+    },
+    {
+      "name": "Millbrook",
+      "description": "Mining town, home of the Ironwood family, site of Marcus's death and ongoing investigation.",
+      "status": "Active investigation"
+    },
+    {
+      "name": "Millhaven",
+      "description": "Sora's home village, site of the initial vision and bridge scandal.",
+      "status": "Background"
     }
   ],
   "foreshadowing": {
     "pending": [
       {
-        "id": "1755164980632-1755219280130-o18jdqoss",
-        "description": "Unusual goblin population surges across multiple villages",
+        "id": "goblin-surge",
+        "description": "Unusual goblin population surges across multiple villages, possibly linked to artifact disturbances.",
         "introducedIn": "Chapter 3: Untitled",
         "category": "plot",
         "importance": "high"
       },
       {
-        "id": "1755164980632-1755219280130-uksan03py",
-        "description": "Hints of a hidden 'Westmere Covenant'",
+        "id": "westmere-covenant",
+        "description": "Hints of a hidden 'Westmere Covenant' and suppressed knowledge.",
         "introducedIn": "Chapter 3: Untitled",
         "category": "plot",
         "importance": "high"
       },
       {
-        "id": "1755164980632-1755219280130-yckjfz8el",
-        "description": "Artifacts suggesting a historical archive of suppressed knowledge",
-        "introducedIn": "Chapter 3: Untitled",
+        "id": "artifact-vault",
+        "description": "Artifacts suggesting a historical archive of suppressed knowledge in Westmere.",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
         "category": "plot",
         "importance": "high"
       },
       {
-        "id": "1755164980632-1755219280130-ab3scn7h7",
-        "description": "Guild's potential involvement in systematic information suppression",
-        "introducedIn": "Chapter 3: Untitled",
-        "category": "plot",
+        "id": "brass-key",
+        "description": "Brass key found in Marcus's study, possibly unlocks hidden archive or artifact vault.",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "object",
+        "importance": "medium"
+      },
+      {
+        "id": "guild-conspiracy",
+        "description": "Suppression of information and targeted artifact recovery by unknown Guild members.",
+        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+        "category": "mystery",
         "importance": "high"
-      },
-      {
-        "id": "1755234053713-1755234689740-j44lfww5g",
-        "description": "Mysterious request for Sora's divination services",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755234053713-1755234689740-co9xob2gb",
-        "description": "Magical staff that was deliberately damaged to prevent misuse",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755234053713-1755234689740-n2htv7q11",
-        "description": "Potential ongoing conspiracy involving archaeological discoveries",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755234053713-1755234689740-wooak5fyx",
-        "description": "Suggestion that forces are actively tracking or interested in Sora's abilities",
-        "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755297134463-rfmk04043",
-        "description": "Brass key with arcane symbols, potentially revealing a hidden location",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755297134463-u0kby0s27",
-        "description": "Suppressed information about Westmere region",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755297134463-8c4qutawa",
-        "description": "Hint of a larger conspiracy within the Guild",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755297134463-ll9gdh3vc",
-        "description": "Suggestion of a specific artifact or information being deliberately concealed",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755305490840-7xkiv260a",
-        "description": "Mysterious brass key with arcane symbols",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755305490840-c78tvhx80",
-        "description": "Hints of a hidden room with significant documents in Westmere",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755305490840-atpqg5nct",
-        "description": "Suggestion of a larger conspiracy within the Guild",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
-      },
-      {
-        "id": "1755297021599-1755305490840-syjnluej8",
-        "description": "Potential connection between artifact acquisitions and information suppression",
-        "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-        "category": "plot",
-        "importance": "medium"
       }
     ],
     "resolved": []
   },
   "unresolvedThreads": [
     {
-      "id": "1755164980632-1755219280130-rpbur9334",
+      "id": "marcus-death",
       "description": "What really happened to Marcus Ironwood?",
-      "introducedIn": "Chapter 3: Untitled",
-      "category": "mystery",
-      "importance": "high"
-    },
-    {
-      "id": "1755164980632-1755219280130-z6198uy6c",
-      "description": "Nature and purpose of the Westmere Covenant",
-      "introducedIn": "Chapter 3: Untitled",
-      "category": "mystery",
-      "importance": "high"
-    },
-    {
-      "id": "1755164980632-1755219280130-j5rl7udv1",
-      "description": "Identity of external parties paying the Guild for information suppression",
-      "introducedIn": "Chapter 3: Untitled",
-      "category": "mystery",
-      "importance": "high"
-    },
-    {
-      "id": "1755164980632-1755219280130-bvpq0rd4f",
-      "description": "Full context of the magical artifacts from the Westmere ruins",
-      "introducedIn": "Chapter 3: Untitled",
-      "category": "mystery",
-      "importance": "high"
-    },
-    {
-      "id": "1755164980632-1755219280130-k75ecvxog",
-      "description": "Origin and meaning of the goblin population surge",
-      "introducedIn": "Chapter 3: Untitled",
-      "category": "mystery",
-      "importance": "high"
-    },
-    {
-      "id": "1755234053713-1755234689740-gmdzl0uxb",
-      "description": "True cause of Marcus Ironwood's death",
-      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755234053713-1755234689740-gwuf05x6c",
-      "description": "Identity and motives of the anonymous requester",
-      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755234053713-1755234689740-hi1za5hvf",
-      "description": "Extent of the potential archaeological discovery conspiracy",
-      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755234053713-1755234689740-ty1buzu9g",
-      "description": "Details of the dangerous magic found in the wizard's staff",
-      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755297021599-1755297134463-lrduogsq5",
-      "description": "What specific information is being suppressed about Westmere?",
       "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
       "category": "mystery",
-      "importance": "medium"
+      "importance": "high"
     },
     {
-      "id": "1755297021599-1755297134463-2z99vda26",
+      "id": "artifact-purpose",
       "description": "What is the purpose of the targeted artifact recovery?",
       "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
       "category": "mystery",
       "importance": "medium"
     },
     {
-      "id": "1755297021599-1755297134463-whfmaqhsy",
+      "id": "guild-involvement",
       "description": "Who else in the Guild might be involved in the conspiracy?",
       "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
       "category": "mystery",
       "importance": "medium"
     },
     {
-      "id": "1755297021599-1755297134463-57wfls4t9",
-      "description": "What does the brass key unlock?",
-      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "id": "goblin-origin",
+      "description": "Origin and meaning of the goblin population surge.",
+      "introducedIn": "Chapter 3: Untitled",
       "category": "mystery",
       "importance": "medium"
     },
     {
-      "id": "1755297021599-1755297134463-rpp4s35zu",
-      "description": "What happened to Marcus Ironwood?",
-      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755297021599-1755305490840-k4hej8wmt",
-      "description": "What is the significance of the unusual goblin activity?",
-      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755297021599-1755305490840-6qjk5r7p4",
-      "description": "What specific artifact or information is being hidden?",
-      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755297021599-1755305490840-bbx73gkwt",
-      "description": "Who exactly is involved in the information suppression?",
-      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755297021599-1755305490840-d5dkcj9om",
-      "description": "What is the purpose of the mysterious brass key?",
-      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
-      "category": "mystery",
-      "importance": "medium"
-    },
-    {
-      "id": "1755297021599-1755305490840-69gnsml4n",
-      "description": "What happened in the Westmere region?",
-      "introducedIn": "Chapter 6: Buried Secrets in Millbrook",
+      "id": "anonymous-requester",
+      "description": "Identity and motives of the anonymous requester for Sora's services.",
+      "introducedIn": "Chapter 4: Uncovering Dangerous Truths",
       "category": "mystery",
       "importance": "medium"
     }
   ],
-  "storySummary": "",
+  "storySummary": "Sora Ashworth, a young archivist with empathic abilities, uncovers a web of conspiracy and suppressed knowledge at the Glyphmere Guild. With Kael, Elena, and Master Aldric, she investigates the mysterious death of Marcus Ironwood, the surge in goblin activity, and the secrets hidden in the Westmere ruins. The discovery of a brass key and evidence of Guild corruption set the stage for a deeper exploration of truth and danger.",
   "worldNotes": {
     "magicalOrganizations": [
       {
-        "name": "Adventurer's Guild",
-        "characteristics": [
-          "Bureaucratic",
-          "Potential information suppression",
-          "Complex record-keeping system"
-        ]
+        "name": "Glyphmere Adventurer's Guild",
+        "description": "Central hub for adventurers, scholars, and magical research. Oversees contracts, artifact recovery, and regional security."
       }
     ],
     "artifacts": [
       {
-        "name": "Westmere Collection",
-        "description": "Hidden archive of magical objects preserving suppressed historical knowledge",
-        "origin": "Unknown",
-        "significance": "Potentially revealing hidden truths about magical history"
+        "name": "Brass Key",
+        "description": "Ornate, arcane-marked key found in Marcus Ironwood's study. Believed to unlock a hidden archive or artifact vault in Westmere."
       }
     ]
   },
-  "timeline": [],
+  "timeline": [
+    "Sora's vision in Millhaven reveals corruption (Chapter 1)",
+    "Sora joins Glyphmere Guild (Chapter 2)",
+    "Goblin surges and contract anomalies (Chapter 3)",
+    "Investigation into Marcus's death and Guild conspiracy (Chapters 4-6)"
+  ],
   "other": {},
   "lastUpdated": "2025-08-16T00:51:30.840Z",
-  "version": "1.0"
+  "version": "1.1"
 }
