@@ -1,7 +1,7 @@
 # Story Bible – Light Fantasy Adventure Novel
 
 ## Core Premise
-Nyra Remniel is a native of Elarion, born and raised in a world where magic is studied like science and monsters threaten civilization. She starts out weak and overlooked, but grows through relentless effort, mastering Witchcraft. Her personality is happy, quirky, curious, smart, sassy, and often oblivious to the chaos she causes—her clever ideas and reform-minded spirit spark unintended revolutions wherever she goes. Nyra’s journey is driven by curiosity and a desire to improve the world, blending cozy slice-of-life immersion with moments of high drama and lasting change. Her closest companion is Cairn, a golem she crafted herself—a living testament to the power and mystery of Eastern Magic. Together, they bridge cultures, heal old wounds, and uncover the secrets buried by history, often upending the status quo in ways no one expects.
+Lin Xiu is a native of Elarion, born and raised in a world where magic is studied like science and monsters threaten civilization. She starts out weak and overlooked, but grows through relentless effort, mastering Witchcraft. Her personality is happy, quirky, curious, smart, sassy, and often oblivious to the chaos she causes—her clever ideas and reform-minded spirit spark unintended revolutions wherever she goes. Lin Xiu’s journey is driven by curiosity and a desire to improve the world, blending cozy slice-of-life immersion with moments of high drama and lasting change. Her closest companion is Cairn, a golem she crafted herself—a living testament to the power and mystery of Eastern Magic. Together, they bridge cultures, heal old wounds, and uncover the secrets buried by history, often upending the status quo in ways no one expects.
 ---
 
 ## Narrative Planning
@@ -9,38 +9,39 @@ Nyra Remniel is a native of Elarion, born and raised in a world where magic is s
 ### Major Story Arcs & Life Stages
 
 1. **Roots of Witchcraft (Ages 4–16)**
-   - Nyra’s childhood in the forest, learning Witchcraft from her grandmother. Bonding with Cairn, her golem companion. Emotional focus: wonder, innocence, family, longing for connection.
+   - Lin Xiu’s childhood in the forest, learning Witchcraft from her grandmother. After a life-changing event—her grandmother’s passing—Lin Xiu inherits her grandmother’s unique Manastone, a one-of-a-kind spiritual vessel. Driven by grief and longing for connection, Lin Xiu Etches the Golem Heart into this Manastone, creating Cairn, her golem companion. Over time, Cairn begins to subtly manifest aspects of Grandma’s personality—wise, dry-witted, stubborn, and fiercely protective—serving as a fun, grounding foil to Lin’s quirky optimism. Emotional focus: wonder, innocence, family, loss, longing for connection, and the birth of new bonds.
    - Personality: Calm, secretive, thoughtful; quietly confident but still learning her limits. Clever, upbeat, resourceful, curious, quirky.
+   - Grandma’s Personality (later inherited by Cairn): Wise, dry-witted, stubborn, fiercely protective, practical, and fond of gentle teasing. Cairn’s emerging traits often counterbalance Lin’s impulsiveness and idealism, providing comic relief, sage advice, and unexpected emotional depth.
 
 2. **Adventures with Cairn (Ages 16–20)**
-   - Nyra and Cairn explore the wilds, face monsters, and uncover ancient secrets. Their friendship deepens as they test the limits of Witchcraft. Emotional focus: discovery, loyalty, growth.
+   - Lin Xiu and Cairn explore the wilds, face monsters, and uncover ancient secrets. Their friendship deepens as they test the limits of Witchcraft. Emotional focus: discovery, loyalty, growth.
 
 3. **Magic College & Rebellion (Years 1–4, Ages 20–24)**
-   - Nyra attends the Royal Academy, challenging the norms of Western Magic. Philosophical and practical rebellion against formal magic. Key events: summer/winter vacations, magical duels, friendships, and rivalries. Emotional focus: identity, defiance, transformation.
+   - Lin Xiu attends the Royal Academy, challenging the norms of Western Magic. Philosophical and practical rebellion against formal magic. Key events: summer/winter vacations, magical duels, friendships, and rivalries. Emotional focus: identity, defiance, transformation.
 
 4. **Graduation & Dungeon Adventures (Ages 24–26)**
-   - Nyra graduates and joins the Adventurer’s Guild. She and Cairn undertake high-stakes dungeon explorations, facing legendary monsters and magical anomalies. Emotional focus: teamwork, ambition, risk.
+   - Lin Xiu graduates and joins the Adventurer’s Guild. She and Cairn undertake high-stakes dungeon explorations, facing legendary monsters and magical anomalies. Emotional focus: teamwork, ambition, risk.
 
 5. **Cozy Life & Innovation (Ages 26–32)**
-   - Nyra enjoys the fruits of her adventures, living comfortably and expoling what it means to be a witch. Practicing her horticulture. Emotional focus: peace, creativity, legacy.
+   - Lin Xiu enjoys the fruits of her adventures, living comfortably and exploring what it means to be a witch. Practicing her horticulture. Emotional focus: peace, creativity, legacy.
 
 6. **The Demon Lord’s Return & Final Battle**
-   - The Demon Lord, once a brilliant cultivator corrupted by forbidden magic, returns as the architect of the Cataclysm that severed East from West. His followers orchestrate a second Cataclysm, shattering the laylines and threatening the world's balance. Nyra, with Cairn and her allies, confronts the Demon Lord in a climactic battle that tests her mastery of Witchcraft and her resolve. Emotional focus: courage, sacrifice, cosmic stakes, legacy.
+   - The Demon Lord, once a brilliant cultivator corrupted by forbidden magic, returns as the architect of the Cataclysm that severed East from West. His followers orchestrate a second Cataclysm, shattering the laylines and threatening the world's balance. Lin Xiu, with Cairn and her allies, confronts the Demon Lord in a climactic battle that tests her mastery of Witchcraft and her resolve. Emotional focus: courage, sacrifice, cosmic stakes, legacy.
 
 7. **Exile & Enlightenment**
-   - In a final act of sacrifice, Nyra is trapped in a dimensional prison for 10,000 years. Her exile becomes a journey through the six realms of Buddhist samsara—gods, demi-gods, humans, animals, hungry ghosts, and hells—each realm presenting unique spiritual challenges, temptations, and suffering. In every realm, Nyra faces trials that test her compassion, wisdom, and resolve, encountering echoes of her past, the Demon Lord’s lingering influence, and spirits lost in the Cataclysm. She convenes with the dead in their afterlife, meeting fascinating souls from all eras, witnessing the world’s history unfold, and seeing how the world moves forward without her. Surreal, dreamlike encounters with spirit mentors and karmic visions guide her emotional and magical growth, with each realm offering a lesson or breakthrough. Even as magic fades outside, Nyra’s actions in the realms subtly influence the living world—through dreams, omens, and the survival of Witchcraft in hidden places. Ultimately, she achieves profound enlightenment and forges new spiritual connections, setting the stage for her eventual return. Emotional focus: isolation, transcendence, hope, rebirth, legacy.
+   - In a final act of sacrifice, Lin Xiu is trapped in a dimensional prison for 10,000 years. Her exile becomes a journey through the six realms of Buddhist samsara—gods, demi-gods, humans, animals, hungry ghosts, and hells—each realm presenting unique spiritual challenges, temptations, and suffering. In every realm, Lin Xiu faces trials that test her compassion, wisdom, and resolve, encountering echoes of her past, the Demon Lord’s lingering influence, and spirits lost in the Cataclysm. She convenes with the dead in their afterlife, meeting fascinating souls from all eras, witnessing the world’s history unfold, and seeing how the world moves forward without her. Surreal, dreamlike encounters with spirit mentors and karmic visions guide her emotional and magical growth, with each realm offering a lesson or breakthrough. Even as magic fades outside, Lin Xiu’s actions in the realms subtly influence the living world—through dreams, omens, and the survival of Witchcraft in hidden places. Ultimately, she achieves profound enlightenment and forges new spiritual connections, setting the stage for her eventual return. Emotional focus: isolation, transcendence, hope, rebirth, legacy.
 
 8. **A World Without Magic & Societal Revolution**
-   - Nyra awakens to a world transformed by rationalism and monarchy, where magic has faded from memory and society mirrors the upheaval of late 1700s France. As she navigates this new era, Nyra becomes a catalyst for change—rediscovering lost magic, inspiring revolution, and helping redefine the place of Witchcraft and spiritual traditions. Her actions spark a societal awakening, blending old wisdom with new ideals. Emotional focus: adaptation, revolution, renewal, legacy.
+   - Lin Xiu awakens to a world transformed by rationalism and monarchy, where magic has faded from memory and society mirrors the upheaval of late 1700s France. As she navigates this new era, Lin Xiu becomes a catalyst for change—rediscovering lost magic, inspiring revolution, and helping redefine the place of Witchcraft and spiritual traditions. Her actions spark a societal awakening, blending old wisdom with new ideals. Emotional focus: adaptation, revolution, renewal, legacy.
 
 9. **Founding of Witch’s Academy & New Beginnings**
-   - Nyra establishes the Witch’s Academy, blending Eastern and Western traditions. She guides a new era of magic, fostering harmony and innovation. Now immortal she guides the world with harmony. Emotional focus: wisdom, teaching, new beginnings.
+   - Lin Xiu establishes the Witch’s Academy, blending Eastern and Western traditions. She guides a new era of magic, fostering harmony and innovation. Now immortal she guides the world with harmony. Emotional focus: wisdom, teaching, new beginnings.
 
 ---
 
 ### Arc Breakdown & Planning Notes
 - Each arc/life stage should have clear goals, stakes, and emotional beats. See "Narrative Hooks" in the History section for recurring themes and connections.
-- Track Nyra’s growth, relationships, and evolving worldview across decades and epochs.
+- Track Lin Xiu’s growth, relationships, and evolving worldview across decades and epochs.
 - Use time skips and major events (e.g., dimensional exile, revolution) to explore transformation and legacy.
 - Foreshadow mysteries and unresolved threads early; resolve or transform them by the end.
 - Balance action, worldbuilding, and character moments throughout the story.
@@ -53,18 +54,18 @@ Within his prison, the Demon Lord twisted Eastern magics to create life, spawnin
 
 Outside the prison, the trauma of the Cataclysm led to cultural amnesia. The surviving powers—Adventurer’s Guild, Luminant Church, and Royal Academies—suppressed knowledge of Witchcraft and Eastern magic, blaming them for the disaster. Magic became institutionalized, rationalism flourished, and the old ways were nearly forgotten. The descendants of Eastern Magic practitioners became fewer and more isolated.
 
-Eventually, the Demon Lord’s followers orchestrated a second Cataclysm, aiming to break him free. Nyra, inheritor of Eastern Magic and spiritual legacy, confronts the Demon Lord, defeats him, and enters the prison herself to heal the shattered laylines. While Nyra is in the prison, the laylines nearly vanish from the outside world, and magic fades from memory. Using advanced Threadcraft, Nyra works to restore the world’s magical balance and commune with the spirits of those lost in the Cataclysm.
+Eventually, the Demon Lord’s followers orchestrated a second Cataclysm, aiming to break him free. Lin Xiu, inheritor of Eastern Magic and spiritual legacy, confronts the Demon Lord, defeats him, and enters the prison herself to heal the shattered laylines. While Lin Xiu is in the prison, the laylines nearly vanish from the outside world, and magic fades from memory. Using advanced Threadcraft, Lin Xiu works to restore the world’s magical balance and commune with the spirits of those lost in the Cataclysm.
 
-**Connections to Nyra:**
-- Nyra’s lineage is tied to those who opposed the Demon Lord and sought to prevent the Cataclysm.
+**Connections to Lin Xiu:**
+- Lin Xiu’s lineage is tied to those who opposed the Demon Lord and sought to prevent the Cataclysm.
 - Her journey is both personal and cosmic: rediscovering lost magic, healing the world, and bridging East and West.
-- The Demon Lord sees Nyra as a threat to his power and philosophy, making her exile and struggle central to the fate of magic itself.
+- The Demon Lord sees Lin Xiu as a threat to his power and philosophy, making her exile and struggle central to the fate of magic itself.
 
 **Narrative Hooks & Arc Connections:**
-- The Demon Lord’s shadow looms over every arc, from Nyra’s childhood stories to her exile and return.
-- The Cataclysm’s mysteries are gradually unraveled, revealing the true history and Nyra’s role in healing the world.
-- Nyra’s cultivation and breakthroughs echo and counter the Demon Lord’s path, creating a philosophical and magical rivalry that drives the story.
-- See "Major Story Arcs" for how these hooks and themes manifest across Nyra's journey.
+- The Demon Lord’s shadow looms over every arc, from Lin Xiu’s childhood stories to her exile and return.
+- The Cataclysm’s mysteries are gradually unraveled, revealing the true history and Lin Xiu’s role in healing the world.
+- Lin Xiu’s cultivation and breakthroughs echo and counter the Demon Lord’s path, creating a philosophical and magical rivalry that drives the story.
+- See "Major Story Arcs" for how these hooks and themes manifest across Lin Xiu's journey.
 ---
 
 ## World Overview
