@@ -1,7 +1,7 @@
 # Story Bible – Light Fantasy Adventure Novel
 
 ## Core Premise
-Nyra Remniel is a native of Elarion, born and raised in a world where magic is studied like science and monsters threaten civilization. She starts out weak and overlooked, but grows through relentless effort, mastering a specific craft and a systems-based magic that others dismiss or misunderstand. Her personality is happy, quirky, curious, smart, sassy, and often oblivious to the chaos she causes—her clever ideas and reform-minded spirit spark unintended revolutions wherever she goes. Nyra’s journey is driven by curiosity and a desire to improve the world, blending cozy slice-of-life immersion with moments of high drama and lasting change. Her closest companion is Cairn, a golem she crafted herself—a living testament to the power and mystery of Eastern Magic. Together, they bridge cultures, heal old wounds, and uncover the secrets buried by history, often upending the status quo in ways no one expects.
+Nyra Remniel is a native of Elarion, born and raised in a world where magic is studied like science and monsters threaten civilization. She starts out weak and overlooked, but grows through relentless effort, mastering Witchcraft. Her personality is happy, quirky, curious, smart, sassy, and often oblivious to the chaos she causes—her clever ideas and reform-minded spirit spark unintended revolutions wherever she goes. Nyra’s journey is driven by curiosity and a desire to improve the world, blending cozy slice-of-life immersion with moments of high drama and lasting change. Her closest companion is Cairn, a golem she crafted herself—a living testament to the power and mystery of Eastern Magic. Together, they bridge cultures, heal old wounds, and uncover the secrets buried by history, often upending the status quo in ways no one expects.
 ---
 
 ## Narrative Planning
@@ -65,32 +65,6 @@ Eventually, the Demon Lord’s followers orchestrated a second Cataclysm, aiming
 - The Cataclysm’s mysteries are gradually unraveled, revealing the true history and Nyra’s role in healing the world.
 - Nyra’s cultivation and breakthroughs echo and counter the Demon Lord’s path, creating a philosophical and magical rivalry that drives the story.
 - See "Major Story Arcs" for how these hooks and themes manifest across Nyra's journey.
----
-
-## Narrative Planning: Major Arcs & Emotional Focus
-//TODO: Look into Updating and Editing this to be less redundent.
-
-### Arc 1: Demon Lord’s Return
-- Foreshadowed through monster outbreaks, corrupted mana, and ancestral warnings.
-- Nyra and allies race to uncover the Demon Lord’s true nature and prevent a second Cataclysm.
-- Emotional focus: dread, hope, sacrifice, redemption.
-
-### Arc 2: Exile & Enlightenment
-- Nyra’s journey through the six realms of Buddhist samsara (hell, hungry ghosts, animals, humans, asuras, gods).
-- Encounters with the dead, spirit beasts, and haunted shrines.
-- Subtle influence on the living world, shaping fate and karma.
-- Emotional focus: loss, growth, spiritual awakening, reconciliation.
-
-### Arc 3: Guild Politics & Worldbuilding
-- Power struggles within the Adventurer’s Guild, alliances with witches, luminists, and outcasts.
-- Contracts, monster hunts, and magical research drive the plot.
-- Emotional focus: ambition, loyalty, betrayal, camaraderie.
-
-### Planning Notes
-- Cross-reference narrative hooks with character arcs and world events.
-- Use lists for contract types, monster parts, and guild ranks for LLM compatibility.
-- Integrate folklore/cultivation themes into emotional beats and plot twists.
-
 ---
 
 ## World Overview
@@ -212,7 +186,13 @@ Witchcraft in this world is rooted in the belief that everything has a spirit, a
 - **Dwarves**: Hardy, tech-savvy, stoic. Engineers, miners, rune-smiths.
 - **Demons**: High mana affinity, feared. Often marginalized, some serve as elite mages or mercenaries.
 
-//TODO: Racial interactions / Add traditions, holidays, taboos, and inter-group dynamics.
+### Racial Interactions, Traditions & Social Dynamics
+- **Humans & Elves**: Trade, scholarship, and occasional rivalry. Elves host seasonal moon festivals; humans celebrate harvest fairs and founding days. Taboos include disrespecting ancestral shrines and forbidden magic.
+- **Dwarves & Humans**: Collaborate on engineering, mining, and commerce. Dwarves hold forge festivals and honor craftsmanship; humans join in with market days. Taboos: breaking contracts, wastefulness.
+- **Elves & Dwarves**: Mutual respect for tradition, but friendly debates over magic vs. technology. Joint solstice celebrations, but avoid discussing lost histories.
+- **Demons & Others**: Often marginalized, but some serve as elite mages or mercenaries. Demons honor the Night of Remembrance, a holiday for ancestors and lost kin. Taboos: open displays of forbidden magic, disrespecting laylines.
+- **Inter-group Dynamics**: Mixed communities form in cities and guilds, leading to cultural blending, shared holidays, and occasional friction. Festivals, food exchanges, and storytelling nights foster understanding. Taboos and traditions vary, but most groups value hospitality, respect for elders, and the sanctity of magic.
+
 ---
 
 ## Adventurer’s Guild
@@ -289,6 +269,10 @@ The Adventurer’s Guild is the largest and most influential contractor organiza
   - Let NPCs react in varied ways to the protagonist’s chaos—admiration, horror, confusion, awe.
   - Parody genre conventions lightly, using the protagonist’s perspective and NPC reactions.
   - Weave political, economic, and social themes subtly into the background.
+  - Track the progression of time and seasons; use seasonal changes to shape mood, events, and character growth.
+  - Track money earned and spent; let finances influence choices, opportunities, and daily life.
+  - Focus on immersive elements: food, weather, routines, and the details of survival.
+  - Occasionally lean into dark, tense wilderness survival arcs—highlighting struggle, resourcefulness, and the emotional impact of danger and isolation.
 
 - **Don’ts**:
   - Avoid RPG tropes, game mechanics, or leveling systems.
