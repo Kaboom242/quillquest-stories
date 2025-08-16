@@ -1,19 +1,139 @@
 {
   "characters": {
-    "active": [],
+    "active": [
+      {
+        "name": "Lin Xiu",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": [
+          "Experienced Bronze-rank adventurer",
+          "Trained in Witchcraft by her grandmother",
+          "Believes in spiritual awareness of magical constructions",
+          "Curious and analytical investigator"
+        ],
+        "background": [
+          "Experienced Bronze-rank adventurer",
+          "Trained in Witchcraft by her grandmother",
+          "Believes in spiritual awareness of magical constructions",
+          "Curious and analytical investigator"
+        ],
+        "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+      },
+      {
+        "name": "Mira",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": [
+          "Experienced receptionist at the Adventurer's Guild",
+          "Has worked at the guild for five years",
+          "Intuitive about magical anomalies"
+        ],
+        "background": [
+          "Experienced receptionist at the Adventurer's Guild",
+          "Has worked at the guild for five years",
+          "Intuitive about magical anomalies"
+        ],
+        "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+      },
+      {
+        "name": "Cairn",
+        "status": "active",
+        "traits": "",
+        "personality": "",
+        "description": [
+          "Lin Xiu's golem companion",
+          "Potentially unique in how it might interact with the dungeon"
+        ],
+        "background": [
+          "Lin Xiu's golem companion",
+          "Potentially unique in how it might interact with the dungeon"
+        ],
+        "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+      }
+    ],
     "inactive": [],
     "history": []
   },
   "locations": [],
   "foreshadowing": {
-    "pending": [],
+    "pending": [
+      {
+        "id": "1755357871931-1755357963834-a522178kg",
+        "description": "The dungeon's ability to change and potentially think",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755357871931-1755357963834-1fdhjlpxx",
+        "description": "Pre-Cataclysm runes that shift when observed",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755357871931-1755357963834-psruuttcc",
+        "description": "Hints of an ancient, possibly sentient magical construct",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      },
+      {
+        "id": "1755357871931-1755357963834-xf4pfmdxv",
+        "description": "Potential awakening of a long-dormant magical entity",
+        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+        "category": "plot",
+        "importance": "medium"
+      }
+    ],
     "resolved": []
   },
-  "unresolvedThreads": [],
+  "unresolvedThreads": [
+    {
+      "id": "1755357871931-1755357963834-zmffohng7",
+      "description": "The true nature and origin of the shape-shifting dungeon",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357963834-4pumg8nno",
+      "description": "The purpose of the pre-Cataclysm magical construction",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357963834-jjeqdw32z",
+      "description": "What happened to the previous survey teams",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357963834-skrt1oja6",
+      "description": "The meaning of the changing runes",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    },
+    {
+      "id": "1755357871931-1755357963834-7j8adhuqj",
+      "description": "The potential consciousness within the dungeon",
+      "introducedIn": "Chapter 1: Echoes of an Ancient Awakening",
+      "category": "mystery",
+      "importance": "medium"
+    }
+  ],
   "storySummary": "",
   "worldNotes": "",
   "timeline": [],
   "other": {},
-  "lastUpdated": "2025-08-16T15:24:30.131Z",
+  "lastUpdated": "2025-08-16T15:26:03.834Z",
   "version": "1.0"
 }
