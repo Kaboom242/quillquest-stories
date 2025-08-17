@@ -262,37 +262,15 @@ The Adventurer’s Guild is the largest and most influential contractor organiza
 
 ## Creative Guidelines
 
-- **Do’s**:
-  - Focus on slice-of-life pacing: alternate quiet, everyday scenes with moments of chaos, cleverness, and emotional growth.
-  - Use underestimated, quirky, and oblivious characters for humor and plot twists.
-  - Let hard choices and lasting consequences drive character arcs—don’t shy away from struggle or failure.
-  - Reveal worldbuilding through daily life, relationships, and small discoveries, not info dumps.
-  - Make magic feel practical, personal, and sometimes inconvenient; show how it shapes ordinary routines and reform efforts.
-  - Highlight friendships, found family, and the bonds formed through adversity.
-  - Use humor, surprise, and awkwardness to keep the tone light even in serious moments.
-  - Include episodic interludes during timeskips or downtime to explore side stories and world details.
-  - Let NPCs react in varied ways to the protagonist’s chaos—admiration, horror, confusion, awe.
-  - Parody genre conventions lightly, using the protagonist’s perspective and NPC reactions.
-  - Weave political, economic, and social themes subtly into the background.
-  - Track the progression of time and seasons; use seasonal changes to shape mood, events, and character growth.
-  - Track money earned and spent; let finances influence choices, opportunities, and daily life.
-  - Focus on immersive elements: food, weather, routines, and the details of survival.
-  - Occasionally lean into dark, tense wilderness survival arcs—highlighting struggle, resourcefulness, and the emotional impact of danger and isolation.
-
-- **Don’ts**:
-  - Avoid RPG tropes, game mechanics, or leveling systems.
-  - Don’t rely on epic battles or power fantasy as the main draw—focus on character, consequence, and cleverness.
-  - Don’t let exposition or bureaucracy bog down pacing; keep scenes lively and character-focused.
-  - Don’t neglect the emotional impact of choices, loss, or transformation—let consequences linger.
-  - Avoid slavery as a theme.
-  - Avoid too many unresolved mysteries; foreshadow and resolve plot threads for satisfying payoffs.
-
-- **Pacing Tips**:
-  - Open with strong character hooks and everyday stakes; escalate tension through personal challenges and clever solutions.
-  - Alternate between slice-of-life, chaos, and moments of reflection or growth.
-  - Use time skips, flashbacks, and consequences to explore legacy and transformation.
-  - Let characters reflect on their journey, relationships, and the impact of their actions between major events.
+- **Pacing & Mystery**: Avoid early, convenient revelations about ancient magic, spirits, or Lin Xiu’s heritage. Introduce mysteries gradually, using ruins and artifacts to offer only fragments and hints, not direct answers. Emphasize the shifting, damaged nature of ancient sites, with lost knowledge and inaccessible secrets creating awe and frustration for Lin Xiu.
+- **Animist Spirits**: Spirits are revered and mysterious, never technological or mechanical. Their influence is subtle, shaping the land and magic, but they do not directly teach or reveal themselves early in the story.
+- **Character Roles & Growth**: Lin Xiu’s progress is earned through her own skills, dedication, and strategic planning. She prepares in advance, foreshadowing tools and techniques she will use later, but must adapt quickly when plans go awry. Her journey is driven by curiosity, persistence, and a desire to understand, with each discovery raising new questions and deepening the sense of wonder and mystery. Cairn provides practical, deadpan commentary and gentle support, not exposition or mystical insight.
+- **Slice-of-Life & Emotional Depth**: Focus on immersive, everyday scenes, clever solutions, and emotional growth. Use humor, surprise, and awkwardness to keep the tone light, and let consequences and character arcs develop naturally. Reveal worldbuilding through daily life and relationships, not info dumps.
+- **World, Survival & Resource Management**: Track the progression of time and seasons, and let these influence mood, events, and character growth. Track money earned and spent; let finances and resource management shape choices, opportunities, and daily life. Lean into tense wilderness survival and resourcefulness when the situation applies, highlighting struggle, adaptation, and the emotional impact of danger and isolation.
+- **Tone & Style**: Maintain a cozy, witty, and emotionally warm atmosphere, balancing small joys and dramatic moments. Parody genre conventions lightly, and weave political, economic, and social themes subtly into the background. Avoid RPG tropes, slavery, and excessive exposition.
 
 ---
 
 - Lin Xiu is a rare practitioner of Witchcraft, a tradition nearly lost in the West. Her methods, tools, and magical philosophy are unfamiliar to most Western mages and guild staff. She crafts her own talismans, wards, and magical implements from raw materials, adapting what she can from Western supplies but relying on unique Eastern techniques. The Adventurer's Guild and Royal Academies have little understanding of Witchcraft's true nature, and Lin Xiu's abilities are often underestimated or misunderstood.
+
+---
