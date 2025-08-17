@@ -7,9 +7,7 @@
         "traits": "Curious, quirky, clever, reform-minded, deeply spiritual, persistent, often oblivious to chaos she causes",
         "personality": "Happy, sassy, idealistic, compassionate, practical, deeply believes in Animist spirits and Witchcraft traditions",
         "appearance": "Petite, with expressive dark eyes, long black hair often tied back, usually dressed in practical travel clothes and a well-worn cloak. Hands often stained with ink or clay from her magical work.",
-        "description": "Native of Elarion, rare practitioner of Witchcraft, inheritor of her grandmother's manastone, skilled in claybinding, etching, threadcraft, and horticulture. Stands out for her Eastern magical philosophy and unique worldview.",
-        "lastSeenIn": "Chapter 2: Echoes of the Ageless Realm",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+        "description": "Native of Elarion, rare practitioner of Witchcraft, inheritor of her grandmother's manastone, skilled in claybinding, etching, threadcraft, and horticulture. Stands out for her Eastern magical philosophy and unique worldview."
       },
       {
         "name": "Cairn",
@@ -17,9 +15,7 @@
         "traits": "Protective, practical, gentle, dry-witted, subtly echoes Lin Xiu's grandmother's personality",
         "personality": "Grounded, patient, quietly observant, deadpan humor, fiercely loyal, gentle, practical counterbalance to Lin Xiu's impulsiveness. Emotional depth and self-awareness develop gradually and remain understated. Not super-sentient or sage-like; wisdom is simple, practical, and sometimes unintentionally funny. Does not experience vivid memories or mystical revelations, but mannerisms and responses occasionally reflect Lin Xiu’s grandmother in subtle ways.",
         "appearance": "Nearly seven feet tall, rough-hewn and imposing, with chisel-cut muscles, slow lumbering movements, and a mix of hard baked clay for limbs/torso and soft clay at the joints. Three thick fingers per hand, inset glowing eyes, no neck—head rises from reinforced shoulder armor with metal rings. Wears flowing red weathered cloth and silver rune-etched bracelets, with other silver metal etchings across his body. Grandmother's manastone rests in his chest like crystallized starlight, surrounded by intricate etchings and metalwork.",
-        "description": "Golem companion created by Lin Xiu using her grandmother's manastone. Central to the emotional heart of the story, Cairn provides comic relief, practical advice, and stability, especially in moments of uncertainty or danger. His gradual development of self-awareness and emotional nuance is a slow-burning thread, enriching Lin Xiu’s journey with quiet connection and gentle humor.",
-        "lastSeenIn": "Chapter 2: Echoes of the Ageless Realm",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+        "description": "Golem companion created by Lin Xiu using her grandmother's manastone. Central to the emotional heart of the story, providing short consise deadpan humor."
       },
       {
         "name": "Mira",
@@ -27,9 +23,15 @@
         "traits": "Intuitive, friendly, efficient, experienced",
         "personality": "Cheerful, helpful, perceptive, professional",
         "appearance": "Young woman with auburn hair in a neat bun, freckled face, green eyes, always dressed in tidy guild attire.",
-        "description": "Receptionist at the Adventurer's Guild, skilled at handling contracts and paperwork, has a knack for sensing unusual magical cases.",
-        "lastSeenIn": "Chapter 1: Echoes of an Ancient Awakening",
-        "introducedIn": "Chapter 1: Echoes of an Ancient Awakening"
+        "description": "Receptionist at the Adventurer's Guild, skilled at handling contracts and paperwork, has a knack for sensing unusual magical cases."
+      },
+      {
+        "name": "Tamsin Brightwater",
+        "status": "active",
+        "traits": "Airheaded, earnest, highly intelligent but scatterbrained, insecure, eager to prove herself, prone to babbling, surprisingly intuitive when not overthinking",
+        "personality": "Nervous, excitable, self-deprecating, deeply curious, struggles with self-doubt, but shows flashes of brilliance and adaptability. Trained in Western magic theory, but open to new ideas.",
+        "appearance": "Young woman with wild blonde hair, blue eyes, Royal Academy robes often in disarray, perpetually clutching a satchel full of magical tools and notes.",
+        "description": "Junior Researcher, Third Class, Royal Academy of Magical Arts. Sent by the Ministry to assist Lin Xiu and Cairn, Tamsin is a Western mage specializing in Theoretical Elementalism and Applied Enchantment. Her practical skills lag behind her theoretical knowledge, but she is quick to learn and adapt, especially when exposed to Witchcraft. Her insecurity and babbling mask a sharp mind and genuine desire to connect with others."
       }
     ],
     "inactive": [],
