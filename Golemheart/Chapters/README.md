@@ -30,4 +30,4 @@ After your critique, include:
 ## Step 3: 
 Take the Critique and rewrite the chapter, preform major rewrites and throw out large problematic sections, or the whole chapter, be through in your fixes. 
 ## Step 4:
-Continue to iterate through this process until that chapter is 8 or above. and 4000+ words long.
+Continue to iterate through this process until that chapter is 8 or above. and 2000+ words long.
