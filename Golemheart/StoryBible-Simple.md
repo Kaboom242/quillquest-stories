@@ -65,9 +65,9 @@
 
 ## Lin Xiu – The First Witch
 
-- Lin Xiu is the first Witch, developing Witchcraft techniques inspired by the stories and traditions her grandmother brought from 'The east'.
+- Lin Xiu is the first Witch, developing Witchcraft techniques inspired by the stories and traditions her grandmother brought from 'The east' (Rarely mentioned).
 - Her journey blends Eastern spiritual wisdom with the practical, guild-driven, and hierarchical world of the Germanic fantasy setting.
-- Lin Xiu’s Witchcraft is new and evolving, built from her own discoveries and the tales of her grandmother. She is a pioneer, learning through trial, error, and adaptation.
+- Lin Xiu’s Witchcraft is new and evolving. She is a pioneer, learning through trial, error, and adaptation.
 - Her status as the First Witch sets her apart, making her a target of curiosity, skepticism, and intrigue among nobles, guilds, and rival mages.
 - The contrast between Lin Xiu’s Eastern heritage and the Germanic world is a source of both conflict and innovation, driving the story’s themes of cultural exchange, adaptation, and transformation.
 - **Author Note:** As the story progresses, the LLM should periodically ask what new magics or techniques Lin Xiu might learn next. Use hints and foreshadowing to weave in future magical advancements, drawing from the author’s notes as needed. This allows Witchcraft to grow organically and keeps the system fresh and surprising for both the reader and writer.
