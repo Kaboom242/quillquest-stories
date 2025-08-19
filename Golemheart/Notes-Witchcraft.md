@@ -18,16 +18,32 @@
 
 - **Horticulture – Magic of Growth and Healing**: Witches cultivate magical plants, herbs, and fungi for spellwork, potions, and rituals. Gardens are sanctuaries, living wards, and sources of sentient plant companions. Practices include enchanted soil, mana-infused water, and ritual planting. Horticulture magic heals, purifies, and transforms, influenced by seasons, moon phases, and local spirits. Overharvesting or neglect can weaken magic or anger spirits.
 
+### Potioncraft – Magic of Transformation and Intent  
+- Potioncraft distills intent into liquid form, Potions heal, reveal, protect, or transform, shaped by the brewer’s qi, seasonal timing, and spirit harmony.  
+- Brewing is a ritual: enchanted vessels, Stirring patterns, breathwork, and incantations influence potency.  
+- Common types include restoratives, poisons, bindings, and transformations.  
+- Impure intent or corrupted ingredients can destabilize brews, causing magical backlash.  
+
 ### Tools of Witchcraft
-- Clay tablets with etched runes (runes, arrays, glyphs)
+- stones with etched runes (runes, arrays, glyphs)
 - Paper talismans (fu), ritual brushes, enchanted ink
 - Thread and needle for binding spells; enchanted needles, spirit silk
 - Loop of String used for string figures
 - Fire pits and kilns for crafting advanced magic; warding circles, healing fires
 - Chalk / Manapen and Tablet for portable etching
+- Mortar and pestal
 - Ritual knives, ancestor tablets
 - Spirit lanterns, used to better see Laylines they follow; sometimes used to sense Animist spirits
-- Flying Broom
+- Flying Broom  / Walking stick
+- A Witch's Bell, vibrations of a bell move the energies and in the rituals. It is used to start or to close a spell.
+- Book of Shadows, a Grimoire of Spells, Runes and Talismans.
+- The Athame, a knife never used to cut, exclusively to direct the Energy
+- Candles, and a Alter. a white candle for the Mother and a black one for the Father.
+- Censers / Incense, burned charcoal, herbs, and incese grains
+- Salt - warding away evil spirits.
+- Black Mirror, used for divination
+- witches hat
+- Pendulum - Silver chain and manacrystal weight, used to comune with and ask the spirits questions.
 
 ### Advanced Techniques
 - **Necromancy & Ancestor Magic**: Runes inscribed on paper talismans attached to a zombie’s forehead; spirit binding and respectful ancestor veneration. Rituals to commune with ancestors, seek guidance, or resolve lingering karma.
