@@ -6,7 +6,7 @@ The morning sun painted Königshafen's walls gold in the distance, but Heinrich 
 
 Lin shifted beside him on the wagon seat, her blackthorn staff warm against her palm. The turnips' song tugged at something deep in her chest, and she could almost understand the words they were weaving together. Almost, but not quite, which somehow made it worse.
 
-"Maybe they're just excited," she offered, though her own stomach churned with dread. 
+"Maybe they're just excited," she offered, though her own stomach churned with dread.
 
 Heinrich's laugh held no humor. "Excited. Yes, that's exactly what I need—excited magical vegetables meeting Duke Wilhelm. Do you know what happens to farmers accused of dark magic, Lin? They don't just lose their crops. They lose everything. Their land, their families, their lives."
 
@@ -186,6 +186,6 @@ Heinrich, still pale but no longer looking like a man facing execution, managed 
 
 Lin looked at her friends, at the turnips who were now apparently planning their setlist for tomorrow's festival, and at the castle that had become the stage for whatever came next. The laylines beneath her feet hummed with possibility, and for the first time since awakening her first plant, she felt ready to discover what else her magic could do.
 
-"Both," she said, gripping her grandmother's staff with new determination. "We're probably going to be both. And somehow, that doesn't scare me anymore."
+"Both," she said, gripping her Blackthorn staff with new determination. "We're probably going to be both. And somehow, that doesn't scare me anymore."
 
 Big Bertha's response sounded suspiciously like applause.
