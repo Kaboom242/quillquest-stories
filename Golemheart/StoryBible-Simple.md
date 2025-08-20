@@ -86,7 +86,8 @@
 
 - **Threadcraft – Magic of Connection and Fate**: Witches manipulate invisible threads that bind people, places, and objects, echoing the laylines that connect all things. Used for sympathetic magic, fate weaving, and relationship bonds. Rituals involve weaving, knotting, or embroidery, sometimes using enchanted needles or string figures. Threadcraft can nudge connections, reveal destinies, or augment magic, but cannot force true love or fate. Severing threads can cause emotional pain or magical backlash.
 
-- **Hearthflame – Magic of Home and Self**: Focused on warmth, sanctuary, and inner strength. Hearthflame magic nurtures, heals, and protects, using ritual fires, warding circles, and ancestor offerings. Developing one's internal heart flame (qi) is central—through meditation, tea, and emotional resilience. Hearthflame purifies spaces, restores vitality, and supports community rituals. Empathy and mental resilience are key to its strength.
+- **Hearthflame – Magic of Home and Self**: Hearthflame – Magic of Home and Self:
+Rooted in the cultivation of one's internal heart flame (qi), Hearthflame magic centers on nurturing, harmonizing, and protecting both self and sanctuary. Practitioners focus on building inner warmth, resilience, and vitality through meditation, breathwork, tea rituals, and emotional cultivation—drawing directly from Eastern traditions of qi (life energy) cultivation. Hearthflame magic purifies spaces, restores health, and weaves protective wards by channeling and balancing qi within the body and environment. Ritual fires, warding circles, and ancestor offerings serve as conduits for qi flow, supporting community rituals and strengthening bonds. True strength comes from empathy, emotional harmony, and the ability to cultivate and share one's inner flame with others, creating sanctuaries of peace and renewal.
 
 - **Horticulture – Magic of Growth and Healing**: Witches cultivate magical plants, herbs, and fungi for spellwork, potions, and rituals. Gardens are sanctuaries, living wards, and sources of sentient plant companions. Practices include enchanted soil, mana-infused water, and ritual planting. Horticulture magic heals, purifies, and transforms, influenced by seasons, moon phases, and local spirits. Overharvesting or neglect can weaken magic or anger spirits.
   - _foreshadow_: Use her blackthorn waking stick to create plant magic grows (thorny vines, bristles for a broom, a hook to carry a lantern)
@@ -186,7 +187,7 @@ The Adventurer’s Guild is the largest and most influential contractor organiza
 ### Tobi – The Mischievous Street Bard / Rogue
 - Appearance: Young, handsome lad with a lute slung over his back, mismatched clothes, and a perpetual smirk. His eyes sparkle with mischief.
 - Skills: Music, illusions, pickpocketing, and storytelling. Can charm crowds or distract guards with a well-timed tune.
-- Dynamic: Tobi and Lin Xiu are chaos twins. They egg each other on, pull pranks, and improvise wildly. Greta and Willi often have to rein them in. He is enojoys filting with everyone, male or female. 
+- Dynamic: Tobi and Lin Xiu are chaos twins. They egg each other on, pull pranks, and improvise wildly. Greta and Willi often have to rein them in. He is enojoys flirting with everyone, male or female. 
 - Party Role: Scout, distraction, and comic relief, often the butt of the joke. Adds levity and local flavor wherever they go.
 - Growth Point: Tobi must learn to channel his mischief into genuine connection, discovering the value of trust, responsibility, and deeper friendship. (hidden a desire for acceptance)
 
