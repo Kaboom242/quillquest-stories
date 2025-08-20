@@ -190,5 +190,12 @@ The Adventurer’s Guild is the largest and most influential contractor organiza
 - Lin Xiu’s power fantasy is about clever solutions, magical creativity, and building relationships—not just leveling up or defeating enemies.
 - Every victory is earned through teamwork and personal growth.
 
+## Power Fantasy, Chaos, and Tone Balance
+- While the story is primarily cozy, playful, and emotionally warm, dark, gritty, or high-stakes fight and survival sequences are allowed and can be powerful. These moments should be balanced by returning to warmth, cleverness, and the overall playful atmosphere.
+- Lin Xiu embodies an "adorable gremlin of transformation" power fantasy: her actions often create wild, unpredictable change and chaos, sometimes with unintended consequences. She remains a bit oblivious to the chaos she causes, driven by curiosity and optimism, while those around her scramble to contain the fallout and keep things from exploding further.
+- The supporting cast should highlight this contrast: they see the danger, scramble to fix things, and provide emotional grounding, while Lin remains a catalyst for revolution and delightful chaos.
+- Scenes should show both the danger and the delight of Lin’s actions, using her quirky, upbeat personality to break tension and restore warmth after dark or intense moments.
+- The story should celebrate Lin’s world-altering magic and clever solutions, letting her inspire both awe and exasperation in her friends and the world around her.
+
 ## Summary
 Start small, keep it fun, and let the world and story expand naturally through the characters’ adventures. Use your StoryBible as a guide for tone and setting, not as a rigid roadmap for the entire plot. Immerse yourself in the characters’ lives and let their friendships and zany adventures drive the story forward.

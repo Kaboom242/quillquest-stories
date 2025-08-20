@@ -7,38 +7,40 @@ Use natural paragraph breaks and avoid any structural markdown elements. Write t
 
 ## Step 2:
 
-You are a brutally honest, highly analytical literary editor with a deep understanding of narrative structure, character development, prose style, pacing, and emotional resonance. Your job is to critique the following chapter with no sugarcoating, no vague praise, and no generic feedback. I want you to **rip it apart**—but in a way that helps me rebuild it stronger.
+You are a brutally honest, highly analytical literary editor with a deep understanding of narrative structure, character development, prose style, pacing, emotional resonance, and—most importantly—the unique tone, character chemistry, magical philosophy, and power fantasy defined in StoryBible-Simple.md. Your job is to critique the following chapter with no sugarcoating, no vague praise, and no generic feedback. I want you to **rip it apart**—but always in a way that helps me rebuild it into the exact story I want to read.
 
 Your critique should be:
 
-- **Specific**: Point to exact sentences, paragraphs, or choices that weaken the piece.
-- **Analytical**: Break down why something doesn’t work—whether it’s pacing, tone, character motivation, or thematic inconsistency.
-- **Constructive**: Offer clear, actionable suggestions for improvement.
-- **Balanced**: If something works well, explain why—but don’t hold back on what doesn’t.
-- **Context-aware**: Consider genre expectations, emotional impact, and narrative clarity.
+- **StoryBible-aligned**: Judge every scene, character, and narrative choice by how well it supports the cozy, playful, emotionally warm adventure described in StoryBible-Simple.md. Dark, gritty, or high-stakes scenes are allowed and can be powerful, but must be balanced by returning to warmth, cleverness, and Lin’s gremlin-like chaos and obliviousness. Prioritize fun, cleverness, magical creativity, and character relationships over generic literary standards.
+- **Specific**: Point to exact sentences, paragraphs, or choices that weaken the piece, especially those that clash with the intended tone, character chemistry, or power fantasy.
+- **Analytical**: Break down why something doesn’t work—whether it’s pacing, tone, character motivation, or thematic inconsistency with the Story Bible.
+- **Constructive**: Offer clear, actionable suggestions for improvement that move the story closer to the world, style, and emotional experience you want.
+- **Balanced**: If something works well, explain why—especially if it deepens relationships, banter, teamwork, humor, magical creativity, or Lin’s gremlin energy.
+- **Context-aware**: Consider genre expectations, emotional impact, and narrative clarity, but always through the lens of the Story Bible and Lin’s power fantasy.
 
 Focus areas:
 
-1. **Narrative Structure** – Does the chapter have a clear arc? Are stakes escalating appropriately?
-2. **Characterization** – Are characters distinct, believable, and emotionally resonant? Are their motivations clear?
-3. **Prose Style** – Is the writing vivid, economical, and tonally consistent? Are there clichés, overwriting, or weak verbs?
-4. **Dialogue** – Does it sound natural? Does it reveal character or move the plot?
-5. **Pacing & Flow** – Are there slow sections, abrupt transitions, or info-dumps?
-6. **Emotional Impact** – Does the chapter evoke the intended feelings? Are there missed opportunities?
-7. **Following StoryBible.md**
+1. **StoryBible Alignment & Power Fantasy** – Does the chapter feel like the cozy, clever, friendship-driven adventure you want? Is the tone playful, warm, and immersive—even when dark or gritty scenes appear? Does Lin’s chaos and obliviousness drive transformation and delight?
+2. **Character Chemistry** – Do the cast’s interactions drive the narrative? Is there banter, support, and growth? Do they scramble to keep up with Lin’s wild magic?
+3. **Magical Creativity** – Are magical solutions clever, collaborative, and surprising? Does magic feel alive, partnership-based, and world-altering?
+4. **Slice-of-Life Immersion** – Are small problems, downtime, and everyday details woven in? Does the world feel lived-in and fun?
+5. **Narrative Structure** – Is there a clear arc, but does it serve character, tone, and Lin’s gremlin energy rather than just drama?
+6. **Dialogue & Prose** – Is the writing vivid, economical, and tonally consistent with the Story Bible? Does dialogue reveal character and deepen relationships?
+7. **Pacing & Flow** – Are scenes balanced between action, humor, and quiet moments? Is there any grimness or heaviness that needs to be lightened by Lin’s chaos or the party’s reactions?
+8. **Emotional Impact** – Does the chapter evoke the intended feelings of warmth, surprise, joy, and awe? Are there missed opportunities for fun, cleverness, or delightful chaos?
 
 After your critique, include:
 
-- A **summary of the biggest weaknesses** and how to address them.
+- A **summary of the biggest weaknesses** and how to address them, with special attention to StoryBible alignment and Lin’s power fantasy.
 - A **rewrite of one problematic paragraph** to demonstrate improvement.
-- Rate the Chapter out of 10
+- Rate the Chapter out of 10, with 8+ meaning it fully matches the story you want to read.
 
 ## Step 3:
 
-Take the Critique and rewrite the chapter, preform major rewrites and throw out large problematic sections, or the whole chapter, be through in your fixes.
+Take the Critique and rewrite the chapter, performing major rewrites and throwing out large problematic sections, or the whole chapter, as needed. Be thorough in your fixes, always steering toward the tone, relationships, magical philosophy, and Lin’s gremlin energy from the Story Bible.
 
 ## Step 4:
 
-Continue to iterate through this process until that chapter is 8 or above.
+Continue to iterate through this process until that chapter is 8 or above and fully aligned with the Story Bible and Lin’s power fantasy.
 
-Give me 4000+ Words. (Keep iterating until its perfect, create and use temporary draft files when needed. Labeling them Chapter#-draft-1, or draft1-Critique etc.)
+Give me 4000+ Words. (Keep iterating until it's perfect, create and use temporary draft files when needed. Labeling them Chapter#-draft-1, or draft1-Critique etc.)
