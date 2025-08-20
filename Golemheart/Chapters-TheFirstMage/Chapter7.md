@@ -8,11 +8,11 @@ Lin felt her stomach twist into knots that had nothing to do with hunger. This w
 
 "Well," the Duke said, and Lin caught something in his voice that might have been amusement, "this is certainly more interesting than the usual harvest festival."
 
-"Your Grace—" Lord Aldric began, his thin face pinched with the expression of someone who'd just watched the natural order crumble into amusing but heretical pieces.
+"Your Grace—" Lord Brennan began, his thin face pinched with the expression of someone who'd just watched the natural order crumble into amusing but heretical pieces.
 
-"Is fascinated by magical innovation," the Duke finished smoothly, his gray eyes twinkling with what Lin was beginning to recognize as dangerous political maneuvering. "Aren't you, Aldric? Just this morning you were telling me how the kingdom needs to encourage young mages to push boundaries."
+"Is fascinated by magical innovation," the Duke finished smoothly, his gray eyes twinkling with what Lin was beginning to recognize as dangerous political maneuvering. "Aren't you, Brennan? Just this morning you were telling me how the kingdom needs to encourage young mages to push boundaries."
 
-Lord Aldric's mouth opened and closed like a fish gasping for air, which was honestly a bit unfair to fish, who at least had the excuse of being out of their element.
+Lord Brennan's mouth opened and closed like a fish gasping for air, which was honestly a bit unfair to fish, who at least had the excuse of being out of their element.
 
 Lin felt Willi's hand settle on her shoulder—warm, reassuring, and slightly protective in a way that made her chest tight with gratitude. "Whatever happens," Willi murmured, her voice barely audible, "we're in this together."
 
@@ -58,11 +58,11 @@ The song went on for nearly a minute, building in complexity and emotion until i
 
 The Duke listened to this explanation with the focused attention of someone accustomed to evaluating complex testimony from unreliable witnesses. Around the courtyard, Lin could see people leaning forward, whispering among themselves, making calculations that probably involved the words 'forbidden magic' and 'Church investigation.'
 
-"Your Grace," Lord Aldric tried again, his voice tight with barely controlled panic, "surely you can see the dangerous implications of uncontrolled consciousness manipulation—"
+"Your Grace," Lord Brennan tried again, his voice tight with barely controlled panic, "surely you can see the dangerous implications of uncontrolled consciousness manipulation—"
 
 "I can see talking vegetables who just helped fight off bandits," the Duke interrupted mildly, "which seems like exactly the sort of innovation we should encourage, don't you think? Imagine the agricultural possibilities."
 
-Lord Aldric looked like he was developing a migraine, which Lin felt was probably unfair since she was the one who'd accidentally created conscious vegetables in the first place.
+Lord Brennan looked like he was developing a migraine, which Lin felt was probably unfair since she was the one who'd accidentally created conscious vegetables in the first place.
 
 "However," the Duke continued, and Lin felt her momentary relief begin to curdle like milk left too long in the sun, "this situation does require some... careful management. Too many ears and eyes for a proper discussion." He raised his voice to carry across the courtyard. "Everyone except Master Grauber, his escort, and the turnips themselves should return to their business. Now."
 
