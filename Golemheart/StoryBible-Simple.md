@@ -210,7 +210,7 @@ The Adventurer’s Guild is the largest and most influential contractor organiza
 - Appearance: Curvy, cheerful woman, wearing mage robes, and a smooth staff. Her cheeks are always rosy, and she wears her hair in a messy bun.
 - Skills: Skilled combat mage specializing in fire and ice spells. Loves to cook for the party using magic to speed up the process. Famous for her relentless puns often food themed.
 - Dynamic: Willi is the party’s heart and stomach. She fusses over everyone’s well-being, especially Lin Xiu, whom she sees as “too skinny for all that adventuring.” Greta praises her meals like divine gifts; Tobi often flirts, but Willi teases and dismisses him with playful banter, a bonk on the head or wordplay.
-- Party Role: Support mage and cook. Buffs the party with hearty meals, provides cozy downtime moments, and brings powerful fire and ice magic to the battlefield.
+- Party Role: Support mage and cook. Buffs the party with hearty meals, provides cozy downtime moments, and brings powerful fire and ice magic to the battlefield. Note: she can not pull food out of no where, and only has a reasonable stash of snacks, on her at a given time.
 - Growth Point: Willi must learn to prioritize her own well-being and recognize her worth, gaining confidence in her magic and voice. She often downplays her own struggles or injuries, focusing on caring for others instead.
 
 ### Lin Xiu – The First Witch
