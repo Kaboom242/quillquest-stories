@@ -89,6 +89,10 @@
 - **Hearthflame – Magic of Home and Self**: Hearthflame – Magic of Home and Self:
 Rooted in the cultivation of one's internal heart flame (qi), Hearthflame magic centers on nurturing, harmonizing, and protecting both self and sanctuary. Practitioners focus on building inner warmth, resilience, and vitality through meditation, breathwork, tea rituals, and emotional cultivation—drawing directly from Eastern traditions of qi (life energy) cultivation. Hearthflame magic purifies spaces, restores health, and weaves protective wards by channeling and balancing qi within the body and environment. Ritual fires, warding circles, and ancestor offerings serve as conduits for qi flow, supporting community rituals and strengthening bonds. True strength comes from empathy, emotional harmony, and the ability to cultivate and share one's inner flame with others, creating sanctuaries of peace and renewal.
 
+**Author Intentions – Hearthflame & Lin's Agency:**
+- Hearthflame is an internal, personal power. It does not passively leak or create environmental effects unless Lin deliberately chooses to act. All manifestations of Hearthflame (warmth, protection, chaos) are the result of Lin’s conscious decisions, not subconscious magical leakage.
+- Magical chaos and unintended side effects always stem from Lin’s deliberate choices, experiments, or actions. There is no passive aura or subconscious effect—her “gremlin energy” is a product of her agency, curiosity, and willingness to take risks.
+
 - **Horticulture – Magic of Growth and Healing**: Witches cultivate magical plants, herbs, and fungi for spellwork, potions, and rituals. Gardens are sanctuaries, living wards, and sources of sentient plant companions. Practices include enchanted soil, mana-infused water, and ritual planting. Horticulture magic heals, purifies, and transforms, influenced by seasons, moon phases, and local spirits. Overharvesting or neglect can weaken magic or anger spirits.
   - _foreshadow_: Use her blackthorn waking stick to create plant magic grows (thorny vines, bristles for a broom, a hook to carry a lantern)
   - The consciousness seen in awakened beings comes from layline spirits choosing to inhabit and partner with physical forms that have natural affinity for consciousness (vegetables, tools with strong purposes, etc.). This is spirit partnership, not true consciousness creation.
@@ -101,6 +105,9 @@ Rooted in the cultivation of one's internal heart flame (qi), Hearthflame magic 
 
 ### Magic Accessibility & Witchcraft Learning
 Most people cannot perceive laylines or communicate with layline spirits the way Lin does—this appears to be a rare inherited or culturally-transmitted ability connected to her grandmother's Eastern traditions. 
+**Author Intentions – Power Progression & Foreshadowing:**
+- New powers and magical advancements should be built up and foreshadowed over multiple chapters/arcs. Avoid resolving new abilities immediately; instead, use hints, small incidents, and gradual mastery to create tension and anticipation.
+- All future chapters and arcs should reflect these principles, ensuring Lin’s magic is always intentional and that new powers are introduced with proper buildup and foreshadowing.
 
 However, Lin can teach others to work more cooperatively with the natural properties and preferences that tools, spaces, and materials already possess. This is partnership-based technique rather than actual magic—learning to sense when objects "want" to be used certain ways and respecting those preferences for better results.
 

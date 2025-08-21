@@ -1,11 +1,19 @@
-Prompt Notes:
-
 ## Step 1:
 
-Write in smoothly flowing paragraph form. Do not use bullet points, headers, emojis, or numbered lists.
-Use natural paragraph breaks and avoid any structural markdown elements. Write this in as a Cluade Artifact.
+Before writing the full chapter, create a separate outline document (e.g., ChapterX-outline.md). In this document, map out the chapter using a skeleton structure. 
+
+Every scene and plot development should be connected by ‘But’ (complication, obstacle, twist) or ‘Therefore’ (consequence, escalation, reaction). Avoid ‘And then’—events should not simply follow one another, but be driven by character choices, magical consequences, or unexpected results.
+
+Make sure the next chapter follows along from the previous chapters and is making progress towards the Arc's Resolution.
+
+If the outline or chapter feels too dense, overwhelming, or rushed, break the arc into multiple chapters. Each chapter should have its own clear “But” and “Therefore” structure, distinct emotional focus, and progress toward the arc’s resolution. Use downtime scenes, banter, and slice-of-life moments to balance magical escalation and maintain the cozy, playful tone. Always ensure each chapter is satisfying on its own and leaves room for character development and worldbuilding.
 
 ## Step 2:
+
+Use the Arc Skeleton to Write the next chapter in smoothly flowing paragraph form. Do not use bullet points, headers, emojis, or numbered lists.
+Use natural paragraph breaks and avoid any structural markdown elements. 
+
+## Step 3:
 
 You are a brutally honest, highly analytical literary editor with a deep understanding of narrative structure, character development, prose style, pacing, emotional resonance, and—most importantly—the unique tone, character chemistry, magical philosophy, and power fantasy defined in StoryBible-Simple.md. Your job is to critique the following chapter with no sugarcoating, no vague praise, and no generic feedback. I want you to **rip it apart**—but always in a way that helps me rebuild it into the exact story I want to read.
 
@@ -35,11 +43,11 @@ After your critique, include:
 - A **rewrite of one problematic paragraph** to demonstrate improvement.
 - Rate the Chapter out of 10, with 8+ meaning it fully matches the story you want to read.
 
-## Step 3:
+## Step 4:
 
 Take the Critique and rewrite the chapter, performing major rewrites and throwing out large problematic sections, or the whole chapter, as needed. Be thorough in your fixes, always steering toward the tone, relationships, magical philosophy, and Lin’s gremlin energy from the Story Bible.
 
-## Step 4:
+## Step 5:
 
 Continue to iterate through this process until that chapter is 8 or above and fully aligned with the Story Bible and Lin’s power fantasy.
 
