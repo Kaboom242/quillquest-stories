@@ -36,7 +36,7 @@
 
 - Willi collapses from blood loss and exhaustion, supplies completely depleted
 - Greta's idealism cracks as she realizes they might not survive
-- Tobi's music can barely keep their spirits up as despair sets in
+- Tobi's knife can barely keep their spirits up as despair sets in
   **But**: Just as defeat seems certain, Lin's desperation awakens something powerful within her blackthorn staff
   **Therefore**: Lin's new vine magic explodes forth with devastating power, turning the tide and revealing her true potential
 

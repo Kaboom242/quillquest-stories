@@ -28,9 +28,9 @@ They stood in a vast underground chamber that defied architectural logic. Twiste
 
 "But we're not just trapped—we're somewhere completely impossible!" Lin scrambled up, already moving toward the nearest wall to examine the growing books, her injured arm forgotten in her excitement. "These aren't just decorations. The text is actually growing from the stone like some kind of literary moss. It's like the dungeon is writing itself into existence!"
 
-Scattered across the floor around them were the remnants of Willi's carefully organized supplies. His pack had burst open in the fall, creating what looked like the aftermath of a very small, very tragic grocery store explosion.
+Scattered across the floor around them were the remnants of Willi's carefully organized supplies. Her pack had burst open in the fall, creating what looked like the aftermath of a very small, very tragic grocery store explosion.
 
-"Oh no," Willi muttered, scrambling to salvage what he could. "This is soup without the pot and salt without the shaker. My medical kit is scattered to the four winds, and half our rations are now seasoning the dungeon floor."
+"Oh no," Willi muttered, scrambling to salvage what she could. "This is soup without the pot and salt without the shaker. My medical kit is scattered to the four winds, and half our rations are now seasoning the dungeon floor."
 
 Lin spotted the medical kit wedged under a chunk of fallen masonry, its contents scattered like puzzle pieces. She retrieved what remained—a few bandages, some dried herbs that somehow smelled stronger down here, and a single healing potion with a crack running down its side like a lightning bolt.
 
@@ -76,9 +76,11 @@ The next time she struck, the wood connected with solid impact, sending loose pa
 
 "Then don't let it touch you," Tobi called back, his voice weaving into a melody that made the third wraith writhe and clutch at its head like someone with a particularly academic headache. "These things respond to harmony like cats respond to cucumbers—badly and with immediate confusion."
 
-The combat became a strange dance of discovery. Willi's improvised club worked fine against their papery hides, but only when he struck with complete confidence. Doubt made his blows pass through harmlessly, as if the creatures were somehow sustained by uncertainty.
+The combat became a strange dance of discovery. Willi's fire and ice magic worked fine against their papery hides, but only when she cast with complete confidence. Doubt made her spells fizzle harmlessly, as if the creatures were somehow sustained by uncertainty.
 
-"It's about conviction!" he shouted, landing a solid hit that left ink stains on his makeshift weapon. "You have to believe you can hurt them—like convincing yourself that a soufflé will rise despite all evidence to the contrary!"
+"It's about conviction!" she shouted, conjuring a burst of fire that seared through the wraith's papery hide, leaving curling edges and a trail of frost that froze the ink in place. "You have to believe you can hurt them—like convincing yourself that a soufflé will rise despite all evidence to the contrary!"
+
+Tobi darted in and out of the fray, his knife flashing as he found weak spots in the wraiths' forms, blending bardic agility with rogue-like precision. "Never underestimate a well-timed stab," he quipped, distracting a wraith long enough for Greta to land a decisive blow.
 
 Lin found herself laughing as she fought, spinning her staff in patterns that seemed to confuse the wraiths as much as damage them. Each successful strike taught her something new about how this place worked. The creatures weren't just random monsters—they were the dungeon's way of testing their understanding, their resolve, their willingness to adapt.
 
@@ -119,7 +121,7 @@ _Recommendation: Trust in friendship. Growth requires partnership._
 
 Lin was already examining the chests with the focused intensity she usually reserved for particularly interesting magical phenomena. "These aren't just treasure containers," she announced. "They're tests. Look at the craftsmanship—each one is made using a different magical tradition, and they're all responding to our presence."
 
-The iron chest radiated cold and had runes etched in what looked like classical Academy script—formal, precise, and somehow intimidating. The second chest appeared to be carved from crystallized lightning and hummed with barely contained energy that made her hair stand on end. The third looked like it was growing from the floor itself, made of living wood that sprouted fresh leaves and tiny flowers as they watched.
+The iron chest radiated cold and had intricate scripts etched in what looked like classical Academy script—formal, precise, and somehow intimidating. The second chest appeared to be carved from crystallized lightning and hummed with barely contained energy that made her hair stand on end. The third looked like it was growing from the floor itself, made of living wood that sprouted fresh leaves and tiny flowers as they watched.
 
 "That one's calling to me," Lin said, pointing at the living chest with the certainty of someone who'd spent her life listening to plants.
 
@@ -129,7 +131,7 @@ The iron chest radiated cold and had runes etched in what looked like classical 
 
 As if summoned by her words, the room began to change. The walls stretched upward like a flower opening to the sun, and three alcoves opened to reveal new guardians—creatures that looked like a cross between owls and filing cabinets, with razor-sharp talons and eyes like burning amber that held far too much intelligence.
 
-"Knowledge Hawks," Willi identified grimly, his improvised club at the ready. "These ones will be after our memories directly, not just through contact. They're going to try to steal everything we know."
+"Knowledge Hawks," Willi identified grimly, her hands already beginning to glow with fire and ice magic. "These ones will be after our memories directly, not just through contact. They're going to try to steal everything we know."
 
 The creatures spread their wings with a sound like turning pages and dove toward them, but Lin was already reaching for the living chest. Her fingers touched the bark-like surface, and she felt a familiar presence—not the Library Spirit, but something older and wilder and delighted to finally meet her.
 
@@ -137,37 +139,63 @@ _Little witch,_ a voice whispered in her mind, warm as summer soil and bright as
 
 "Always," Lin whispered back without hesitation.
 
-The chest bloomed open like a flower greeting dawn, revealing a bow made of flexible vine wood that practically vibrated with life. The moment Lin's hands closed around it, she felt the plant spirit within—curious, playful, eager to grow, and absolutely thrilled to have a partner who understood that magic was supposed to be fun.
+The chest bloomed open like a flower greeting dawn, revealing a ManaStone that pulsed with deep green light, its surface swirling with what looked like miniature forests. The moment Lin's hands closed around it, she felt a presence within—ancient, wild, and cautiously curious about this young witch who dared to touch its prison.
 
-The Knowledge Hawks struck just as her fingers found the bowstring, and Lin discovered that having a plant spirit as a willing partner changed everything about how magic worked.
+_Little witch,_ the voice whispered again, but now it carried centuries of loneliness and desperate hope, _I have been waiting so long for someone who might understand..._
+
+Lin pressed the ManaStone against her blackthorn staff, and the wood eagerly absorbed it, bark flowing over the crystal like water until it was perfectly embedded. Her staff blazed with green light, and she felt the Forest Spirit's consciousness merge with the familiar wood.
+
+The Knowledge Hawks struck just as the transformation completed, and Lin discovered that having an ancient Forest Spirit fused with her staff was nothing like she'd expected.
 
 ---
 
-## Partnership and Growth
+## Desperate Combat and Failure
 
-The vine-wood bow responded to her thoughts rather than her aim, as if it understood not just what she wanted to hit, but why she wanted to hit it. When she drew the string, it grew its own arrows from thorned branches that sprouted along its length—not generic projectiles, but ammunition specifically designed for each situation.
+The Forest Spirit's power was overwhelming and alien. Lin tried to channel vine magic through her transformed staff, but the ancient consciousness fought her control, unused to sharing its domain with mortals.
 
-But more than that, she could feel the plant spirit's excitement as it experienced combat for the first time, its delight in finally being able to protect something it cared about.
+"Lin, whatever you're doing, do it faster!" Greta shouted as a Knowledge Hawk's talons raked across her shield, leaving deep gouges in the metal.
 
-"Duck!" she called to Tobi as she loosed an arrow that sprouted mid-flight, creating a net of thorny vines that wrapped around the diving Knowledge Hawk with surprising gentleness.
+Lin swung her staff, trying to summon protective vines, but only managed to sprout a few sickly tendrils that withered immediately. The Forest Spirit's thoughts crashed against hers like a tide of green confusion—too many centuries of memories, too much wild magic for her young mind to process.
 
-"That's not how bows are supposed to work!" Greta shouted, even as she used her new silver-fire sword to drive back another hawk with moves that would have made her dancing instructor proud.
+"I can't—it's too much!" Lin gasped, staggering as another failed spell sent feedback through the staff. The ManaStone pulsed erratically, the spirit within clearly as frustrated as she was.
 
-"Says who?" Lin replied, grinning as she drew another arrow that immediately began growing flowers along its shaft. "Magic doesn't follow the rules we expect—it follows the rules we discover together!"
+Willi conjured walls of fire and ice to drive back the attacking hawks, but her magic was limited without proper focus items. "It's like trying to season a feast with table scraps!" she called out, her spells barely keeping the creatures at bay.
 
-The plant spirit in her bow was laughing—she could feel its delight as they experimented with each shot. One arrow burst into a cloud of sleep-inducing pollen that smelled like lavender and made the hawk yawn mid-dive. Another grew into a thorny barrier that provided cover for her friends. A third split mid-flight into a dozen smaller seeking projectiles that somehow managed to be both effective and beautiful.
+Tobi darted in and out of the fray, his knife flashing as he found weak spots in the hawks' forms, but he was quickly being overwhelmed. "Never thought I'd say this, but we could really use that bow working right about now!"
 
-Willi had claimed the lightning chest, which had given him a sling that launched stones wreathed in crackling energy. "It's like having bottled thunderstorms," he called out, his usual food metaphors replaced by genuine awe as he sent electricity dancing between his fingers.
+The battle was going badly. Without Lin's plant magic working properly, they had no way to effectively fight creatures that could steal memories with a touch. Greta's sword work was excellent, but she was taking hit after hit as she tried to protect her struggling friends.
 
-Greta's silver-fire sword hummed with righteous energy that seemed to respond to her dramatic sensibilities. When she declared "For justice and friendship!" the flames flared brighter, and when she moved to protect her friends, the blade's light grew warm rather than hot, creating a circle of safety around them.
+"Lin!" she shouted desperately as a hawk broke through her guard and dove toward Willi. "We need you!"
 
-Tobi's enchanted sling stones created harmonic resonances that could shatter the hawks' concentration or boost his friends' morale depending on which notes he chose to emphasize. "It's like conducting an orchestra," he said with wonder, "except the instruments are magical weapons and the music is combat!"
+But Lin was locked in an internal struggle with the Forest Spirit, neither of them able to understand the other, both growing more desperate by the second as their friends fought for their lives around them.
 
-Working together, they made short work of the Knowledge Hawks, and Lin found herself bouncing with excitement as she examined the fallen creatures, which were dissolving into motes of pure knowledge that danced in the air like fireflies.
+Willi had claimed the lightning chest, which had given her a simple wand that barely amplified her elemental magic. Without a proper ManaStone, her fire and ice spells sputtered weakly. "It's like trying to cook a feast with a candle!" she called out in frustration.
+
+Greta's silver-fire sword hummed with energy, but she was fighting defensively, taking hits as she tried to protect her friends. When she declared "For justice and friendship!" the flames flared briefly, but the blade couldn't create the protective circle they desperately needed.
+
+Tobi's sling stones created weak harmonic resonances that barely distracted the hawks. "The acoustics are all wrong!" he said through gritted teeth. "It's like trying to conduct a symphony with a broken tuning fork!"
+
+The Knowledge Hawks sensed their weakness and pressed their attack. One managed to get its claws into Tobi's shoulder, and he screamed as it began draining his musical memories. Another caught Greta from behind, and her sword work became clumsy as it stole her combat training.
+
+"No!" Lin cried out, watching her friends being systematically destroyed. The Forest Spirit's panic mirrored her own, centuries of protective instincts finally finding focus in her desperate love for her companions.
+
+In that moment of absolute desperation, Lin finally understood. The Forest Spirit wasn't trying to control her magic—it was trying to protect what it loved, just like she was. They didn't need to fight each other; they needed to fight together.
+
+_Together,_ she whispered to the spirit, not with words but with pure emotion—her love for her friends, her determination to save them, her willingness to share her very soul if it meant protecting them.
+
+The Forest Spirit's response was like sunlight breaking through storm clouds. _Together, little witch. Let me show you what we can do._
+
+Lin's staff blazed with brilliant green light as their minds truly merged for the first time. Massive vines erupted from the stone floor, not the hesitant tendrils from before, but great thorny barriers that wrapped around the Knowledge Hawks with devastating force. The plant magic that flowed through her was beyond anything she'd ever imagined—ancient, powerful, and absolutely unstoppable.
+
+The Knowledge Hawks dissolved into motes of pure essence before they could steal any more memories, and Lin stood in the aftermath, her staff humming with the contentment of a Forest Spirit that had finally found its perfect partner.
+
+"That," Tobi said weakly, his stolen memories already returning, "was absolutely terrifying and completely amazing."
+
+Working together at last, they made short work of any remaining challenges on Level One, and Lin found herself changed by the experience. The Forest Spirit was a permanent part of her now, sharing her consciousness like a wise and ancient friend.
 
 "They're not really dead," she announced with satisfaction. "Look—they're dissolving back into pure knowledge essence. The dungeon recycles everything! It's like a magical ecosystem!"
 
-"That's either very efficient or very unsettling," Willi observed, watching the motes settle into the walls and begin forming new patterns.
+"That's either very efficient or very unsettling," Willi observed, watching the motes settle into the walls and begin forming new magical scripts and incantation scrolls.
 
 "Definitely both," Lin agreed cheerfully, "and absolutely fascinating."
 
@@ -181,21 +209,21 @@ The stairs to Level Two were grown rather than built—a spiral of crystallized 
 
 "That would explain why it keeps adapting to us," Tobi mused, pausing to examine a section of the rail that was humming in harmony with his voice. "We're not just fighting through it—we're teaching it how to respond to us."
 
-Level Two proved him right immediately. The corridors here shifted and rearranged themselves as they walked, creating new challenges based on what they'd learned from Level One. But instead of becoming more hostile, the dungeon seemed to be getting more... playful.
+Level Two proved him right immediately. The corridors here shifted and rearranged themselves as they walked, creating new challenges based on what they'd learned from Level One. But instead of becoming easier, the dungeon seemed to be testing them more rigorously.
 
-A corridor lined with animated card catalogs shot paper cuts at them, but when Lin examined the papers, she found they were covered with helpful tips about dungeon survival written in various students' handwriting. "Watch out for the flying books on Level Three," one read. "They bite, but they're more scared of you than you are of them."
+A corridor lined with animated card catalogs shot razor-sharp paper cuts at them, and when Lin examined the papers, she found they were covered with warnings written in increasingly desperate handwriting. "The deeper you go, the hungrier it gets," one read. "Turn back while you still can."
 
-A room where the floor tried to absorb their knowledge through their feet turned out to only take trivial facts—what Lin had for breakfast, Willi's opinion on turnips, Tobi's least favorite musical scale—while leaving important memories intact.
+A room where the floor tried to absorb their knowledge through their feet grew more aggressive, attempting to drain important memories and magical knowledge before Lin's newly awakened vine magic could drive it back.
 
-"It's like the dungeon is being cheeky," Greta observed after narrowly avoiding a bookshelf that tried to reorganize her sword into the fiction section. "These aren't deadly traps. They're practical jokes."
+"It's like the dungeon is getting more serious about testing us," Greta observed after barely avoiding a bookshelf that tried to crush her against the wall. "These aren't just tricks anymore. They're real threats."
 
-"I think it likes us," Lin said, patting a wall that had just sprouted a helpful arrow pointing toward the exit. "We're not typical adventurers. We're actually engaging with what it's trying to teach us instead of just trying to smash our way through."
+"I think it's preparing us for something worse," Lin said, her staff pulsing with the Forest Spirit's concerned energy. "We're not typical adventurers, but that doesn't mean it's going to go easy on us."
 
-Their new gear made all the difference, but more importantly, they were learning to work together in ways that felt natural rather than forced. The dungeon's challenges required collaboration, but the kind that emerged from friendship rather than desperation.
+Their new partnership was helping, but Lin was still struggling to fully integrate with the Forest Spirit. Her vine magic worked in bursts of brilliance followed by periods of exhaustion as she learned to share her consciousness with an ancient entity.
 
-When Ink Elementals tried to dissolve their equipment, Tobi's harmonic stones created protective resonances while Lin's plant magic purified the corrupted ink, turning it into fertilizer for helpful vines. When Phantom Librarians phased through walls to attack, Greta's righteous flames made them solid enough for Willi's bottled lightning to strike true, but also gentle enough to restore them to their proper ghostly forms afterward.
+When Ink Elementals tried to dissolve their equipment, Tobi's harmonic stones created weak protective resonances while Lin struggled to purify the corrupted ink with her unpredictable vine magic. When Phantom Librarians phased through walls to attack, Greta's righteous flames made them solid enough for Willi's fire and ice spells to strike, but the battles were becoming increasingly difficult.
 
-They were learning to fight like a team—not just four people with individual skills, but a single unit where each person's strengths naturally covered the others' weaknesses.
+They were learning to fight like a team, but each victory came at a cost. Lin's magic was powerful but unreliable, the Forest Spirit's ancient consciousness sometimes overwhelming her own thoughts. Without proper equipment and with limited supplies, every encounter pushed them closer to their breaking point.
 
 ---
 
@@ -209,7 +237,7 @@ Level Three presented them with their first real puzzle—a vast library maze wh
 
 "Maybe we're thinking about this wrong," Greta suggested. "What if we're not supposed to navigate the maze? What if we're supposed to understand it?"
 
-That's when Willi had his breakthrough. "It's like a recipe," he said suddenly. "All the ingredients are here, but we need to combine them in the right order. Lin, what do you know about magical botany?"
+That's when Willi had her breakthrough. "It's like a recipe," she said suddenly. "All the ingredients are here, but we need to combine them in the right order. Lin, what do you know about magical botany?"
 
 "Everything grows better with friends," Lin replied immediately, then blinked in surprise. "I mean, that's not technically botanical knowledge, but it's what the books here seem to want me to remember."
 
@@ -233,15 +261,15 @@ It was during their third major battle on Level Four that things went seriously 
 
 The Tome Wraith was larger and more vicious than anything they'd faced—a creature made from centuries of accumulated academic frustration given physical form, with the bitter knowledge of every failed exam and abandoned thesis writhing around it like a dark aura.
 
-When it caught Willi with a full-power memory drain, targeting not just random facts but his core understanding of tactics and organization, he collapsed like a marionette with cut strings.
+When it caught Willi with a full-power memory drain, targeting not just random facts but her core understanding of tactics and organization, she collapsed like a marionette with cut strings.
 
-"His pulse is weak," Greta said, her hands shaking as she checked him over despite the steady silver light emanating from her sword. "And that thing didn't just take memories—it took his ability to make sense of what he knows."
+"Her pulse is weak," Greta said, her hands shaking as she checked her over despite the steady silver light emanating from her sword. "And that thing didn't just take memories—it took her ability to make sense of what she knows."
 
-They'd dragged him to safety in a small alcove, but the Wraith was still out there, and they could hear more creatures moving through the corridors. Worse, without Willi's tactical mind keeping them organized, they felt like a ship without a rudder.
+They'd dragged her to safety in a small alcove, but the Wraith was still out there, and they could hear more creatures moving through the corridors. Worse, without Willi's tactical mind keeping them organized, they felt like a ship without a rudder.
 
-"This is like trying to bake bread without yeast," Tobi said quietly, his usual musical optimism strained as he watched their friend's unfocused eyes. "We need him back."
+"This is like trying to bake bread without yeast," Tobi said quietly, his usual musical optimism strained as he watched their friend's unfocused eyes. "We need her back."
 
-"He's still in there," Lin said, studying Willi's face with the intensity she usually reserved for sick plants. "But something's blocking the connections. Like frost on a garden—the roots are healthy, but the pathways are frozen."
+"She's still in there," Lin said, studying Willi's face with the intensity she usually reserved for sick plants. "But something's blocking the connections. Like frost on a garden—the roots are healthy, but the pathways are frozen."
 
 She stared at her friend's pale face and felt something shift inside her chest. Not despair—she was surprised to realize she couldn't quite manage despair when surrounded by so much incredible magic—but a fierce determination that burned hotter than anything she'd felt before.
 
@@ -251,7 +279,7 @@ She stared at her friend's pale face and felt something shift inside her chest. 
 
 "Realistic?" Lin interrupted, her eyes blazing with the kind of intensity that usually preceded her most spectacular magical discoveries. "Greta, we're in a living dungeon made of crystallized knowledge that grows new challenges based on our responses and apparently cares enough about our education to leave us encouraging notes. Realistic went out the window when we fell through the floor."
 
-She knelt beside Willi, her vine bow humming with sympathetic plant energy. "The dungeon isn't trying to kill us," she continued, her voice growing more confident as the pieces fell into place. "It's testing us. All of this—the challenges, the loot, even Willi getting hurt—it's all designed to see what we'll do when everything seems hopeless."
+She knelt beside Willi, her enhanced staff humming with sympathetic Forest Spirit energy. "The dungeon isn't trying to kill us," she continued, her voice growing more confident as the pieces fell into place. "It's testing us. All of this—the challenges, the loot, even Willi getting hurt—it's all designed to see what we'll do when everything seems hopeless."
 
 "And what are we going to do?" Tobi asked quietly, though his musical intuition was already picking up the harmony of determination in her voice.
 
@@ -265,7 +293,7 @@ Lin placed her hands on her blackthorn staff and reached out, not toward the abs
 
 _Little witch,_ came a chorus of whispers that felt like wind through leaves and roots through soil, _what do you need?_
 
-"Help," she said simply, her voice carrying all the love she felt for her friends. "Willi is hurt, and we need to heal him. But more than that, we need to understand. What is this place really trying to teach us?"
+"Help," she said simply, her voice carrying all the love she felt for her friends. "Willi is hurt, and we need to heal her. But more than that, we need to understand. What is this place really trying to teach us?"
 
 The plant spirits rustled with something that might have been laughter, or wind through a garden, or the sound of wisdom growing. _The same thing we have always taught, little one. That growth requires partnership. That strength comes from roots that support each other. That magic is not power over, but power with._
 
@@ -281,13 +309,13 @@ Greta and Tobi exchanged glances—the kind of look that passes between friends 
 
 When their hands touched the growing plants, Lin felt their friendship flow through the connection like warmth through winter soil. Greta's fierce loyalty that burned like her silver flames, her absolute determination to protect the people she cared about, her unshakeable belief that heroes could make the world better. Tobi's gentle strength that harmonized with everything around him, his ability to find beauty in chaos and bring peace to troubled hearts, his gift for making everyone feel heard and valued.
 
-The healing magic that flowed through the vines wasn't Lin's alone anymore. It was theirs, amplified by partnership and focused by love. When it reached Willi, it didn't just restore his memories—it strengthened the connections between them, showing him not just what he knew but why it mattered, who he was protecting, what he was fighting for.
+The healing magic that flowed through the vines wasn't Lin's alone anymore. It was theirs, amplified by partnership and focused by love. When it reached Willi, it didn't just restore her memories—it strengthened the connections between them, showing her not just what she knew but why it mattered, who she was protecting, what she was fighting for.
 
-His eyes fluttered open immediately, clear and focused and thoroughly himself again.
+Her eyes fluttered open immediately, clear and focused and thoroughly herself again.
 
-"Did someone just feed me the magical equivalent of chicken soup with a side of friendship and a dash of 'remember why you're amazing'?" he asked weakly.
+"Did someone just feed me the magical equivalent of chicken soup with a side of friendship and a dash of 'remember why you're amazing'?" she asked weakly.
 
-"Something like that," Lin said, helping him sit up. The vine connections were already fading, but she could feel the plant spirits settling into her staff and bow permanently now, no longer visitors but true partners who'd chosen to stay.
+"Something like that," Lin said, helping her sit up. The vine connections were already fading, but she could feel the Forest Spirit settling more deeply into her staff, no longer a visitor but a true partner who'd chosen to stay.
 
 "I feel like I just got a very thorough education in teamwork," Willi continued, looking around at the transformed alcove. Where the healing vines had grown, the walls now showed scenes of Academy life—students helping each other with difficult spells, professors collaborating on research, friends supporting each other through challenges.
 
@@ -295,7 +323,7 @@ His eyes fluttered open immediately, clear and focused and thoroughly himself ag
 
 "And we passed," Tobi added, his voice full of wonder as he felt the entire dungeon's atmosphere shift around them, becoming warmer and more welcoming. "The whole place feels different now. Friendlier."
 
-"Like it was just waiting for us to figure out what it was really about," Lin agreed, her staff humming with the contentment of plant spirits who'd found exactly the right garden to grow in.
+"Like it was just waiting for us to figure out what it was really about," Lin agreed, her staff humming with the contentment of a Forest Spirit who'd found exactly the right partner to grow with.
 
 ---
 
@@ -305,7 +333,7 @@ The remaining levels proved their theory right. With their partnership solidifie
 
 Level Five presented them with puzzles that required all four of their perspectives to solve, but also introduced them to more stranded students who brought their own unique skills to the group. Level Six offered them choices between combat and clever negotiation with the creature guardians, leading to several surprisingly diplomatic solutions that left everyone better off.
 
-Lin's magic had evolved beyond individual spells into something closer to ecosystem management. Her plant partners grew in response to her friends' needs and the needs of their expanding group—providing Greta with living armor that enhanced her protective instincts, giving Tobi instruments that amplified his harmonic magic, creating tools that helped Willi organize and distribute resources more efficiently for their growing party.
+Lin's magic had evolved beyond individual spells into something closer to ecosystem management. Her Forest Spirit partner grew plant networks in response to her friends' needs and the needs of their expanding group—providing Greta with living armor that enhanced her protective instincts, giving Tobi instruments that amplified his harmonic magic, creating tools that helped Willi organize and distribute resources more efficiently for their growing party.
 
 "It's like you're becoming a living quartermaster," Willi observed as Lin's vines produced perfectly seasoned trail mix from ingredients they'd gathered throughout their climb, with individual portions tailored to each person's tastes and dietary needs.
 
@@ -355,7 +383,7 @@ The guardian gestured, and a staircase of pure light appeared, leading upward to
 
 "The Academy above will need rebuilding," the Librarian Prime continued. "Perhaps it is time for it to grow into something new. Something that bridges the gap between the wisdom below and the world above. Something that honors both tradition and innovation."
 
-Lin looked around at the cathedral-like chamber, at her friends, at the small group of students they'd gathered along the way, at the plant spirits that had become her partners. An idea was forming—not fully shaped yet, but bright with possibility and rooted in everything they'd learned.
+Lin looked around at the cathedral-like chamber, at her friends, at the small group of students they'd gathered along the way, at the Forest Spirit that had become her permanent partner. An idea was forming—not fully shaped yet, but bright with possibility and rooted in everything they'd learned.
 
 "When we come back," she said, her voice carrying absolute certainty, "we won't come alone."
 
@@ -365,17 +393,17 @@ Lin looked around at the cathedral-like chamber, at her friends, at the small gr
 
 ## Return to the Light
 
-They climbed the staircase together, Lin's plant network spreading behind them to maintain the connection they'd built with the living dungeon. When they finally emerged into the Academy's courtyard, they found organized chaos—students and professors working together to clear debris and account for everyone, but with no clear plan for what to do next.
+They climbed the staircase together, Lin's Forest Spirit network spreading behind them to maintain the connection they'd built with the living dungeon. When they finally emerged into the Academy's courtyard, they found organized chaos—students and professors working together to clear debris and account for everyone, but with no clear plan for what to do next.
 
 Professor Aldrich spotted them first, his relief visible even from across the courtyard. "Thank the spirits," he called, hurrying over. "We feared the worst when the library floor collapsed. Are you all right? How many others did you find?"
 
-"We're better than all right," Lin said, looking at the destruction around them and seeing opportunity instead of disaster. Her blackthorn staff hummed with the combined energy of dozens of plant spirits, her friends stood beside her with magic and skills they'd never imagined possible, and her mind was full of ideas for how to build something better from the ruins.
+"We're better than all right," Lin said, looking at the destruction around them and seeing opportunity instead of disaster. Her blackthorn staff hummed with the combined energy of the ancient Forest Spirit, her friends stood beside her with magic and skills they'd never imagined possible, and her mind was full of ideas for how to build something better from the ruins.
 
 "Professor," she continued, her eyes bright with the kind of enthusiasm that usually preceded her most ambitious projects, "we have so much to tell you. And so much to show you."
 
 Greta laughed—the first genuinely joyful sound anyone had made since the collapse. "Trust Lin to look at a disaster and see an adventure."
 
-"The best gardens," Willi observed with satisfaction, watching Lin's plant partners already beginning to sprout helpful vines among the rubble, "grow from the richest compost."
+"The best gardens," Willi observed with satisfaction, watching Lin's Forest Spirit already beginning to sprout helpful vines among the rubble, "grow from the richest compost."
 
 "And the most beautiful music," Tobi added, listening to the harmonies of reconstruction beginning around them, "often comes from the strangest instruments."
 
@@ -391,4 +419,4 @@ Behind them, barely visible in the entrance to the staircase, golden text flicke
 
 _Lesson complete. Welcome to your real education._
 
-Then it faded, leaving only the warm afternoon sun, the sound of friends beginning to rebuild their world, and the quiet rustle of plant spirits settling in for a very interesting future.
+Then it faded, leaving only the warm afternoon sun, the sound of friends beginning to rebuild their world, and the quiet rustle of a Forest Spirit settling in for a very interesting future.
