@@ -248,6 +248,9 @@ Personality Depth:
 - **Stress response**: Doubles down on magical experimentation and optimistic problem-solving, often making situations more chaotic
 - **Other aspects**: Quick wit, deep empathy for spirits and people, fierce loyalty to friends, genuine desire to bridge cultural differences, natural teacher instincts
 - **Growth edge**: Learning to anticipate consequences and balance curiosity with responsibility
+- **Staff Ability**: Lin's blackthorn staff now houses a powerful Forest Spirit, allowing her to channel vine magic and unleash devastating brambles in moments of crisis. The staff responds to her will and emotional state, growing and adapting as their partnership deepens. She can transfrom her staff, or grow it into new shapes when the need arrises. (Bramble Thorn Tangles, bristles for a broom, a hook for a lantern, etc.)
+- **Hearthflame**: Lin is just beginning to understand the principles of hearthflame—internal qi cultivation, emotional harmony, and protective warding.
+- **Horticulture**: Lin possesses a fundamental knowledge of magical horticulture, able to cultivate enchanted plants, herbs, and fungi, protection, advise and transformation. Her connection to the Forest Spirit enhances her ability to grow and communicate with magical flora, though she is still learning the deeper rituals and responsibilities of true horticultural magic.
   Party Role: Protagonist, magical innovator, and catalyst for change. Her evolving Witchcraft introduces new magic and solutions, and her cheerful chaos keeps the party lively.
   Growth Point: Lin Xiu must learn to balance her curiosity and optimism with responsibility, growing from an overlooked novice into a confident pioneer who understands the impact of her actions on friends, spirits, and the world.
 

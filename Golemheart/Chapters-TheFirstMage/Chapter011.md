@@ -161,19 +161,15 @@ Lin swung her staff, trying to summon protective vines, but only managed to spro
 
 Willi conjured walls of fire and ice to drive back the attacking hawks, but her magic was limited without proper focus items. "It's like trying to season a feast with table scraps!" she called out, her spells barely keeping the creatures at bay.
 
-Tobi darted in and out of the fray, his knife flashing as he found weak spots in the hawks' forms, but he was quickly being overwhelmed. "Never thought I'd say this, but we could really use that bow working right about now!"
+Tobi darted in and out of the fray, his knife flashing as he found weak spots in the hawks' forms, but he was quickly being overwhelmed. "Never thought I'd say this, but we could really use that magic of yours working right about now!"
 
-The battle was going badly. Without Lin's plant magic working properly, they had no way to effectively fight creatures that could steal memories with a touch. Greta's sword work was excellent, but she was taking hit after hit as she tried to protect her struggling friends.
+The battle was going badly. Without Lin's help, they had no way to effectively fight creatures that could steal memories with a touch. Greta's sword work was excellent, but she was taking hit after hit as she tried to protect her struggling friends.
 
 "Lin!" she shouted desperately as a hawk broke through her guard and dove toward Willi. "We need you!"
 
 But Lin was locked in an internal struggle with the Forest Spirit, neither of them able to understand the other, both growing more desperate by the second as their friends fought for their lives around them.
 
 Willi had claimed the lightning chest, which had given her a simple wand that barely amplified her elemental magic. Without a proper ManaStone, her fire and ice spells sputtered weakly. "It's like trying to cook a feast with a candle!" she called out in frustration.
-
-Greta's silver-fire sword hummed with energy, but she was fighting defensively, taking hits as she tried to protect her friends. When she declared "For justice and friendship!" the flames flared briefly, but the blade couldn't create the protective circle they desperately needed.
-
-Tobi's sling stones created weak harmonic resonances that barely distracted the hawks. "The acoustics are all wrong!" he said through gritted teeth. "It's like trying to conduct a symphony with a broken tuning fork!"
 
 The Knowledge Hawks sensed their weakness and pressed their attack. One managed to get its claws into Tobi's shoulder, and he screamed as it began draining his musical memories. Another caught Greta from behind, and her sword work became clumsy as it stole her combat training.
 
@@ -185,7 +181,15 @@ _Together,_ she whispered to the spirit, not with words but with pure emotion—
 
 The Forest Spirit's response was like sunlight breaking through storm clouds. _Together, little witch. Let me show you what we can do._
 
-Lin's staff blazed with brilliant green light as their minds truly merged for the first time. Massive vines erupted from the stone floor, not the hesitant tendrils from before, but great thorny barriers that wrapped around the Knowledge Hawks with devastating force. The plant magic that flowed through her was beyond anything she'd ever imagined—ancient, powerful, and absolutely unstoppable.
+Lin's staff blazed with brilliant green light as their minds truly merged for the first time. With a cry that was equal parts desperation and command, Lin stabbed her blackthorn staff deep into the stone floor. The Forest Spirit surged through her, and she poured every ounce of her will into the ancient wood, demanding it to grow, to protect, to fight.
+
+The staff responded. Roots exploded outward, burrowing through stone and earth with impossible speed, cracking the floor and walls as a monstrous bramble erupted from the ground. Thorny vines as thick as Lin's arm whipped through the air, lashing out at the Knowledge Hawks. The room was instantly transformed into a writhing, living cage of green fury.
+
+The bramble didn't just entangle the Hawks—it hunted them. Vines snaked around their wings and talons, thorns digging deep, pulling and tearing with relentless force. The Forest Spirit's rage and Lin's determination fused into a single, unstoppable will. The Hawks shrieked as they were dragged down, their limbs ripped from their bodies, pages and feathers shredded and devoured by the ever-growing mass of thorns.
+
+The bramble choked the room, filling every corner with twisting, grasping vines. The air was thick with the scent of crushed leaves and torn paper, the sound of stone cracking and monsters dying. Lin stood at the center, her staff glowing, her eyes wild with power and relief as the last Hawk was consumed by the living storm she had unleashed.
+
+The plant magic that flowed through her was beyond anything she'd ever imagined—ancient, powerful, and absolutely unstoppable.
 
 The Knowledge Hawks dissolved into motes of pure essence before they could steal any more memories, and Lin stood in the aftermath, her staff humming with the contentment of a Forest Spirit that had finally found its perfect partner.
 
