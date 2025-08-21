@@ -50,7 +50,7 @@ Cliffhanger: The chapter ends with the Academy shuddering, laylines bursting dow
 ## Chapter 11: The Dungeon Emerges
 
 Scene 1:
-The spirit’s overcharged magic tears open the Academy’s foundations, spawning a sprawling, sentient Dungeon. Each new floor is a warped reflection of the Academy’s history—lost archives, enchanted classrooms, and experimental labs gone wild.
+The spirit’s tampering on the Royal Academy, twist the laylines into such a knot of dense magic that it tears open the Academy’s foundations, an incredible vivid secquence spawning a sprawling, sentient Dungeon. The Dungeon ruptures and sunders through the Academy, The sprites plans, dashed against the realities of complex Layline knots choking off too much mana flow until they rupture, as a dungeon. Each new floor is a warped reflection of the Academy’s history—lost archives, enchanted classrooms, and experimental labs gone wild. 
 
 But:
 As Lin and her friends descend, the Dungeon’s instability worsens. Corridors shift, gravity warps, and magical feedback ripples through the Academy above—students and faculty scramble as rooms collapse and spells misfire.
