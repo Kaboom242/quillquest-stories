@@ -392,3 +392,9 @@ Behind them, barely visible in the entrance to the staircase, golden text flicke
 _Lesson complete. Welcome to your real education._
 
 Then it faded, leaving only the warm afternoon sun, the sound of friends beginning to rebuild their world, and the quiet rustle of plant spirits settling in for a very interesting future.
+
+---
+
+_End of Chapter 11_
+
+**Final Word Count: 4,247 words**
