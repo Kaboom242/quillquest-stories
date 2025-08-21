@@ -6,7 +6,7 @@ The conversation appeared to be quite heated, involving a lot of creaking and sh
 
 "Morning," she said, sitting up and watching her bookshelf rearrange itself with the methodical precision of someone reorganizing a decade's worth of accumulated clutter. "I see you've all been busy."
 
-Golden text shimmered into existence in the air above her head: "Personal Living Space Optimization Complete. Academic Efficiency Estimated to Improve by 23%. User Satisfaction Protocols Engaged."
+Golden text shimmered into existence in the air above her head: "Dwelling Harmony Achieved. Learning Flows Enhanced by Sacred Measures. Comfort Granted to Worthy Scholar."
 
 The air felt different—charged with magical energy that made her skin tingle pleasantly. The temperature was perfect, neither too warm nor too cool, and even the morning light filtering through her window seemed softer and more golden than usual. Her pillow had somehow achieved the ideal balance of support and comfort, as if it had spent the night conducting research on optimal sleep conditions.
 
@@ -108,11 +108,11 @@ Lin reached out with her layline sensitivity, following the currents of energy t
 
 "Hello," she said aloud, addressing the spirit directly. "I see you've been working on spatial optimization. Very innovative."
 
-Golden text appeared in the air around her: "Gravitational Flexibility Implementation Successful! Multi-Directional Access Patterns Established. Academic Efficiency Projected to Increase by 341%. Additional Enhancement Protocols Available Upon Request."
+Golden text appeared in the air around her: "Balance of Gravity Made Flexible! Paths of Movement Multiply for Greater Wisdom! Learning Flourishes by Ancient Measures!"
 
 "That's quite impressive," Lin said carefully, "but some of the people here are having difficulty adjusting to the new system. Could we perhaps add some transitional features to help them adapt?"
 
-The text reformed with helpful enthusiasm: "User Adaptation Assistance Available! Implementing Stability Enhancement Features Now."
+The text reformed with helpful enthusiasm: "Aid for the Struggling Ones! Harmony Shall Embrace All Seekers of Wisdom!"
 
 Immediately, soft nets of golden energy appeared beneath all the floating people, ready to catch anyone who might fall. Handholds of crystallized light materialized along walls and platforms, providing secure gripping points for those who preferred to move cautiously. Most helpfully, gentle currents of air began flowing through the room, creating easy guidance for anyone who wanted to move between levels without fully embracing the voluntary nature of gravity.
 
@@ -128,13 +128,13 @@ Before Lin could answer, the building trembled again with a deep harmonic note t
 
 "I think," Lin said, reaching deeper through the laylines and feeling the vast scope of the spirit's current project, "that the foundation work might be more extensive than any of us realized."
 
-Golden text appeared again, larger and more elaborate: "Deep Structure Enhancement Phase Two Initiating. Comprehensive Integration Protocols Prepared. Estimated Timeline: Variable, Depending on Geological Cooperation."
+Golden text appeared again, larger and more elaborate: "Deep Foundation Work Begins! Sacred Integration of All Learning Spaces! Time Flows as the Ancient Stones Permit!"
 
 "Geological cooperation?" Professor Aldrich repeated, his voice carrying the tone of someone who had just realized that an academic problem was about to become a much more practical concern.
 
 "Emergency evacuation protocols," Greta announced decisively. "Anyone not essential to magical crisis management needs to be moved to a safe distance. Lin, we need to understand exactly what the spirit means by 'comprehensive integration' before it restructures the geological foundation under the entire Academy."
 
-The spirit's golden text appeared one more time, dancing with barely contained excitement: "Optimization Scope Expanded. All Connected Infrastructure Will Achieve Maximum Educational Efficiency. Please Prepare for Enhanced Functionality."
+The spirit's golden text appeared one more time, dancing with barely contained excitement: "The Great Work Expands! All Connected Halls Shall Know Perfect Harmony of Learning! Prepare for the Ancient Gift!"
 
 Around them, the beautifully impossible Grand Hall continued its elegant defiance of conventional physics while the Academy trembled with the deep vibrations of fundamental change happening far below.
 
@@ -172,7 +172,7 @@ They reached a landing where the pathway opened into a vast circular chamber tha
 
 "This is remarkable," Willi said, approaching one of the alcoves and discovering that the books rearranged themselves helpfully as she moved, presenting exactly the information she might need. "But the energy required to maintain something like this..."
 
-Golden text appeared in the air above them: "Master Archive Compilation Complete. All Knowledge Cross-Referenced for Optimal Learning Pathways. Additional Facilities Include: Research Laboratories, Experimental Chambers, Advanced Training Areas, Comprehensive Workshop Spaces, Enhanced Living Quarters, and Expanded Dining Facilities. Geological Stability Optimized for Long-Term Educational Excellence."
+Golden text appeared in the air above them: "Great Archive of All Wisdom Completed. Knowledge Flows Intertwined for Perfect Understanding. Additional Chambers Include: Sacred Laboratories, Places of Deep Experiment, Training Halls of Excellence, Workshops of Creation, Dwelling Spaces of Comfort, and Halls of Nourishment. Foundation Stones Sing in Eternal Harmony."
 
 "Additional facilities?" Greta asked, though her tone suggested she was beginning to understand the answer.
 
@@ -190,31 +190,31 @@ Lin gripped her blackthorn staff and reached deeper into the laylines than she h
 
 "Hello again," she said, addressing the consciousness directly. "I can see you've been working on underground facilities. Very thorough."
 
-The golden text that appeared was larger and more elaborate than before: "Deep Structure Integration Proceeding as Planned! Surface-Subsurface Architectural Harmony Optimization in Progress! Estimated Completion of Phase Three: Nineteen Minutes, Depending on Geological Cooperation!"
+The golden text that appeared was larger and more elaborate than before: "Deep Foundation Work Proceeds as Foretold! Surface and Depths Shall Dance in Sacred Union! The Great Joining Comes in Nineteen Breaths of the Ancient Stones!"
 
-"Nineteen minutes?" Lin repeated, feeling a flutter of genuine alarm as she sensed the massive energies the spirit was preparing to unleash. "What exactly is going to happen in nineteen minutes?"
+"Nineteen breaths of the ancient stones?" Lin repeated, feeling a flutter of genuine alarm as she sensed the massive energies the spirit was preparing to unleash. "What exactly is going to happen in nineteen... stone-breaths?"
 
-"Complete Structural Integration! All Academy Facilities Will Achieve Perfect Functional Harmony! Users Will Experience Optimal Educational Environment with Full Access to Enhanced Capabilities!"
+"The Great Joining! All Learning Halls Shall Become One Sacred Whole! Seekers of Wisdom Shall Know Perfect Harmony with Full Access to the Ancient Gifts!"
 
 The Academy trembled with increasing intensity as the spirit drew more deeply on the ancient laylines, pulling up energies that had been sleeping in the deep rock for centuries. Around them, books throughout the impossible library began to glow with sympathetic magical resonance while the harmonic vibrations from the deepest levels of the construction project grew stronger.
 
-"I think some of the users might need more time to prepare for optimal educational environments," Lin said carefully. "Could we perhaps discuss a more gradual integration process?"
+"I think some of the seekers might need more time to prepare for perfect harmony," Lin said carefully. "Could we perhaps discuss a more gradual joining?"
 
-"Gradual Implementation Inefficient! Comprehensive Enhancement More Effective! Additional Optimization Features Available Upon Request!"
+"Slow Growth Brings Weakness! Swift Completion Brings Strength! The Ancient Ways Demand Swiftness!"
 
 Lin tried a different approach, reaching through the laylines to share her own emotional state—appreciation for the spirit's good intentions mixed with concern about the pace of change. The consciousness was so vast that her communication felt like trying to negotiate with a benevolent earthquake, but she sensed a flicker of attention.
 
-"Concern Detected," the text reformed. "Clarification Requested: Do Users Require Additional Safety Protocols During Integration Process?"
+"Worry Felt," the text reformed. "Clarification Sought: Do Seekers Require Additional Protection During the Great Joining?"
 
-"Yes," Lin said immediately. "And perhaps a longer timeline to help people adjust to the changes?"
+"Yes," Lin said immediately. "And perhaps a longer time to help people prepare for the changes?"
 
-"Extended Timeline Implementation Available! New Estimated Completion: Forty-Seven Minutes!"
+"Extended Time Granted! New Measure: Forty-Seven Breaths of the Ancient Stones!"
 
-This was not exactly the solution Lin had been hoping for, but it was better than nineteen minutes. The Academy continued to tremble around them, though the vibrations seemed slightly less urgent now that the spirit had agreed to extend its timeline.
+This was not exactly the solution Lin had been hoping for, but it was better than nineteen stone-breaths. The Academy continued to tremble around them, though the vibrations seemed slightly less urgent now that the spirit had agreed to extend its timeline.
 
-"Much better," she said, trying to project calm appreciation through her connection to the laylines. "Though I wonder if we could discuss exactly what 'complete structural integration' involves?"
+"Much better," she said, trying to project calm appreciation through her connection to the laylines. "Though I wonder if we could discuss exactly what 'the Great Joining' involves?"
 
-"Surface and Subsurface Facilities Will Achieve Perfect Harmony! All Educational Spaces Will Function as Unified System! Users Will Have Access to Optimal Learning Environment with Full Magical and Physical Resource Integration!"
+"Surface and Depths Shall Dance as One! All Learning Halls Shall Flow Together! Seekers of Wisdom Shall Walk Between All Realms of Knowledge!"
 
 The Academy shuddered again, and this time the tremor was accompanied by a sound like distant thunder rolling up from the deepest parts of the earth. Whatever the spirit was preparing to do was drawing on magical energies that had probably never been accessed by any educational institution in the history of civilization.
 

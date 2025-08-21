@@ -1,6 +1,5 @@
 ## Step 1:
-
-Before writing the full chapter, create a separate outline document (e.g., ChapterX-outline.md). In this document, map out the chapter using a skeleton structure. 
+Before writing the full chapter, create a separate outline document (e.g., Chapter###-outline.md). In this document, map out the chapter using a skeleton structure. 
 
 Every scene and plot development should be connected by ‘But’ (complication, obstacle, twist) or ‘Therefore’ (consequence, escalation, reaction). Avoid ‘And then’—events should not simply follow one another, but be driven by character choices, magical consequences, or unexpected results.
 
@@ -31,6 +30,17 @@ Your critique should be:
 - **Constructive**: Offer clear, actionable suggestions for improvement that move the story closer to the world, style, and emotional experience you want.
 - **Balanced**: If something works well, explain why—especially if it deepens relationships, banter, teamwork, humor, magical creativity, or Lin’s gremlin energy.
 - **Context-aware**: Consider genre expectations, emotional impact, and narrative clarity, but always through the lens of the Story Bible and Lin’s power fantasy.
+**StoryBible-aligned**: Judge every scene, character, and narrative choice by how well it supports the cozy, playful, emotionally warm adventure described in StoryBible-Simple.md. Dark, gritty, or high-stakes scenes are allowed and can be powerful—they should be embraced when the skeleton calls for them. The cozy-chaos balance comes from character responses (friendship, humor, creative problem-solving) rather than avoiding dramatic events. Prioritize fun, cleverness, magical creativity, and character relationships, but don't sacrifice spectacular sequences or meaningful consequences for generic "cozy" requirements.too dense, overwhelming, or rushed, break the arc into multiple chapters. Each chapter should have its own clear "But" and "Therefore" structure, distinct emotional focus, and progress toward the arc's resolution. 
+**Trust the Skeleton's Emotional Beats**: When the skeleton calls for dramatic moments, devastating consequences, or spectacular magical sequences, trust that these beats are worth pursuing. The cozy-chaos balance should come from how characters respond to dramatic events (with friendship, humor, problem-solving creativity), not from avoiding dramatic events entirely.
+**Cozy-Chaos Balance Techniques**:
+- Let dramatic consequences happen, then show characters adapting with humor, teamwork, and clever solutions
+- Use Lin's gremlin energy to find wonder and excitement in catastrophic situations  
+- Include banter and character chemistry during action sequences
+- Show characters helping others and building community even in crisis
+- Balance high-stakes moments with small discoveries, partnerships, and friendship moments
+- Let magical creativity and collaboration be the solution to seemingly overwhelming problems
+
+Always ensure each chapter is satisfying on its own and leaves room for character development and worldbuilding.
 
 Focus areas:
 
@@ -43,6 +53,7 @@ Focus areas:
 5. **Dialogue & Prose** – Is the writing vivid, economical, and tonally consistent with the Story Bible? Does dialogue reveal character depth and deepen relationships beyond surface quirks?
 6. **Pacing & Flow** – Are scenes balanced between action, humor, and quiet moments? Is there variety in how characters respond to different challenges?
 7.  **Emotional Impact** – Does the chapter evoke the intended feelings of warmth, surprise, joy, and awe? Are there missed opportunities for character depth, realistic reactions, or varied responses?
+8.  Mark all Anchronistic References to be removed.
 
 After your critique, include:
 
@@ -58,4 +69,4 @@ Take the Critique and rewrite the chapter, performing major rewrites and throwin
 
 Continue to iterate through this process until that chapter is 8 or above and fully aligned with the Story Bible and Lin’s power fantasy.
 
-Give me 4000+ Words. (Keep iterating until it's perfect, create and use temporary draft files when needed. Labeling them Chapter#-draft-1, or draft1-Critique etc.)
+Give me 4000+ Words. (Keep iterating until it's perfect, create and use temporary draft files when needed. Labeling them Chapter###-draft-1, or draft###-Critique etc.)
