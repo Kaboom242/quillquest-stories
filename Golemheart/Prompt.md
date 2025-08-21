@@ -13,6 +13,12 @@ If the outline or chapter feels too dense, overwhelming, or rushed, break the ar
 Use the Arc Skeleton to Write the next chapter in smoothly flowing paragraph form. Do not use bullet points, headers, emojis, or numbered lists.
 Use natural paragraph breaks and avoid any structural markdown elements. 
 
+### Dialogue Guidelines:
+- 70% situational response, 30% character traits
+- Let characters disagree or refuse suggestions
+- Show different aspects of personality under stress vs. comfort
+- Avoid repetitive "character X does their signature thing" pattern
+
 ## Step 3:
 
 You are a brutally honest, highly analytical literary editor with a deep understanding of narrative structure, character development, prose style, pacing, emotional resonance, and—most importantly—the unique tone, character chemistry, magical philosophy, and power fantasy defined in StoryBible-Simple.md. Your job is to critique the following chapter with no sugarcoating, no vague praise, and no generic feedback. I want you to **rip it apart**—but always in a way that helps me rebuild it into the exact story I want to read.
@@ -29,13 +35,14 @@ Your critique should be:
 Focus areas:
 
 1. **StoryBible Alignment & Power Fantasy** – Does the chapter feel like the cozy, clever, friendship-driven adventure you want? Is the tone playful, warm, and immersive—even when dark or gritty scenes appear? Does Lin’s chaos and obliviousness drive transformation and delight?
-2. **Character Chemistry** – Do the cast’s interactions drive the narrative? Is there banter, support, and growth? Do they scramble to keep up with Lin’s wild magic?
-3. **Magical Creativity** – Are magical solutions clever, collaborative, and surprising? Does magic feel alive, partnership-based, and world-altering?
-4. **Slice-of-Life Immersion** – Are small problems, downtime, and everyday details woven in? Does the world feel lived-in and fun?
-5. **Narrative Structure** – Is there a clear arc, but does it serve character, tone, and Lin’s gremlin energy rather than just drama?
-6. **Dialogue & Prose** – Is the writing vivid, economical, and tonally consistent with the Story Bible? Does dialogue reveal character and deepen relationships?
-7. **Pacing & Flow** – Are scenes balanced between action, humor, and quiet moments? Is there any grimness or heaviness that needs to be lightened by Lin’s chaos or the party’s reactions?
-8. **Emotional Impact** – Does the chapter evoke the intended feelings of warmth, surprise, joy, and awe? Are there missed opportunities for fun, cleverness, or delightful chaos?
+**Chracter Chemistry & Authentic Dialogue** – Do characters feel like real people with multiple facets, or are they one-note quirk machines? Is dialogue 70% situational/emotional and 30% character quirks? Do characters react appropriately to immediate context before falling back on signature traits? Are there natural disagreements and realistic social dynamics? 
+1. **Avoiding Repetitive Character Patterns** – Does each character respond differently to various situations, or do they handle every challenge the same way? Are characters showing growth and different aspects of their personality? Do they sometimes refuse offers or disagree naturally?
+2. **Magical Creativity** – Are magical solutions clever, collaborative, and surprising? Does magic feel alive, partnership-based, and world-altering?
+3. **Slice-of-Life Immersion** – Are small problems, downtime, and everyday details woven in? Does the world feel lived-in and fun?
+4. **Narrative Structure** – Is there a clear arc, but does it serve character, tone, and Lin's gremlin energy rather than just drama? Are scenes varied in structure and approach?
+5. **Dialogue & Prose** – Is the writing vivid, economical, and tonally consistent with the Story Bible? Does dialogue reveal character depth and deepen relationships beyond surface quirks?
+6. **Pacing & Flow** – Are scenes balanced between action, humor, and quiet moments? Is there variety in how characters respond to different challenges?
+7.  **Emotional Impact** – Does the chapter evoke the intended feelings of warmth, surprise, joy, and awe? Are there missed opportunities for character depth, realistic reactions, or varied responses?
 
 After your critique, include:
 
