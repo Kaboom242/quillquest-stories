@@ -59,7 +59,7 @@
 - Religious banter with Greta about spirits vs. divine creator creates playful debates and mutual respect.
 
 **Skills & Magic:**
-- Witchcraft (Etching, Threadcraft, Hearthflame, Horticulture), quick learning, improvisation, and creative problem-solving.
+- Quick learning, improvisation, and creative problem-solving.
 - Her magic is new and evolving, blending Eastern spiritual wisdom with the practical traditions of Elarion.
 - **Staff Ability:** Lin's blackthorn staff houses a powerful Forest Spirit, allowing her to channel vine magic and unleash brambles in moments of crisis. The staff responds to her will and emotional state, growing and adapting as their partnership deepens (bramble tangles, broom bristles, lantern hook, etc.).
 - **Hearthflame:** Just beginning to understand internal qi cultivation, emotional harmony, and protective warding.
@@ -91,7 +91,7 @@
 ### Tobi – The Mischievous Street Bard / Rogue
 
 - Appearance: Young, handsome lad with a lute slung over his back, mismatched clothes, and a perpetual smirk. His eyes sparkle with mischief.
-- Skills: Music, illusions, pickpocketing, knife play, and storytelling. Can charm crowds or distract guards with a well-timed tune. Or Sneaking behind distracted foes to be finished off with quick knifework.
+- Skills: Agility, pickpocketing, knife and dagger, and storytelling. Can charm crowds or distract guards with a well-timed tune. Or Sneaking behind distracted foes to be finished off with quick knifework.
 - Dynamic: Chaos twin with Lin, but also provides street-smart insights and emotional support through humor. Flirts with everyone but has deeper moments of genuine concern.
 - Speech patterns: Jokes / Flirts when comfortable, but also street-smart observations, flirtatious banter, and sincere worry for friends
 - Personality Depth:
@@ -100,7 +100,7 @@
   - **Other aspects**: Street wisdom, social perceptiveness, hidden insecurities, loyalty to friends, genuine musical talent
   - **Growth edge**: Learning to trust others with his vulnerabilities
 - Party Role: Scout, social navigator, and emotional lightener. Adds local knowledge and helps manage group morale.
-- Growth Point: Tobi must learn to channel his mischief into genuine connection, discovering the value of trust, responsibility, and deeper friendship. (hidden a desire for acceptance)
+- Growth Point: Tobi must learn to channel his mischief into genuine connection, discovering the value of trust, responsibility, and deeper friendship. Wants to learn Illusion Magic. (hidden a desire for acceptance)
 
 ### Wilhelmina “Willi” Zuckermann – Mage with a love of food
 
