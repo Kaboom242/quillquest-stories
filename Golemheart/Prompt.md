@@ -1,4 +1,4 @@
-## Step 1:
+## Outline Next Chapter / Story Arc
 Before writing the full chapter, create a separate outline document (e.g., Chapter###-outline.md). In this document, map out the chapter using a skeleton structure. 
 
 Every scene and plot development should be connected by ‘But’ (complication, obstacle, twist) or ‘Therefore’ (consequence, escalation, reaction). Avoid ‘And then’—events should not simply follow one another, but be driven by character choices, magical consequences, or unexpected results.
@@ -7,7 +7,7 @@ Make sure the next chapter follows along from the previous chapters and is makin
 
 If the outline or chapter feels too dense, overwhelming, or rushed, break the arc into multiple chapters. Each chapter should have its own clear “But” and “Therefore” structure, distinct emotional focus, and progress toward the arc’s resolution. Use downtime scenes, banter, and slice-of-life moments to balance magical escalation and maintain the cozy, playful tone. Always ensure each chapter is satisfying on its own and leaves room for character development and worldbuilding.
 
-## Step 2:
+## Write Chapter Rough Draft:
 
 Use the Arc Skeleton to Write the next chapter in smoothly flowing paragraph form. Do not use bullet points, headers, emojis, or numbered lists.
 Use natural paragraph breaks and avoid any structural markdown elements. 

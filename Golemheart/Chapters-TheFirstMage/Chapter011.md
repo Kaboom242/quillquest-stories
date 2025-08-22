@@ -18,15 +18,15 @@ The impact drove the breath from her lungs and sent lightning bolts of pain thro
 
 Tobi's response was a musical note that echoed strangely, revealing the acoustic properties of their new environment—but the note cracked halfway through, betraying his own pain. "The harmonics are incredible down here," he said, wonder creeping into his pained voice. "It's like the walls are tuned to resonate with specific magical frequencies. Also, I can taste copper, which is either blood or terror."
 
-Lin tried to reach for the spirit, but found only empty silence where the golden text should be. The connection was completely severed. That should have terrified her, but instead she found herself staring around their new environment with growing fascination.
+Lin tried to reach for the spirit, but found only empty silence where the golden text should be. The connection was completely severed. Terror clawed at her chest—without the spirit's guidance, they were truly alone in this impossible place.
 
-"We're cut off from the spirit," she announced, "but look at this place!"
+"We're cut off from the spirit," she announced, her voice smaller than she intended.
 
-They stood in a vast underground chamber that defied architectural logic. Twisted columns of fused books and crystallized knowledge spiraled up toward a ceiling lost in shadows. The walls were alive—literally growing, with vines of hardened text creeping along the stone and shelves that budded new volumes as she watched. The air itself shimmered with residual magic, and every surface pulsed with the slow rhythm of something vast and breathing.
+They stood in a vast underground chamber that defied architectural logic. Twisted columns of fused books and crystallized knowledge spiraled up toward a ceiling lost in shadows that seemed to press down on them with malevolent weight. The walls were alive—literally growing, with vines of hardened text creeping along the stone like infection spreading through veins. The air itself shimmered with residual magic that made her skin crawl, and every surface pulsed with the slow rhythm of something vast and hungry.
 
-"Lin," Greta said carefully, struggling to her feet despite favoring her right leg, "maybe we should focus on the fact that we're trapped underground with no way out?"
+"Lin," Greta said carefully, struggling to her feet despite favoring her right leg, "we need to find a way out of here. Now."
 
-"But we're not just trapped—we're somewhere completely impossible!" Lin scrambled up, already moving toward the nearest wall to examine the growing books, her injured arm forgotten in her excitement. "These aren't just decorations. The text is actually growing from the stone like some kind of literary moss. It's like the dungeon is writing itself into existence!"
+"I—" Lin started toward the nearest wall, then stopped as the growing books seemed to turn toward her movement, pages rustling without wind. "This isn't natural. The text is growing like some kind of parasitic moss. It's like the dungeon is feeding on knowledge and getting stronger."
 
 Scattered across the floor around them were the remnants of Willi's carefully organized supplies. Her pack had burst open in the fall, creating what looked like the aftermath of a very small, very tragic grocery store explosion.
 
@@ -34,73 +34,139 @@ Scattered across the floor around them were the remnants of Willi's carefully or
 
 Lin spotted the medical kit wedged under a chunk of fallen masonry, its contents scattered like puzzle pieces. She retrieved what remained—a few bandages, some dried herbs that somehow smelled stronger down here, and a single healing potion with a crack running down its side like a lightning bolt.
 
-"This is what we have," she said, but instead of despair, her voice carried a note of challenge. "So we'll have to get creative."
+"This is what we have," she said, despair creeping into her voice despite her efforts to stay positive. "So we'll have to make it work somehow."
 
-"Creative," Greta repeated, testing her weight on her injured leg. "Right. Because this is exactly the kind of impossible situation heroes rise to meet." Despite their circumstances, her voice carried that familiar dramatic flair that meant she was already planning something appropriately heroic.
+"Make it work," Greta repeated grimly, testing her weight on her injured leg. "Right. Because heroes always find a way." But her voice lacked its usual dramatic flair, carrying instead the weight of someone realizing the stories might not have happy endings.
 
-From the corridors around them came sounds that definitely weren't natural—chittering like insects made of paper, scraping like claws on stone, and the whisper of pages turning in nonexistent wind. But there was something else too: a low, musical humming that made the crystalline formations in the walls pulse with soft, almost welcoming light.
+From the corridors around them came sounds that made Lin's skin crawl—chittering like insects made of paper, scraping like claws on stone, and the whisper of pages turning in nonexistent wind. But underneath it all was something worse: a low, hungry humming that made the crystalline formations in the walls pulse with sickly light, like a predator's heartbeat.
 
-"We're not alone down here," Tobi observed, his head tilted as he listened to the dungeon's complex acoustic landscape. "But I don't think everything down here is hostile. Some of these harmonics feel... curious. Like the place is wondering what we'll do next."
+"We're definitely not alone down here," Tobi observed, his usual playful tone replaced by grim caution. "And I don't think anything down here is friendly. The harmonics are all wrong—like the place is feeding on something."
 
-A low growl echoed from one of the corridors, followed by the sound of heavy footsteps that somehow managed to sound scholarly. Something was definitely coming to investigate the noise of their arrival.
+A bone-deep growl echoed from one of the corridors, followed by the sound of heavy footsteps that somehow managed to sound both scholarly and menacing. Whatever was coming had noticed their arrival and was not pleased.
 
-Lin gripped her recovered blackthorn staff, feeling the familiar weight of the wood in her hands. Without the spirit's guidance, it felt different—not diminished, but like it was waiting for something new to happen. The wood seemed to hum in harmony with the walls around them.
+Lin gripped her recovered blackthorn staff with white knuckles, the familiar weight offering little comfort. Without the spirit's guidance, it felt dead in her hands—just ordinary wood against whatever nightmares this place had spawned.
 
-"Right," she said, grinning despite their situation and bouncing slightly on her toes. "Time to figure out how this place works."
+"Right," she said, her voice barely steady. "Time to figure out if we can survive this place."
 
-The footsteps were getting closer, and now they could see shapes moving in the corridor—tall figures that moved wrong, like puppets with too many joints and an imperfect understanding of human anatomy.
+The footsteps were getting closer, and now they could see shapes moving in the corridor—tall figures that moved wrong, like puppets with too many joints and an appetite for fresh knowledge.
 
-"Well," Willi said, hefting a broken chair leg like a club, "this is about to get interesting in all the wrong ways."
+"Well," Willi said, hefting a broken chair leg like a club, "this is about to get very dangerous very quickly."
 
-"Or all the right ways," Lin countered as three Book Wraiths emerged from the corridor. They looked like someone had taken the concept of a librarian and rebuilt it from accumulated academic rage and paper cuts, with pages fluttering where skin should be and ink-black voids for eyes that seemed to drink in light.
+"Or very deadly," Lin muttered as three Book Wraiths emerged from the corridor. They looked like nightmares born from every student's worst fears—amalgamations of academic failure and paper cuts, with pages fluttering where skin should be and ink-black voids for eyes that seemed to suck in hope itself.
 
-"Lin," Greta said, raising her shield with the practiced ease of someone who'd grown up on heroic ballads, "please tell me you have a plan."
+"Lin," Greta said, raising her shield with movements that betrayed her exhaustion, "please tell me you have some kind of plan."
 
-"I have several plans," Lin replied cheerfully. "Most of them involve finding out what happens when you poke a magical dungeon creature with a blackthorn staff while asking it polite questions about its composition."
+"I have one plan," Lin replied, trying to keep the tremor out of her voice. "Don't let them touch us and hope my staff can hurt them."
 
-The first wraith lunged forward with inhuman speed, and Lin's grin widened. "Let's do some science!"
+The first wraith lunged forward with inhuman speed, and Lin's world narrowed to pure survival instinct.
 
 ---
 
 ## Combat and Discovery
 
-The Book Wraith moved faster than anything made of paper and spite had any right to, but Lin was already in motion, staff extended with the focused intensity she usually reserved for particularly interesting plant specimens. When the blackthorn passed harmlessly through the creature's torso, she didn't stumble back in surprise—she leaned forward with delighted interest.
+The Book Wraith moved faster than anything made of paper and spite had any right to, and Lin barely managed to get her staff up in time. When the blackthorn passed harmlessly through the creature's torso, panic spiked through her—if physical attacks didn't work, how were they supposed to fight these things?
 
-"Incorporeal to physical matter," she called out, spinning the staff in a complex pattern that made the air shimmer, "but watch this!"
+"It's incorporeal!" she shouted, stumbling backward as claws of hardened ink swept past her face.
 
-The next time she struck, the wood connected with solid impact, sending loose pages scattering like confused butterflies. The wraith reeled back, clearly surprised.
+The next time she struck, desperation guided her movements, and somehow the wood connected with solid impact, sending loose pages scattering like confused butterflies. The wraith reeled back, and Lin felt a surge of desperate hope.
 
-"How did you—" Greta started, before the second wraith slammed into her shield with papery claws that left deep gouges in the metal.
+"How did you—" Greta started, before the second wraith slammed into her shield with papery claws that left deep gouges in the metal and sent her staggering.
 
-"It's trying to drain memories through contact!" she shouted, but her voice carried excitement rather than fear. "Just like the old stories about knowledge thieves! This is fascinating!"
+"It's trying to drain our memories!" she gasped, real fear creeping into her voice. "I can feel it pulling at my thoughts!"
 
-"Then don't let it touch you," Tobi called back, his voice weaving into a melody that made the third wraith writhe and clutch at its head like someone with a particularly academic headache. "These things respond to harmony like cats respond to cucumbers—badly and with immediate confusion."
+"Then don't let it touch you!" Tobi called back, his music weaving a melody that made the third wraith writhe in obvious pain. But his voice cracked with exhaustion, and Lin could see sweat beading on his forehead from the magical strain.
 
-The combat became a strange dance of discovery. Willi's fire and ice magic worked fine against their papery hides, but only when she cast with complete confidence. Doubt made her spells fizzle harmlessly, as if the creatures were somehow sustained by uncertainty.
+The combat became a desperate struggle for survival. Willi's fire and ice magic worked, but only when she could maintain focus despite her injuries. Every spell cost her visibly, and Lin watched in growing horror as her friend grew paler with each casting.
 
-"It's about conviction!" she shouted, conjuring a burst of fire that seared through the wraith's papery hide, leaving curling edges and a trail of frost that froze the ink in place. "You have to believe you can hurt them—like convincing yourself that a soufflé will rise despite all evidence to the contrary!"
+"It's about conviction!" Willi wheezed, conjuring flames that barely singed the wraith's papery hide. "You have to believe completely—but it's getting harder to concentrate."
 
 Tobi darted in and out of the fray, his knife flashing as he found weak spots in the wraiths' forms, blending bardic agility with rogue-like precision. "Never underestimate a well-timed stab," he quipped, distracting a wraith long enough for Greta to land a decisive blow.
 
 Lin found herself laughing as she fought, spinning her staff in patterns that seemed to confuse the wraiths as much as damage them. Each successful strike taught her something new about how this place worked. The creatures weren't just random monsters—they were the dungeon's way of testing their understanding, their resolve, their willingness to adapt.
 
-When the last wraith dissolved into scattered pages and puddles of ink that somehow smelled like old libraries and failed exams, Lin was already kneeling beside the residue with scientific fascination.
+When the last wraith dissolved into scattered pages and puddles of ink that somehow smelled like old libraries and forgotten nightmares, the silence that followed felt heavy with exhaustion rather than triumph.
 
-"Look at this," she said, pointing at one of the ink puddles. "It's not disappearing. It's soaking into the stone and making new patterns."
+Lin looked around at her friends—really looked at them. Greta was leaning heavily on her sword, blood seeping through a tear in her practice clothes where claws had found their mark. Willi had collapsed against a wall, her face gray with magical exhaustion and blood loss from a dozen small cuts. Tobi sat hunched over his lute, fingers trembling as he tried to tune strings that had been damaged in the fight.
 
-Sure enough, where the ink touched the floor, new runes were forming—faint but definitely intentional, like a very polite form of graffiti.
+"The dungeon is learning from our fights," Tobi observed quietly, his usual wonder replaced by grim understanding. "It's getting stronger while we're getting weaker."
 
-"The dungeon is learning from our fights," Tobi observed, his voice full of wonder despite his exhaustion. "It's incorporating what we do into its structure. We're not just navigating it—we're teaching it."
+Lin knelt beside one of the ink puddles, but this time her examination was driven by desperation rather than curiosity. The runes forming in the stone seemed to mock her—complex patterns that she couldn't read, knowledge that remained just out of reach when they needed answers most.
 
-"That's either brilliant or terrifying," Greta said, cleaning ink off her sword blade with the satisfied air of someone who'd just had a really good practice session.
+"That's either brilliant or terrifying," Greta said, but her voice was hollow, drained of its usual dramatic energy.
 
-"Why not both?" Lin replied cheerfully, already examining the walls for more signs of the dungeon's adaptation.
+"It's terrifying," Lin replied, and for the first time since they'd fallen, her voice broke slightly. "We're trapped, we're hurt, and this place is getting smarter while we're barely surviving each fight."
 
 ---
 
-## The Chest Chamber and Revelations
+## Test of Despair
 
-Twenty minutes of careful exploration later, during which Lin had documented seventeen different types of magical phenomena and Willi had organized their remaining supplies with military precision, they found themselves in a smaller chamber that practically hummed with organized magic.
+They had been fighting for what felt like hours. Three more encounters with dungeon creatures had left them battered, bloodied, and running on nothing but stubborn refusal to die. Willi's remaining healing supplies were exhausted, Greta's sword arm shook with fatigue, and Tobi's music had grown thin and reedy as his strength failed.
+
+Lin pressed her back against a wall that pulsed with malevolent energy, clutching her blackthorn staff like a lifeline. Around them, the dungeon had grown more aggressive, more personal in its attacks. The walls whispered with voices that sounded almost familiar, and shadows moved independently of any light source.
+
+"I can't," Willi whispered, slumped in a corner with blood soaking through makeshift bandages. "I can't cast anymore. There's nothing left."
+
+Greta knelt beside her, and for the first time since Lin had known her, the knight's shoulders sagged with defeat. "Maybe... maybe we weren't meant to be heroes after all," she said quietly. "Maybe some stories just end badly."
+
+The words hit Lin like physical blows. Greta—dramatic, idealistic Greta who treated every adventure like an epic ballad—was giving up. If their leader had lost hope, what chance did any of them have?
+
+"No," Lin said, but her voice came out small and broken. "No, we just need to—to figure out the pattern, or find the right magic, or—"
+
+But even as she spoke, she could hear the hollowness in her own words. They were trapped in an impossibly deep dungeon with no way out, no supplies, and creatures that grew stronger while they grew weaker. Her usual optimistic problem-solving felt pathetic in the face of such overwhelming odds.
+
+Tobi's lute lay silent across his lap, several strings snapped. "The harmonics have gone all wrong," he said listlessly. "Everything down here feeds on fear and despair. We're just making it stronger by being afraid."
+
+"Then what are we supposed to do?" Lin snapped, surprising herself with the anger in her voice. "Just sit here and wait to die? Let this place win?"
+
+The silence that followed was answer enough. For the first time in her life, Lin Xiu—curious, optimistic, never-say-die Lin Xiu—felt the crushing weight of true hopelessness.
+
+That's when she felt it: a tiny whisper of warmth from the blackthorn staff in her hands.
+
+---
+
+## Breakthrough
+
+The warmth was subtle at first—just a tiny flicker against her palm where skin met wood. But as despair threatened to drown her completely, Lin found herself focusing on that small comfort, that one thing in this nightmare that felt like home.
+
+"The Forest Spirit," she whispered, and suddenly the staff in her hands felt alive again. Not with the Library Spirit's golden text and calculated precision, but with something wilder, older, and infinitely more patient.
+
+The connection wasn't words or flowing script—it was feeling. Ancient understanding flowed between them: the patient strength of deep roots, the fierce protection of thorns, the unstoppable force of growth breaking through stone. The spirit had been there all along, waiting for Lin to reach past her fear and academic curiosity to something deeper.
+
+*Partnership,* came the wordless message. *Not command. Work with me.*
+
+"Yes," Lin breathed, and felt the staff respond like a living thing awakening from sleep.
+
+When the next wave of creatures emerged from the shadows—drawn by their despair like vultures to carrion—they found something unexpected. Lin rose to her feet with movements that flowed like wind through branches, and when she raised her blackthorn staff, the dungeon itself seemed to pause in anticipation.
+
+"Everyone get behind me," she said, her voice carrying a new note of quiet authority that made even Greta look up in surprise. "This is going to be different."
+
+The staff grew in her hands—not with magic forcing it to change, but with the spirit's willing transformation. Blackthorn wood flowed like water, extending into a gnarled quarterstaff crowned with wicked thorns. Vines erupted from the stone around her feet, not chaotic and wild, but purposeful, protective, fierce.
+
+The attacking creatures—some new horror of crystallized knowledge and hungry shadows—crashed into Lin's barrier of thorns and found themselves completely outmatched. The vines moved with predatory intelligence, wrapping around limbs and draining the magical energy that sustained the constructs. What had been a fight for survival became something else entirely: a partnership between witch and spirit that turned defense into devastation.
+
+When the silence returned, it felt different. The oppressive weight of despair had lifted, replaced by something that felt like possibility again.
+
+"Lin," Greta said, staring at the thorny barrier that was slowly retreating back into the stone, "that was..."
+
+"Partnership magic," Lin finished, marveling at how right the staff felt in her hands now. "Not commanding the magic to obey—working with it as an equal."
+
+Willi struggled to her feet, color returning to her cheeks as the spirit's influence seemed to ease some of her exhaustion. "That felt like healing magic, but different. Gentler. Like the earth itself was offering strength."
+
+"Because it was," Lin said, understanding flooding through her. "The Forest Spirit isn't just in my staff—it's connected to the laylines, to the living magic that runs through everything. When we work together instead of fighting against this place..."
+
+She gestured at the walls around them, and for the first time, the writhing text and growing books seemed less threatening and more... curious. The dungeon was still dangerous, still a maze they needed to escape, but it no longer felt actively malevolent.
+
+"We're not just trapped down here," Tobi said, his voice carrying a note of wonder as he tested his lute strings and found them miraculously whole again. "We're being taught something. About magic, about partnership, about—"
+
+A deep rumble echoed through the chamber, and somewhere far above them, light flickered. Not the harsh glare of academy torches, but natural sunlight filtering down through stone.
+
+"The surface," Greta breathed, her dramatic spirit returning as hope rekindled. "We have a chance."
+
+Lin nodded, feeling the Forest Spirit's patient strength flowing through her tired body. They weren't safe yet—the dungeon still stretched between them and freedom, and she suspected the greatest challenges lay ahead. But they were no longer helpless prey struggling against impossible odds.
+
+They were partners now, working with the magic instead of against it. And that changed everything.
+
+"Come on," she said, shouldering her pack and gripping her transformed staff. "Let's go home."
 
 Three ornate chests sat arranged around a central pedestal, each one clearly designed by different magical traditions and practically radiating significance.
 
@@ -259,51 +325,6 @@ The maze heard them, and began to change. Instead of blocking their path, the bo
 
 ---
 
-## The Test of Despair
-
-It was during their third major battle on Level Four that things went seriously wrong.
-
-
-The Tome Wraith was larger and more vicious than anything they'd faced—a monstrous shadow stitched together from centuries of failed exams, bitter regrets, and abandoned dreams. Its form writhed constantly, pages fluttering like diseased wings, ink bleeding from wounds that opened and closed like hungry mouths. Its aura was suffocating, a cold weight that pressed down on the group and made every breath feel like drowning in despair.
-
-They fought desperately, but the Wraith was relentless and impossibly fast. It lashed out with tendrils of ink and memory that moved like liquid shadow, each strike leaving trails of corruption that ate through stone and flesh alike. The creature targeted Willi with a precision that felt personal, herding her away from the group with calculated malice.
-
-When its final attack landed—a spear of crystallized failure that punched through her magical defenses like they were tissue paper—Willi's eyes went wide with shock and terror. Her mouth opened in a scream that never came as something vital was torn from her soul. Then her eyes went empty, pupils dilating to black voids. She collapsed like a marionette with cut strings, her staff clattering to the ground with a sound like breaking bones.
-
-The Wraith recoiled, clutching a shimmering thread of her essence—her memories, her personality, everything that made Willi _Willi_—in its shadowy claws. The stolen essence pulsed with warm light against the creature's darkness, beautiful and terrible. It savored the taste for a moment before vanishing into the maze, its laughter echoing like torn pages and shattered hopes.
-
-Greta dropped to her knees beside Willi, panic breaking through her usual composure. Her hands shook as she checked for vital signs. "Her pulse is weak and thready. She's breathing, but—" Her voice cracked. "She's not here. Not really. It's like looking at an empty shell."
-
-Lin tried to reach Willi with her magic, extending tendrils of plant-sense toward her friend, but the connection was blocked by something cold and absolute, as if a wall of ice had grown between them. Tobi hovered nearby, his usual bravado completely gone, voice raw with grief: "She looks right through me. Like she doesn't know who I am. Like she doesn't know who _she_ is."
-
-The silence stretched like a wound. The corridors felt colder, darker, as if the very stones were absorbing their despair. The sense of loss was real and immediate—Willi, their anchor, their steady center, was gone in all the ways that mattered. Her body remained, but the spark that had organized their supplies and planned their route and kept them grounded was simply... absent. Greta's hands shook as she pressed them to Willi's forehead, whispering desperate prayers to the Light, her knuckles white around her sword hilt, but nothing worked. Tobi strummed his lute, searching for a melody that might reach her, but the notes sounded hollow.
-
-"We failed," Greta whispered, voice cracking. "We weren't strong enough."
-
-Lin stared at Willi, her own hope flickering. The Forest Spirit in her staff pulsed with concern, but Lin felt powerless. For the first time, the magic around her felt indifferent—just another system, not a friend. The group huddled in the alcove, the weight of despair pressing down, and for a long moment, no one spoke. The Wraith had escaped, and the lesson was brutal: sometimes, even the best magic and teamwork weren't enough.
-
-Tobi finally broke the silence, voice barely above a whisper. "I don't know what to do. I can't joke this away. I can't fix it."
-
-Lin's hands trembled as she gripped her staff, searching for any sign of the Forest Spirit's guidance. But all she felt was grief and guilt—a sense that she had let her friend down, and that the dungeon was watching, waiting to see what they would do next.
-
----
-
-## The Breakthrough
-
-
-Lin sat in the silence, clutching her staff with white-knuckled desperation, feeling the Forest Spirit's presence—distant, wary, and grieving like a wound that wouldn't close. Blood from her bitten tongue painted her teeth copper-red as she closed her eyes and reached inward, not for power, but for comfort in the face of absolute failure. "I need you," she whispered to the spirit within the wood, her voice raw and broken. "I can't do this alone. Willi needs us."
-
-For a moment that stretched like eternity, nothing happened. The silence pressed down like a physical weight, and Lin felt her last thread of hope beginning to fray. Then, slowly, she felt the Forest Spirit respond—not with words, but with a deep, aching sorrow that mirrored her own and a flicker of hope so fragile it might shatter at a breath. It was afraid, just as she was. But it wanted to help, even if they both died trying.
-
-"Please," Lin whispered, tears slipping down her cheeks to mingle with the blood and dust on her lips. Her hands shook so badly she could barely grip the staff. "I don't know how to fix this. But I know you do. Please don't let her disappear."
-
-The staff warmed in her hands like a living thing awakening from the edge of death, and Lin felt the spirit's ancient wisdom reach out with tentative, desperate fingers, searching for connection in the darkness. She called Greta and Tobi closer, voice trembling on the edge of breaking. "We have to do this together. Not just with magic—with everything we are. Everything we have left."
-
-Greta knelt beside her, placing a trembling hand on Lin's shoulder, her own faith and loyalty blazing like a candle in a hurricane—fierce, fragile, and absolutely uncompromising in the face of despair. Her armor was dented and bloodstained, her face pale with shock, but her touch was steady. Tobi, silent for once and looking younger than Lin had ever seen him, pressed his palm to the staff with hands that still shook from memory loss, letting his music and hope flow into the connection like a prayer made of melody.
-
-The Forest Spirit responded with a surge of power that felt like spring breaking through winter's corpse. Vines grew from the staff, gentle and luminous but pulsing with desperate urgency, weaving around Willi's empty form and the huddled group. Lin felt the spirit's memories crash into her consciousness—centuries of nurturing and protecting and growing, but also of loss and grief and the terrible cost of caring for mortal things. She let her own love and fear pour into the magic like lifeblood, while Greta offered her unwavering faith and Tobi fed his musical soul into the fragile connection.
-
-The healing was slow, uncertain, excruciating. The vines pulsed with shared emotion, each heartbeat a risk, each breath a gamble with forces beyond their understanding. Lin felt every moment of Willi's absence like a knife between her ribs, felt the Forest Spirit straining against the cold void where her friend's essence should be. The magic wasn't just restoring Willi's memories—it was rebuilding her soul thread by agonizing thread, knitting the group's bonds tighter even as it threatened to tear them all apart.
 
 For long minutes that felt like hours, nothing seemed to change. Willi's form remained slack and empty, her breathing shallow and mechanical. Lin felt despair creeping back, cold fingers around her heart, and the Forest Spirit's ancient panic rising like flood water.
 
