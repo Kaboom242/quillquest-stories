@@ -106,7 +106,7 @@ Plant spirits, she realized. Dozens of them, living in the herbs and healing flo
 
 The next morning, Lin approached Professor Kess with her request to learn potioncraft. The herbalist was a stern woman with soil permanently embedded under her fingernails and an encyclopedic knowledge of magical plants. Her greenhouse laboratory smelled of earth and growing things, with hints of dried herbs and something faintly medicinal.
 
-"Potioncraft is a precise discipline," Professor Kess warned, leading Lin between rows of gleaming cauldrons and neatly labeled ingredient jars. "It requires exact measurements, controlled conditions, and absolute adherence to proven formulas. There is no room for improvisation or intuition—only time-tested methods that produce reliable results."
+"Potioncraft is a precise discipline," Professor Kess warned, leading Lin between rows of gleaming cauldrons and neatly labeled ingredient jars. "It requires exact measurements, controlled conditions, and absolute adherence to proven formulas. There is no room for improvisation only intuition time-tested methods that produce reliable results."
 
 The first lesson began with a basic healing draught. Professor Kess demonstrated the standard process with surgical precision: exact measurements of dried herbs, carefully controlled heat application, formulaic addition of reagents in specific sequences. Her movements were economical and practiced, each gesture serving a specific purpose in the brewing process.
 
@@ -164,7 +164,7 @@ The Forest Spirit confirmed her growing suspicions with images and sensations th
 
 Lin understood with growing certainty and dread that the dungeon's creation and the Library Spirit's massive power draws had damaged the regional magical infrastructure far more severely than anyone had realized. And unless someone learned to repair laylines properly, the damage would continue spreading until it affected the magical stability of the entire region.
 
-She needed to learn Threadcraft techniques—not just the basic thread-sight she'd discovered while working with the Library Spirit, but the full traditional methods her grandmother had mentioned in old stories. The threads she could now see were just the beginning of what was possible.
+She needed to learn Threadcraft techniques—not just the basic thread-sight she'd discovered while working with the Library Spirit. The threads she could now see were just the beginning of what was possible.
 
 She shared her discoveries with her friends over dinner in their private quarters. Willi had managed to convince the Academy kitchens to provide ingredients for her own cooking, and the familiar comfort food did more for their morale than any magical healing.
 
@@ -175,12 +175,6 @@ The weight of responsibility settled over the room like a heavy blanket. Greta s
 "We need a methodical approach," she said finally. "Heal locally first, establish a base of operations, then expand our efforts systematically to the surrounding areas. No sense in trying to fix everything at once and burning ourselves out completely."
 
 Tobi nodded, back to normal speech patterns. "We could use our new reputation to gain official support. The city officials have to be worried about magical anomalies. If we approach them as the people who saved the Academy and stabilized the Library Spirit, they might provide resources for larger repair efforts."
-
-Their planning was interrupted by a sharp knock on the door. Dean Margarethe entered without waiting for permission, her expression grave and urgent in a way that made Lin's stomach clench with anxiety.
-
-"I'm sorry to disturb your recovery," she said, "but we've received troubling reports from villages around Eisenstadt. Magical anomalies are appearing faster than we can catalog them. Talking livestock, household objects gaining consciousness, fruit trees that have started walking around their orchards, and at least one confirmed case of a well that's begun dispensing advice along with water."
-
-The friends exchanged glances heavy with shared understanding. Lin felt the crushing weight of responsibility settling on her shoulders. The damage was spreading exactly as she'd feared, and people were already being affected by the magical instabilities she had helped create.
 
 "We can't delay the layline repairs," she said quietly. "Even though we're not fully recovered ourselves."
 
@@ -194,6 +188,6 @@ Lin looked around at her friends—still bearing the marks of their dungeon orde
 
 "All right then," she said, managing a smile despite the overwhelming scope of the work ahead. "We learn Threadcraft, we heal the laylines, and we help the people affected by the magical anomalies. One village at a time."
 
-As Dean Margarethe left them to their planning and Willi began sketching out supply lists for their upcoming travels, Lin felt the Forest Spirit stirring more strongly in her staff. There was work to be done—important, difficult, necessary work that would test everything they had learned about magic, friendship, and responsibility.
+Willi began sketching out supply lists for their upcoming travels, Lin felt the Forest Spirit stirring more strongly in her staff. There was work to be done—important, difficult, necessary work that would test everything they had learned about magic, friendship, and responsibility.
 
 But for the first time since waking up in the infirmary, she felt ready to do it.

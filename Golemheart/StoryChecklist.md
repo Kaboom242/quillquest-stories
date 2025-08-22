@@ -55,6 +55,7 @@ Be extreamly nitpicky and through with this, you are a master editor, providing 
 **Character Depth:** Does each character show situation-appropriate responses before personality quirks?  Dialogue is 70% situational/emotional, 30% character quirks.  No repetitive “character X does their signature thing” patterns. 
 **Tone Alignment:** Does this match the intended arc tone from the outline?
 **Show don't Tell:** Limit Exposition, when something big is happening go over the top with details.
+**Pacing & Immersion:** Does each scene linger long enough for the reader to experience events in real time, with vivid sensory detail and emotional presence? Avoid summarizing or rushing through moments—let the reader see, hear, and feel the action as it unfolds, rather than being told what happened after the fact.
 
 Rate only: PASS/NEEDS REVISION + specific fixes needed
 
@@ -71,6 +72,6 @@ Rate only: PASS/NEEDS REVISION + specific fixes needed
 ### Finalize
 - Write to Chapter document (e.g., Chapter###.md)
 - Do a polishing step on the final Draft using the passing critique.
-- Rune one last critique of the chapter being brutally honest looking for any flaw.
+- Run one last critique of the chapter being brutally honest looking for any flaw.
 
 ---
