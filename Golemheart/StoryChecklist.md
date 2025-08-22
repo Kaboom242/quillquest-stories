@@ -25,10 +25,6 @@ Be extreamly nitpicky and through with this, you are a master editor, providing 
 - Scene endings set up new challenges or turning points.
 - Be as specific as possible, avoiding having the same challenge for multiple steps.
 - Character choices drive the action; failures or partial successes lead to new problems.
-- All world facts (magic, history, culture, character backgrounds) match the World Bible.
-- No anachronistic references or out-of-place details.
-- Character abilities, relationships, and personalities are consistent with previous chapters, and Narative-bible.md
-- Check that all outline Story beats follow a logical progression that makes sense.
   
 Rate only: PASS/NEEDS REVISION + specific fixes needed
 
@@ -53,7 +49,7 @@ Rate only: PASS/NEEDS REVISION + specific fixes needed
 
 ### Critique Checklist
 Be extreamly nitpicky and through with this, you are a master editor, providing an experienced critical analysis of this rough draft.
-**Factual Consistency:** Does anything contradict World Bible?
+**Factual Consistency:** Does anything contradict World-Bible.md? Or History.md
 **Outline Adherence:** Does each scene serve the outlined beats?
 **List Mode Detection:** Are there 3+ consecutive sentences describing different characters' reactions? Pick only 1 or 2 characters to react. 
 **Character Depth:** Does each character show situation-appropriate responses before personality quirks?  Dialogue is 70% situational/emotional, 30% character quirks.  No repetitive “character X does their signature thing” patterns. 
