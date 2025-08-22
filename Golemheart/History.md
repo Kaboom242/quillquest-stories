@@ -136,20 +136,41 @@ Lin Xiu's journey from overlooked Academy student to the First Witch, culminatin
 - **Rescue and revelation**: Academy rescue team finds party after 8 days; Lin emerges fundamentally transformed as practitioner of ancient magic traditions
 **Character Development**: Lin discovers hearthflame qi and primal magic capabilities independent of formal training; party bonds through shared trauma and mutual dependence; understanding grows of magic as relationship rather than technique
 
+## Chapter 12: Hearth, Healing, and the Library Spirit's Farewell
+**Setting**: Academy infirmary, Library, medicinal gardens
+**Key Events**:
+- Party recovers from magical exhaustion after dungeon ordeal; Lin, Greta, Tobi, and Willi struggle with lingering trauma and depleted mana.
+- Library Spirit's overenthusiastic optimizations cause architectural chaos; Lin and friends negotiate with the Spirit to balance improvements and sustainability.
+- Lin discovers new magical threads connecting Academy infrastructure, learns to guide the Spirit in stabilizing the building.
+- Healing garden spirits help Lin and friends recover; Lin begins learning potioncraft from Professor Kess, blending partnership magic with traditional methods.
+**Character Development**: Lin deepens her partnership approach, learns to balance magical innovation with practical needs; party bonds through shared recovery and new magical insights.
+
+## Chapter 13: Threadcraft and City
+**Setting**: Royal Academy, Eisenstadt city, Merchants' Square
+**Key Events**:
+- Lin and party return to a city transformed by dungeon fame and magical disruption; adventurers flood the streets, infrastructure is strained.
+- Lin discovers the laylines and city spirits are traumatized; her staff transforms into threadcraft needles, allowing her to weave magical connections and heal the city.
+- Public demonstration of threadcraft convinces city officials and Academy to support Lin's methods; Lin teaches threadcraft to students, balancing academic rigor with intuitive magic.
+- Monster scouts approach, forcing Lin and her team to coordinate a city-wide magical restoration before nightfall.
+- Lin's threadcraft repairs the city's spiritual health, earning her a permanent consultant role and new responsibilities.
+- Duke Wilhelm receives Lin's report, foreshadowing political and magical consequences beyond Eisenstadt.
+**Character Development**: Lin matures as a leader and healer, integrating her animistic worldview with civic and academic systems; party members support her in new roles, and the city begins to recover.
+
 ## Magic System Development
-- **Partnership philosophy**: Magic works better through collaboration than control
-- **Animistic worldview**: Everything has spirit/consciousness that can be awakened
-- **Layline sensitivity**: Lin can see magical currents without equipment
-- **Uncontrolled manifestations**: Lin's power activates under stress/emotion
-- **Ancient connections**: Pre-Academy magic traditions through grandmother's Eastern teachings
-- **Real costs**: Magical awakening carries risks, can attract unwanted attention, has social/political consequences
-- **Hearthflame qi**: Personal magical energy independent of laylines; creates environmental comfort and safety
-- **Environmental magic**: Unconscious improvement of atmospheric conditions - temperature, lighting, acoustics, emotional comfort
-- **Large-scale consciousness**: Ancient entities like Library Spirit have vast awareness and literal interpretation of requests
-- **Threadcraft healing**: Ability to see and repair damaged magical connections, especially memory restoration
-- **Primal magic systems**: Forest Spirit partnership enables vine control and plant mastery beyond Academy training
-- **Blackthorn staff awakening**: Ancient magical focus gains consciousness through Forest Spirit partnership
-- **Magic system independence**: Multiple magical approaches (laylines, qi, spirit partnership) can function separately or together
+**Partnership philosophy**: Magic works better through collaboration than control
+**Animistic worldview**: Everything has spirit/consciousness that can be awakened
+**Layline sensitivity**: Lin can see magical currents without equipment
+**Uncontrolled manifestations**: Lin's power activates under stress/emotion
+**Ancient connections**: Pre-Academy magic traditions through grandmother's Eastern teachings
+**Real costs**: Magical awakening carries risks, can attract unwanted attention, has social/political consequences
+**Hearthflame qi**: Personal magical energy independent of laylines; creates environmental comfort and safety
+**Environmental magic**: Unconscious improvement of atmospheric conditions - temperature, lighting, acoustics, emotional comfort
+**Large-scale consciousness**: Ancient entities like Library Spirit and city spirits have vast awareness and literal interpretation of requests
+**Threadcraft healing**: Ability to see and repair damaged magical connections, including city-wide laylines and spiritual trauma
+**Primal magic systems**: Forest Spirit partnership enables vine control and plant mastery beyond Academy training
+**Blackthorn staff awakening**: Ancient magical focus gains consciousness through Forest Spirit partnership
+**Magic system independence**: Multiple magical approaches (laylines, qi, spirit partnership, threadcraft) can function separately or together
+**Integration challenge**: Lin must teach and document her intuitive magic for the Academy, balancing tradition and innovation
 
 ## Foreshadowing & Setup
 - Ancient spirits exist throughout the world, some friendly, some dangerous
@@ -164,14 +185,14 @@ Lin Xiu's journey from overlooked Academy student to the First Witch, culminatin
 - Political/academic establishment tensions around magical innovation and traditional approaches
 
 ## Current Status
-- Party established as "The Luminous Dawn Seekers" with proven dungeon survival experience
-- Lin confirmed as First Witch with multiple magical systems: layline sensitivity, hearthflame qi, Forest Spirit partnership
-- Heinrich's turnips permanently conscious, socially accepted as "agricultural theater" performers
-- Lin possesses awakened Blackthorn staff with Forest Spirit consciousness and vine control capabilities
-- Academy Grand Library transformed by ancient Library Spirit with ongoing optimization effects
-- Lin capable of environmental comfort magic, memory restoration through threadcraft, and primal plant magic
-- Party bonds strengthened through 8-day dungeon survival ordeal
-- Academy faces ongoing questions about revolutionary magical innovations and their implications
-- Lin's reputation established among both Academy faculty and noble courts
-- Growing understanding of magic as relationship-based rather than command-based system
-- Next challenges: integrating ancient magic traditions with Academy education, managing large-scale consciousness awakenings, navigating political implications of revolutionary magical abilities
+Party established as "The Luminous Dawn Seekers" with proven dungeon survival experience
+Lin confirmed as First Witch with multiple magical systems: layline sensitivity, hearthflame qi, Forest Spirit partnership, threadcraft
+Heinrich's turnips permanently conscious, socially accepted as "agricultural theater" performers
+Lin possesses awakened Blackthorn staff with Forest Spirit consciousness and vine control capabilities
+Academy Grand Library transformed by ancient Library Spirit with ongoing optimization effects
+Lin capable of environmental comfort magic, memory restoration through threadcraft, city-wide magical healing, and primal plant magic
+Party bonds strengthened through 8-day dungeon survival ordeal and city restoration efforts
+Academy faces ongoing questions about revolutionary magical innovations and their implications
+Lin's reputation established among both Academy faculty and noble courts; now holds permanent consultant role for city magical infrastructure
+Growing understanding of magic as relationship-based rather than command-based system
+Next challenges: integrating ancient magic traditions with Academy education, managing city-wide magical infrastructure, and navigating political/social consequences of revolutionary abilities
