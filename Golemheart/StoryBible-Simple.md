@@ -266,7 +266,7 @@ Personality Depth:
   - **Other aspects**: Strategic mind, protective instincts, appreciation for beauty/art, struggles with leadership doubts, genuine faith in the Luminant Church
   - **Growth edge**: Learning to balance idealism with practical reality
 - Party Role: Leader, frontline fighter, and moral compass. Balances dramatic flair with genuine tactical expertise.
-- Growth Point: Greta must learn to balance her ideals and dramatic instincts with the realities of leadership, accepting imperfection and finding strength in vulnerability.d, but grows through relentless effort, mastering Witchcraft.
+- Growth Point: Greta must learn to balance her ideals and dramatic instincts with the realities of leadership, accepting imperfection and finding strength in vulnerability..
 
 ### Tobi – The Mischievous Street Bard / Rogue
 
