@@ -12,6 +12,13 @@
   
 ## Chapter 13: Threadcraft and City
 - Lin uses her staff, and the Forest Spirit within, to trace the laylines throughout Eisenstadt, slowly learning Threadcraft. Inspired by her attempts to mend Greta's memory, she begins to see and manipulate the invisible connections between places, people, and spirits.
+City Transformation
+- Academy basement transformation has created genuine dungeon that attracts adventurers from across region, overwhelming city infrastructure.
+- Party emerges from negotiations to find Eisenstadt bustling with adventuring parties, merchants, and scholars
+- Adventurer's Guild has established temporary processing station; inns overflow with visitors
+- City guards struggle with crowd control; local prices skyrocket due to sudden demand
+- Dean Margarethe reveals dungeon's magical emanations are attracting monster migration toward city
+- Party realizes their dungeon survival experience makes them valuable consultants for managing ongoing situation
 - The party discovers several magical anomalies caused by the Dungeon's creation: street lamps flicker and hum with voices, fountains overflow with enchanted water, and alleyways twist into confusing patterns overnight. Local spirits are restless, and some minor household objects have begun to move on their own.
 - Lin and the party investigate each disturbance: Willi calms a frightened kitchen spirit in a bakery, Tobi helps a merchant whose sign keeps flipping to closed.
 - Lin realizes the laylines are frayed and tangled for miles, causing discomfort for spirits and residents. She begins Threadcraft rituals—knitting, embroidery, and symbolic weaving—at key locations, using her staff (now transformed into a pair of enchanted knitting needles) to restore the threads to normal.

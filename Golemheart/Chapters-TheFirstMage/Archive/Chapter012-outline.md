@@ -48,19 +48,8 @@
 - Spirit learns to maintain comfort improvements while releasing architectural impossibilities
 - Academy settles into enhanced but stable configuration with cozy reading spaces and helpful book organization
 
-## **Scene 5: Dungeon Discovery - City Transformation**
-**Problem**: Academy basement transformation has created genuine dungeon that attracts adventurers from across region, overwhelming city infrastructure.
-
-- Party emerges from negotiations to find Eisenstadt bustling with adventuring parties, merchants, and scholars
-- Adventurer's Guild has established temporary processing station; inns overflow with visitors
-- **But**: City guards struggle with crowd control; local prices skyrocket due to sudden demand
-- **Therefore**: Guild officials approach party as "dungeon experts" requesting assistance with crisis management
-- Dean Margarethe reveals dungeon's magical emanations are attracting monster migration toward city
-- Party realizes their dungeon survival experience makes them valuable consultants for managing ongoing situation
-
-## **Scene 6: Healing Crisis Recognition - Party Medical Assessment**
-**Problem**: Lin observes many dungeon survivors and arriving adventurers suffering from magical fatigue and injuries that Academy healers cannot fully treat.
-
+## **Scene 5: Healing Crisis Recognition - Party Medical Assessment**
+**Problem**: Lin observes party suffering from magical fatigue and injuries that Academy healers cannot fully treat.
 - Lin notices her friends' continued struggles despite rest - Greta's memory gaps, Willi's magical strain, Tobi's nightmare exhaustion
 - Academy's healing magic addresses physical wounds but cannot restore magical energy or mental resilience
 - **But**: Lin senses plant spirits in Academy's medicinal garden responding to her Forest Spirit connection
