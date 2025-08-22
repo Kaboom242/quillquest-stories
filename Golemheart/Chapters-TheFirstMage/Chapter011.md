@@ -196,7 +196,7 @@ The Forest Spirit trapped within the stone wasn't angry or afraid—it was waiti
 
 *Now,* it said in her mind with the sound of wind through ancient leaves. *Now you learn what it means to grow.*
 
-Lin's Blatthorn staff had been with her since her first day at the Academy, a simple piece of blackthorn wood that Professor Aldrich had helped her choose. She'd always felt a connection to it, but now she understood why.
+Lin remembered the day in the grove, when the ancient blackthorn tree had spoken in riddles and gifted her the staff—its bark twisted with age, its branches heavy with memory. She hadn't understood its true purpose then, only that it pulsed with warmth and life, thrumming with magic older than memory. Now, as the Forest Spirit flowed into the wood, she finally understood why it had chosen her.
 
 It had been waiting too.
 
@@ -212,7 +212,7 @@ The Owl made one final, desperate attempt to break free, its remaining eye blazi
 
 The Forest Spirit emerged from the wreckage like morning light made manifest, its form visible now as a creature of living wood and gentle fire. It looked at Lin with eyes older than the Academy, older than the Empire itself, and bowed once—a gesture of acknowledgment between equals. Then it faded back into the ley lines that ran beneath the world, carrying with it the whispered promise that this was only the beginning.
 
-Lin collapsed to her knees among the ruins, the Blatthorn staff still humming with power in her hands.
+Lin collapsed to her knees among the ruins, the Blackthorn staff still humming with power in her hands.
 
 The rescue team found them twenty minutes later, Academy instructors and Guild members who had been searching desperately for survivors of the ley line explosion. They emerged from a passage that definitely hadn't existed in the Academy's original architecture, their faces showing a mixture of relief and complete bewilderment at the scene before them.
 
@@ -224,6 +224,6 @@ Lin looked around at the ruins of the impossible forest, at her friends who were
 
 "I think," she said quietly, her voice hoarse from exhaustion and magic and eight days of fear and hope and discovery, "I found out what I'm really supposed to be learning."
 
-The Blatthorn staff pulsed once in her hands, warm and alive and full of possibilities that she was only beginning to understand. Somewhere in the ley lines beneath the Academy, she could feel the Forest Spirit settling into its new home, ready to teach her all the secrets that the old magic had forgotten.
+The Blackthorn staff pulsed once in her hands, warm and alive and full of possibilities that she was only beginning to understand. Somewhere in the ley lines beneath the Academy, she could feel the Forest Spirit settling into its new home, ready to teach her all the secrets that the old magic had forgotten.
 
 Above them, the first rays of morning sunlight were beginning to filter down through cracks in the dungeon's ceiling, painting everything in shades of gold and green and promising new beginnings.
