@@ -6,6 +6,10 @@
 - The story blends cozy slice-of-life immersion with moments of high drama, sacrifice, and lasting change, but always returns to a warm, playful atmosphere.
 - Lin Xiu’s journey is driven by curiosity, optimism, and a desire to improve the world. Her growth is earned through cleverness, teamwork, and personal effort.
 - The narrative celebrates magical creativity, partnership, and emotional warmth, balancing chaos and comfort.
+- Make a natural, mystery-driven progression (one unfolding problem -> investigations -> solution).
+- Each scene starts with a clear Problem.
+- Every attempted solution uses “But / Therefore” to show consequences.
+- Show process/struggle/decision (no skipping to aftermath).'
 
 ## 2. Author Intentions & Story Structure
 

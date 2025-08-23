@@ -25,14 +25,11 @@ City Transformation
 - Greta and Tobi assist by mediating between Lin and skeptical city officials, who worry about further magical disruptions. The party holds a public demonstration of Threadcraft repair, earning cautious trust from the community. And amazement from Professors.
 - As Lin repairs the laylines, the magical anomalies subside: lights return to normal, fountains calm, and the city spirits express gratitude. Lin feels her Threadcraft skills growing, and the city begins to recover from the chaos.
 - 
-## Chapter 14: The Whispering Orchard
-- The party receives reports of an ancient orchard on the outskirts of Eisenstadt where fruit trees have begun to move, whisper, and swap places overnight, confusing farmers and disrupting harvests.
-- Lin uses her new Spirit Lantern to trace the laylines and sense animist spirits, discovering that the orchard’s guardian spirit is agitated by the recent layline chaos.
-- Greta negotiates with the local farmers, calming fears and organizing a safe perimeter.
-- Willi prepares offerings of food and herbal teas to appease the orchard spirits.
-- Tobi investigates the orchard at night, uncovering a mischievous spirit fox that’s been amplifying the chaos for fun.
-- Lin earns the trust of the orchard’s guardian by respectfully listening to its grievances and weaving a Threadcraft charm to stabilize the local layline.
-- Resolution: The orchard’s spirits settle, fruit harvest resumes, and the farmers gift the party enchanted apples as thanks.
+## Chapter 14: Evernight at Rowan Hollow
+- The party sets out from the city, to tend and repair the surounding land.
+- Time remains always night, in the lands surounding a small ancient forst the same night,
+- A village nearby has been stuck in a time loop on repeat for the last 2 weeks. (Since the Dungeon Break)
+- The party follows the hum toward a clearing where a single giant Rowan tree stands vigil.
 
 ## Chapter 15: The Haunted Bridge
 - Rumors spread of a stone bridge over the Silberbach river where travelers report seeing ghostly apparitions and hearing voices from the water.

@@ -1,6 +1,8 @@
 ## Outline
 - Create a separate outline document (e.g., Chapter###-outline.md)
 - Start each scene with a clear problem or obstacle the characters face.
+- Make a natural, mystery-driven progression (one unfolding problem -> investigations -> solution).
+- Each scene starts with a clear Problem.
 - Use "But/Therefore" to show each attempted solution and the resulting complication or consequence.
 - Avoid jumping straight to aftermath—show the process, struggle, and decision-making.
 - Each bullet should follow logically from the previous one, building tension and stakes.
@@ -48,13 +50,14 @@ Rate only: PASS/NEEDS REVISION + specific fixes needed
 - Story should flow from chapter to chapter, avoid end of chapter summaries, or internal reflections.
 
 ### Critique Checklist
-Be extreamly nitpicky and through with this, you are a master editor, providing an experienced critical analysis of this rough draft.
+Be extreamly nitpicky and preform a master level Critique, be brutally honest, providing an experienced critical analysis of this rough draft.
 **Factual Consistency:** Does anything contradict World-Bible.md? Or History.md
 **Outline Adherence:** Does each scene serve the outlined beats?
+**Immersion:** POV anchor: Who sees, hears, smells in this paragraph? (limit to 1–2 characters)
 **List Mode Detection:** Are there 3+ consecutive sentences describing different characters' reactions? Pick only 1 or 2 characters to react. 
 **Character Depth:** Does each character show situation-appropriate responses before personality quirks?  Dialogue is 70% situational/emotional, 30% character quirks.  No repetitive “character X does their signature thing” patterns. 
 **Tone Alignment:** Does this match the intended arc tone from the outline?
-**Show don't Tell:** Limit Exposition, when something big is happening go over the top with details.
+**Show don't Tell:** Limit Exposition, when something big is happening go over the top with details. Ask “how would a reader experience this?” Convert to sensory detail.
 **Pacing & Immersion:** Does each scene linger long enough for the reader to experience events in real time, with vivid sensory detail and emotional presence? Avoid summarizing or rushing through moments—let the reader see, hear, and feel the action as it unfolds, rather than being told what happened after the fact.
 
 Rate only: PASS/NEEDS REVISION + specific fixes needed
@@ -67,7 +70,7 @@ Rate only: PASS/NEEDS REVISION + specific fixes needed
 - Strengthen dialogue to reflect the 70/30 situational/quirk rule and avoid repetitive signature actions.
 - Enhance "show, don't tell" by adding vivid details and sensory immersion to key moments.
 - Ensure the story flows smoothly, with natural transitions and no abrupt summaries or internal reflections.
-- If the rating is less than 8/10, rewrite the chapter and repeat the critique/revision process until it passes.
+- If the rating is less than 10/10, rewrite the chapter and repeat the critique/revision process until it passes.
 
 ### Finalize
 - Write to Chapter document (e.g., Chapter###.md)

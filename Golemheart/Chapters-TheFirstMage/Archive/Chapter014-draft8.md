@@ -1,4 +1,4 @@
-# Chapter 14: Evernight at Rowan Hollow
+# Chapter 14: Evernight at Rowan Hollow - Draft 3
 
 The road to Rowan Hollow wound through countryside that should have been bathed in afternoon sunlight, but Lin's shadow stretched in the same direction it had for over an hour. She stopped her horse and stared at the sun, which hung motionless in a sky the color of old amber. Her mouth tasted of copper and stale air, as if she'd been holding her breath.
 
@@ -88,42 +88,16 @@ The lantern's light revealed a transformed landscape. Laylines became visible as
 
 "Something's feeding," she said, her voice barely above a whisper. "Not just consuming the laylines, but actively twisting them. Making them hurt on purpose." The lantern's light showed paths through the supernatural darkness, but also revealed how deep the corruption ran. This wasn't random magical damage—it was deliberate torment.
 
-As they prepared to venture deeper into the forest, the Spirit-lantern attracted attention from local spirits who emerged from hiding with desperate hope. Tucklings with faces like carved wood but eyes full of too-human pain gathered around Willi when she offered them crumbs of herb-bread. Rootlings whose branches trembled with exhaustion from fighting corruption approached Tobi's gentle music. Shadow-wisps flickered between visibility, too hurt to maintain solid form but drawn to the lantern's healing light.
+As they prepared to enter the forest proper, the Spirit-lantern attracted more attention from the local spirits. They emerged from hiding with desperate hope, creatures Lin had only heard about in her grandmother's stories. Tucklings with faces like carved wood but eyes full of too-human pain. Rootlings whose branches trembled with exhaustion from fighting corruption that poisoned their very roots. Shadow-wisps that flickered between visibility, too hurt to maintain solid form.
 
-"The path winds true but danger grows," the spirit in the lantern chimed, its voice like silver bells touched with sadness. "Ancient friend sleeps in pain, dreams in hunger. We guide where feet may walk, but hearts must be strong for what waits ahead."
+But there were hostile presences too—things that had been spirits once but were now something else, twisted by prolonged exposure to whatever malevolence lay ahead. They stayed just beyond the lantern's reach, but Lin could feel their attention like cold breath on the back of her neck.
 
-Lin nodded and stepped forward onto the path the lantern revealed. Behind her, she heard Greta's breathing change—shorter, more controlled. When she glanced back, she saw the knight's shoulders had gone rigid, and her eyes kept darting to the shadows that pressed in from all sides.
+"The path ahead leads to great sorrow," the spirit in the lantern chimed, its voice like silver bells touched with sadness. "Ancient friend sleeps in pain, dreams in hunger. Old promises break like autumn leaves. We will try to heal, but healing may require sacrifice we are not prepared to make."
 
-"Greta?" Lin asked quietly. "Everything all right?"
+Lin nodded grimly, understanding more than she wanted to. Whatever waited in the forest's heart had once been something good—something the local spirits had loved and trusted. Now it was a source of corruption and pain, but they still hoped it could be saved rather than destroyed.
 
-"Fine," Greta said quickly, too quickly. "Just... watching for threats. These shadows could hide anything." But Lin noticed her voice had gone tight, and she was staying closer to the center of their group than usual.
+"Together then," she whispered to her luminous partner. "Let's go see if we can save something that's been lost for too long."
 
-As they moved deeper into the forest, the supernatural darkness seemed to thicken around them. Their torches guttered uselessly, barely penetrating a few feet, while the Spirit-lantern's glow became their only reliable light source. The path shifted constantly—passages that had been clear moments before would suddenly branch in different directions, and Lin had to trust the little spirit's guidance to avoid walking in circles.
+The Spirit-lantern's glow pushed back just enough darkness to reveal a winding path deeper into the trees. Behind them, Rowan Hollow continued its endless harvest day, each repetition stealing a little more humanity from the trapped villagers. Ahead lay whatever ancient corruption had been feeding on the village's stolen time, growing stronger and more twisted with each moment it consumed.
 
-"Left here," the spirit chimed, and Lin adjusted course around a massive oak that definitely hadn't been there a minute ago. "Path remembers old ways, but corruption makes trees forget where they stood."
-
-Greta's breathing was definitely wrong now—too shallow, too quick. When a branch creaked overhead, she nearly drew her sword before catching herself. Lin could see her fighting to maintain her professional composure, but the endless darkness pressing in from all sides was clearly wearing at her nerves.
-
-"This isn't like normal forests," Lin said gently, speaking as much to reassure Greta as to explain the situation. "The corruption is making everything shift and change. It's not really getting darker—it just feels that way because the magic here is all twisted up."
-
-"I know that," Greta said, her voice still tight. "I'm not afraid of the dark. Knights don't..." She stopped herself, jaw clenching.
-
-Tobi dropped back to walk beside her, his lute already in his hands. "You know," he said conversationally, beginning to play a soft, cheerful melody, "I once spent three days hiding in a grain cellar from some very angry merchants. Terrible place for someone who doesn't like small, closed-in spaces. But you know what I learned? It's okay to be afraid of things. Fear keeps us careful."
-
-Greta glanced at him sharply, then away. "I said I'm fine."
-
-"Sure you are," Tobi agreed easily. "Just like I was fine in that cellar. Didn't stop me from being grateful when someone finally let me out into the sunlight." His music wove through the air around them, somehow making the oppressive darkness feel less crushing.
-
-Willi moved to Greta's other side without comment, pulling a small herb bundle from her pouch. She lit it with practiced movements, and the sweet smoke that resulted seemed to push back the shadows slightly. "Rosemary for remembrance," she said quietly. "Helps us remember that dark places aren't permanent. Light always returns eventually."
-
-Lin adjusted the Spirit-lantern's position so it cast more light around Greta's path. "Besides," she added with a small smile, "we need you watching our backs. Who else is going to notice if something tries to sneak up on us? I'm too focused on the laylines, and Tobi's too busy with his music."
-
-Greta's shoulders relaxed slightly, and some of the tension left her voice. "Just... stay close together. This place makes every instinct I have scream warnings, and I can't protect anyone if we get separated in this maze."
-
-"We're not going anywhere," Willi said firmly, offering Greta a piece of honey cake from her pack. "Here. You need to keep your strength up, and sugar helps with stress."
-
-As they continued deeper into the haunted woods, the Spirit-lantern revealed more disturbing signs of corruption. Trees grew in impossible configurations, their trunks twisted together in patterns that hurt to look at. The ground beneath their feet felt spongy and wrong, as if they were walking on something that had once been alive. And always, the humming grew stronger, matching the rhythm of pain that pulsed through the tortured laylines.
-
-"Not much farther now," the spirit in the lantern said, its voice heavy with sorrow. "Great tree waits where all paths converge. Great tree dreams old dreams and new nightmares, and cannot tell difference anymore."
-
-Lin felt her heart clench with sympathy. Whatever they were about to face had once been something beautiful and beloved, now twisted by corruption it couldn't fight alone. She gripped her staff tighter and pressed forward, her exhausted friends close behind, toward whatever ancient tragedy waited in the forest's wounded heart.
+Lin gathered her remaining strength and stepped forward into the haunted woods, her friends close behind. The real work of healing was about to begin, and she had no idea if her partnership-based magic would be enough to mend something so deeply broken.
