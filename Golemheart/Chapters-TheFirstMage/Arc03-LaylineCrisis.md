@@ -34,16 +34,7 @@ City Transformation
 ## Chapter 15: The Haunted Bridge
 - Rumors spread of a stone bridge over the Silberbach river where travelers report seeing ghostly apparitions and hearing voices from the water.
 - The party arrives to find the bridge covered in frost despite summer weather, and local traffic at a standstill.
-- Lin uses her Spirit Lantern and Threadcraft to reveal that the bridge’s foundation stones have absorbed too much chaotic magic, awakening old memories of a forgotten tragedy.
-- Greta leads a ritual of remembrance, honoring those lost and calming the restless spirits.
-- Willi brews a warming potion to dispel the unnatural frost, while Tobi gathers stories from villagers to help piece together the bridge’s history.
-- Lin weaves a Threadcraft tapestry on the bridge, symbolically reconnecting the layline and healing the stone’s memory.
-- Resolution: The frost melts, the apparitions fade, and the bridge is restored to normal use. The villagers host a small festival in gratitude.
 
 ## Chapter 16: The Wildflower Maze
 - The party is called to a meadow where wildflowers have grown into a sprawling, shifting maze, trapping livestock and confusing travelers.
 - Lin senses that the layline beneath the meadow has become knotted, causing the plants to awaken and seek new patterns.
-- Greta and Tobi work together to rescue trapped animals and guide lost villagers out of the maze.
-- Willi communicates with the flower spirits, learning that they are frightened and seeking protection from imagined threats.
-- Lin uses Threadcraft embroidery to gently untangle the layline, calming the flowers and restoring the meadow’s natural order.
-- Resolution: The maze dissolves, the wildflowers bloom peacefully, and the party is invited to a picnic by grateful townsfolk. Lin collects rare herbs for future potioncraft.

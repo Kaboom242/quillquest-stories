@@ -51,7 +51,7 @@ Rate only: PASS/NEEDS REVISION + specific fixes needed
 
 ### Critique Checklist
 Be extreamly nitpicky and preform a master level Critique, be brutally honest, providing an experienced critical analysis of this rough draft.
-**Factual Consistency:** Does anything contradict World-Bible.md? Or History.md
+**Factual Consistency:** Does anything contradict World-Bible.md? Or History.md 
 **Outline Adherence:** Does each scene serve the outlined beats?
 **Immersion:** POV anchor: Who sees, hears, smells in this paragraph? (limit to 1–2 characters)
 **List Mode Detection:** Are there 3+ consecutive sentences describing different characters' reactions? Pick only 1 or 2 characters to react. 

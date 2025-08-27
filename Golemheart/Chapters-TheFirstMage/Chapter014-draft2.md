@@ -1,4 +1,4 @@
-# Chapter 14: Evernight at Rowan Hollow
+# Chapter 14: Evernight at Rowan Hollow - Draft 2
 
 The countryside rolled past Lin's horse in waves of amber light that should have been afternoon sunshine but felt wrong against her skin. She shifted in her saddle and pressed her blackthorn staff against her knee, the Forest Spirit within recoiling from whatever tainted the air around them. The wrongness tasted like copper pennies and stale breath, as if the world had been holding its lungs closed for hours.
 
@@ -6,15 +6,7 @@ Lin tilted her head back to study the sun, which hung motionless in a sky the co
 
 "Anyone else notice we've been riding toward that same cloud for three hours?" Tobi asked, pointing at a wispy formation that should have drifted away by now. He strummed a few experimental notes on his lute, the melody hanging in the still air longer than it should. "Either my music's gotten incredibly compelling, or we're stuck in the world's most ominous painting."
 
-"Perfect," Lin said with forced lightness. "I've always wanted to be an extra in an ominous tableau."
-
-Greta barked a short laugh without humor. "If you're going to be dramatic, at least look heroic while you do it."
-
-Willi folded her hands around a wrapped loaf. "Heroism is overrated when it's empty stomach heroism," she said practically. "Here, eat." She offered Lin half the loaf—the gesture was matter-of-fact, not sentimental, but Lin felt steadier for it.
-
-Tobi accepted a scrap and grinned. "See? Food fixes everything—except time. Time seems stubbornly carb-free."
-
-Greta's armored boots clinked against her stirrups as she shifted to look around them, her expression growing serious again. "The Light preserve us. This is no natural phenomenon." Her voice carried the weight of someone who'd seen corruption before, but nothing quite like this. "How long since anyone has seen proper dawn or dusk in these lands?"
+Greta's armored boots clinked against her stirrups as she shifted to look around them. "The Light preserve us. This is no natural phenomenon." Her voice carried the weight of someone who'd seen corruption before, but nothing quite like this. "How long since anyone has seen proper dawn or dusk in these lands?"
 
 "Two weeks," Willi said grimly, consulting the Guild posting she'd been studying. "Since the dungeon break. Village has been sending messengers, but most never made it out. The few that did..." She shook her head. "They spoke of people trapped in endless repetition."
 
@@ -46,9 +38,7 @@ A low humming drifted across the village, barely audible but persistent. Lin fel
 
 "There," she said, pointing toward the treeline where the air seemed to shimmer with heat that had nothing to do with temperature. "Whatever's doing this is in those woods."
 
-The walk to the forest felt longer than it should have, each step taking them further from the broken normalcy of the village and closer to something that made Lin's skin crawl with anticipation. The forest entrance loomed before them like a mouth full of broken teeth, and as they approached, Lin saw they weren't alone.
-
-Dozens of spirits clustered around the treeline, but these weren't the peaceful woodland sprites she'd expected. Their small bodies pressed together in desperate huddles, chittering warnings in voices like glass breaking against stone.
+The forest entrance loomed before them like a mouth full of broken teeth. As they approached, Lin saw they weren't alone—dozens of spirits clustered around the treeline, but these weren't the peaceful woodland sprites she'd expected. Their small bodies pressed together in desperate huddles, chittering warnings in voices like glass breaking against stone.
 
 "Turn back! Turn back!" A tuckling burst from behind a tree trunk, its bark-skin mottled with stress patterns that looked like infected wounds. "Great hunger wakes! Old promises break! No passage for warm-bloods!"
 
@@ -62,15 +52,13 @@ The brave tuckling approached her outstretched hand with obvious reluctance. Whe
 
 Willi knelt beside her and began humming a gentle lullaby, the melody floating through the air like warm honey. Several spirits stopped their frantic chittering to listen, their panic easing slightly at the comforting sound.
 
-Greta stepped forward with solemn dignity. "By the Light that guides all souls to righteousness," she said formally, placing her hand over her heart, "we swear we come not as conquerors but as healers. Honor demands we attempt to mend what has been broken, to ease the suffering that drives good spirits to such desperation."
-
-Tobi sat on a fallen log and pulled out his lute, his usual mischievous grin replaced by quiet focus. "Hey, little ones," he said gently, beginning to play a soft melody that complemented Willi's humming. "We've seen broken things before. Sometimes they can be fixed, if someone cares enough to try. Will you let us try?"
+"By the Light that guides all souls to righteousness," Greta said formally, placing her hand over her heart, "we swear we come not as conquerors but as healers. Honor demands we attempt to mend what has been broken, to ease the suffering that drives good spirits to such desperation."
 
 The spirits wavered between terror and desperate hope. Finally, the tuckling spoke for all of them: "Warm-bloods may pass. But beware—great tree grieves beyond healing. Ancient hunger grows beyond stopping. Old friend becomes old enemy, and we cannot save what will not be saved."
 
 The wall of spirits parted reluctantly, creating a narrow path between the trees. The moment they stepped across the threshold, Lin felt something fundamental shift in the air around them. The temperature dropped until her breath came out in visible puffs, and shadows moved independently of any light source, reaching toward them with finger-like tendrils.
 
-"This darkness isn't natural," Greta muttered, her sword hand twitching toward her hilt. Her voice carried an edge Lin had rarely heard before—not fear exactly, but deep unease. "It presses against the soul like a physical weight."
+"This darkness isn't natural," Greta muttered, her sword hand twitching toward her hilt. "It presses against the soul like a physical weight."
 
 Lin pulled out a torch and struck flint, but the flame guttered weakly in the supernatural gloom. "Normal light won't work here," she realized, watching their pitiful circle of illumination shrink to barely an arm's length. "The corruption is too thick. I can't read the laylines properly through all this interference."
 
@@ -102,11 +90,11 @@ The lantern's light revealed a landscape transformed by corruption. Laylines bec
 
 "Something's feeding," she said, her voice barely above a whisper. "Not just consuming the laylines for power, but actively torturing them. Making them hurt on purpose."
 
-As they prepared to venture deeper into the forest, the Spirit-lantern attracted attention from local spirits who emerged from hiding with desperate hope written across their small faces. Tucklings with expressions of too-human pain gathered around Willi when she offered them crumbs of travel bread. Shadow-wisps flickered between visibility, too damaged to maintain solid form but drawn to the healing light like moths to flame.
+As they followed the winding path deeper into the haunted woods, the Spirit-lantern attracted attention from local spirits who emerged from hiding with desperate hope written across their small faces. Tucklings with expressions of too-human pain gathered around Willi when she offered them crumbs of travel bread. Shadow-wisps flickered between visibility, too damaged to maintain solid form but drawn to the healing light like moths to flame.
+
+The path shifted constantly—passages that had been clear moments before would suddenly branch in different directions, forcing them to trust the little spirit's guidance to avoid walking in circles. Greta's breathing grew shorter and more controlled as the supernatural darkness pressed in from all sides, her eyes darting to shadows that seemed to reach for them with grasping fingers.
 
 "The path winds true but danger grows," the spirit in the lantern chimed, its voice like silver bells touched with ancient sorrow. "Ancient friend sleeps in pain, dreams in hunger. We guide where feet may walk, but hearts must be strong for what waits ahead."
-
-The path wound deeper into the haunted woods, shifting constantly as passages that had been clear moments before would suddenly branch in different directions. Lin had to trust the little spirit's guidance to avoid walking in circles, while behind her she could hear Greta's breathing grow shorter and more controlled as the supernatural darkness pressed in from all sides.
 
 Finally, after what felt like hours of careful navigation through the maze of corrupted trees, they emerged into a clearing where a single massive Rowan tree stood at the center. Its trunk easily measured sixty feet around, and its canopy disappeared into the supernatural gloom above. But this wasn't the majestic guardian it should have been.
 
