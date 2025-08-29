@@ -1,4 +1,4 @@
-# Chapter 15: The Haunted Bridge
+# Chapter 15: The Haunted Bridge - Draft 3
 
 Lin breathed deeply as her horse crested the final hill before the Silberbach valley, savoring air that tasted properly of summer grass instead of the metallic corruption they'd left behind at Rowan Hollow. Her muscles finally unknotted from the tension of working so close to layline torture, and she let herself appreciate the clean morning light that turned the surrounding farmland into gold and emerald patches.
 
@@ -20,7 +20,7 @@ The south approach to the bridge had become an impromptu camp where frustrated t
 
 Lin left her horse with the others and approached the bridge itself, immediately feeling the wrongness that had spooked every animal for miles. The temperature dropped with each step toward the stone approach, the chill biting through her summer clothes like winter wind sharp enough to cut skin. Her breath began coming out in white puffs despite the afternoon sun warming her shoulders, and frost crunched under her boots where it had no business existing.
 
-The laylines beneath the ancient stones felt tangled but not corrupted when she extended her magical senses toward them—twisted into knots that spoke of sudden violence and desperate urgency rather than the deliberate torture she'd experienced at Rowan Hollow. When she pressed deeper with her consciousness, images flashed through her mind: dark water rushing higher than should have been possible, desperate voices calling over the thunder of flash flood, reaching hands that couldn't quite span the distance to something precious being swept away by the merciless current.
+The laylines beneath the ancient stones felt tangled but not corrupted when she extended her magical senses toward them—twisted into knots that spoke of sudden violence and desperate urgency rather than the deliberate torture she'd experienced at Rowan Hollow. When she pressed deeper with her consciousness, images flashed through her mind: dark water rushing higher than it should have been possible, desperate voices calling over the thunder of flash flood, reaching hands that couldn't quite span the distance to something precious being swept away by the merciless current.
 
 "There was a tragedy here," she said, the certainty settling cold and heavy in her chest. "Something sudden that left them unable to move on. But they're not feeding on the laylines like the corrupted tree was—they're just stuck, trapped by something they couldn't finish."
 
