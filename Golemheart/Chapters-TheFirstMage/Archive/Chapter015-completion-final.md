@@ -1,4 +1,4 @@
-# Chapter 15: The Haunted Bridge
+# Chapter 15: The Haunted Bridge - Final Draft
 
 Lin breathed deeply as her horse crested the final hill before the Silberbach valley, savoring air that tasted properly of summer grass instead of the metallic corruption they'd left behind at Rowan Hollow. Her muscles finally unknotted from the tension of working so close to layline torture, and she let herself appreciate the clean morning light that turned the surrounding farmland into gold and emerald patches.
 
@@ -93,5 +93,3 @@ Lin sat against the bridge railing, utterly drained by the magic she had perform
 "Seven souls refused to abandon their child," Greta said quietly, settling beside Lin as normal traffic began flowing across the span once more. "In the end, love proved stronger than death itself."
 
 Lin nodded, watching the Silberbach flow toward distant seas that would carry word of this night to shores where other spirits might learn that some bonds could not be broken by death, that love could achieve the impossible when it refused to surrender hope. The haunted bridge would trouble travelers no more, but the story of the family who wouldn't abandon their daughter would echo through the spiritual realm for generations yet to come.
-
-
