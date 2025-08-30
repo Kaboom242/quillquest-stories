@@ -1,5 +1,6 @@
 ## Outline
-- Create a separate outline document (e.g., Chap**Show don't Tell:** Use sensory details strategically, not constantly. One strong sensory detail per paragraph maximum. Ask "how would a reader experience this?" but don't overwhelm with sensation. When something big is happening, focus on character reactions and dialogue over environmental description.
+- Create a separate outline document (e.g., Chapter###-outline.md)
+- **Show don't Tell:** Use sensory details strategically, not constantly. One strong sensory detail per paragraph maximum. Ask "how would a reader experience this?" but don't overwhelm with sensation. When something big is happening, focus on character reactions and dialogue over environmental description.
 **Sensory Overload Check:** Does every paragraph have multiple similes/metaphors? Are you describing every sense (sight, sound, smell, taste, touch) in a single scene? Cut 70% of sensory descriptions and keep only the most impactful ones. Use dialogue to convey details when possible.
 **Pacing & Immersion:** Does each scene linger long enough for emotional impact without drowning in description? Avoid sensory overwhelm that slows reading to a crawl. Balance vivid detail with story momentum. Character actions and dialogue should drive scenes, not environmental descriptions.r###-outline.md)
 - Start each scene with a clear problem or obstacle the characters face.
@@ -45,13 +46,14 @@ Rate only: PASS/NEEDS REVISION + specific fixes needed
 
 ---
 ## Write Story
-- Create a separate Draft document (e.g., Chapter###-draft#.md)
+- Create a separate Draft document (e.g., under Archive/Chapter###-draft#.md)
 - Use the Outline to Write the next chapter in smoothly flowing paragraph form. 
 - Do not use bullet points, headers, emojis, or numbered lists.
 - Use natural paragraph breaks and avoid any structural markdown elements. 
 - Story should flow from chapter to chapter, avoid end of chapter summaries, or internal reflections.
 
 ### Critique Checklist
+- Create a separate critique document (e.g., under Archive/Chapter###-draft#-critique.md)
 Be extreamly nitpicky and preform a master level Critique, be brutally honest, providing an experienced critical analysis of this rough draft.
 **Factual Consistency:** Does anything contradict World-Bible.md? Or History.md 
 **Outline Adherence:** Does each scene serve the outlined beats?
