@@ -1,5 +1,7 @@
 ## Outline
-- Create a separate outline document (e.g., Chapter###-outline.md)
+- Create a separate outline document (e.g., Chap**Show don't Tell:** Use sensory details strategically, not constantly. One strong sensory detail per paragraph maximum. Ask "how would a reader experience this?" but don't overwhelm with sensation. When something big is happening, focus on character reactions and dialogue over environmental description.
+**Sensory Overload Check:** Does every paragraph have multiple similes/metaphors? Are you describing every sense (sight, sound, smell, taste, touch) in a single scene? Cut 70% of sensory descriptions and keep only the most impactful ones. Use dialogue to convey details when possible.
+**Pacing & Immersion:** Does each scene linger long enough for emotional impact without drowning in description? Avoid sensory overwhelm that slows reading to a crawl. Balance vivid detail with story momentum. Character actions and dialogue should drive scenes, not environmental descriptions.r###-outline.md)
 - Start each scene with a clear problem or obstacle the characters face.
 - Make a natural, mystery-driven progression (one unfolding problem -> investigations -> solution).
 - Each scene starts with a clear Problem.
@@ -72,7 +74,7 @@ If large sections need to be added or expanded, give a word count estimate and d
 - Remove or revise any passages that contradict the World Bible, Narrative Bible, or established character arcs.
 - Fix any "List Mode" sections by focusing reactions on one or two characters, ensuring natural flow and emotional realism.
 - Strengthen dialogue: Quick sassy banter, full of life and personality.
-- Enhance "show, don't tell" by adding vivid details and sensory immersion to key moments. Avoid overusing similes. Use dialogue to describe details when possible.
+- Enhance "show, don't tell" by adding vivid details and sensory immersion to key moments. Avoid overusing similes and metaphors—use maximum one per paragraph. Cut 70% of sensory descriptions and keep only the most impactful ones. Use dialogue to describe details when possible.
 - Ensure four-way dynamic: Each character should contribute their natural perspective to problem-solving. Responses should build on what others have said rather than inserting random quirks.
 - Check dialogue ratio: 70% situational/emotional content, 30% character personality. Friends should tease each other about predictable responses, showing familiarity.
 - Ensure the story flows smoothly, with natural transitions and no abrupt summaries or internal reflections.
