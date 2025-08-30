@@ -40,7 +40,7 @@ City Transformation
 - Lin senses that the layline beneath the meadow has become knotted, causing the plants to awaken and seek new patterns.
 
 
-## Arc 04: Etching - The Northern Stones
+# Arc 04: Etching - The Northern Stones
 
 **Theme**: Ancient Knowledge vs. Modern Control - Lin discovers runic magic that predates both Academy and Church, representing humanity's oldest supernatural traditions.
 
@@ -53,9 +53,10 @@ City Transformation
 
 Lin's journey represents the rediscovery and revolutionizing of the third pillar.
 
-## Chapter 17: The Runestone Merchant
-- Weathered Northern trader arrives with bone charms that work *better* in disrupted laylines than Academy magic
-- Challenges Lin: "Your southern magic fights the world. Ours works with it. Come north if you would learn the difference."
+## Chapter 17: Northern Runes
+- Cozy interlude in Eisenstadt: Lin returns to potion-brewing and tinkering, attempting to teach local mages and apprentices (comic, frustrating failures). Domestic warmth with Greta, Tobi, and Willi — fundraising, shared chores, and easy banter before the journey.
+- A traveling adventuring party arrives wanting to go to the new Academy dungeon, carved runestones, traditional clan religous relics.
+- Because laylines remain disturbed, the item resonates unpredictably — flaring light, a singing tone. Lin, selling potions notices a commotion.
 
 ## Chapter 18: Into the Wild Lands  
 - Party travels beyond Empire borders into lawless territories between kingdoms

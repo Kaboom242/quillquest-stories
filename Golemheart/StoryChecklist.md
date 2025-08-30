@@ -55,26 +55,32 @@ Be extreamly nitpicky and preform a master level Critique, be brutally honest, p
 **Outline Adherence:** Does each scene serve the outlined beats?
 **Immersion:** POV anchor: Who sees, hears, smells in this paragraph? (limit to 1–2 characters)
 **List Mode Detection:** Are there 3+ consecutive sentences describing different characters' reactions? Pick only 1 or 2 characters to react. 
-**Character Depth:** Does each character show situation-appropriate responses before personality quirks?  Dialogue is 70% situational/emotional, 30% character quirks.  No repetitive “character X does their signature thing” patterns. 
+**Character Depth:** Does each character contribute their natural perspective (Lin-Innovation, Greta-Structure, Tobi-Flexibility, Willi-Practicality) to the situation? Dialogue should be 70% situational/emotional, 30% character quirks. Avoid repetitive "signature behavior" patterns.
+**Four-Way Dynamic:** Do characters respond to each other's contributions rather than speaking in isolation? Does each bring their complementary viewpoint to problem-solving?
 **Tone Alignment:** Does this match the intended arc tone from the outline?
 **Show don't Tell:** Limit Exposition, when something big is happening go over the top with details. Ask “how would a reader experience this?” Convert to sensory detail.
 **Pacing & Immersion:** Does each scene linger long enough for the reader to experience events in real time, with vivid sensory detail and emotional presence? Avoid summarizing or rushing through moments—let the reader see, hear, and feel the action as it unfolds, rather than being told what happened after the fact.
 
+Imagine I said this chapter actually is really bad and look for reasons why I said that. Nothing is perfect, just good enough. Why isn't this perfect? 
+
 Rate only: PASS/NEEDS REVISION + specific fixes needed
+If large sections need to be added or expanded, give a word count estimate and directions for revision
 
 ## Story Revision
 - Address all critique points from the Critique Checklist, making targeted changes to factual consistency, outline adherence, character depth, and tone alignment.
 - Rewrite or expand scenes that feel flat, rushed, or lack emotional impact.
 - Remove or revise any passages that contradict the World Bible, Narrative Bible, or established character arcs.
 - Fix any "List Mode" sections by focusing reactions on one or two characters, ensuring natural flow and emotional realism.
-- Strengthen dialogue to reflect the 70/30 situational/quirk rule and avoid repetitive signature actions.
-- Enhance "show, don't tell" by adding vivid details and sensory immersion to key moments.
+- Strengthen dialogue: Quick sassy banter, full of life and personality.
+- Enhance "show, don't tell" by adding vivid details and sensory immersion to key moments. Avoid overusing similes. Use dialogue to describe details when possible.
+- Ensure four-way dynamic: Each character should contribute their natural perspective to problem-solving. Responses should build on what others have said rather than inserting random quirks.
+- Check dialogue ratio: 70% situational/emotional content, 30% character personality. Friends should tease each other about predictable responses, showing familiarity.
 - Ensure the story flows smoothly, with natural transitions and no abrupt summaries or internal reflections.
 - If the rating is less than 10/10, rewrite the chapter and repeat the critique/revision process until it passes.
 
 ### Finalize
 - Write to Chapter document (e.g., Chapter###.md)
 - Do a polishing step on the final Draft using the passing critique.
-- Run one last critique of the chapter being brutally honest looking for any flaw.
+- Run one last critique of the chapter being brutally honest looking for any flaw. Imagine I said this chapter actually is really bad and look for reasons why I said that. Nothing is perfect, just good enough. Why isn't this perfect? 
 
 ---
