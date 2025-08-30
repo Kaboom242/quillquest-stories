@@ -82,7 +82,7 @@ As they continued deeper into the Wild Lands, the encounters became more frequen
 
 "What changed?" Lin asked, genuinely curious about the political dynamics.
 
-"New archbishop," the woman replied bitterly. "Decided that healing should only come through official Church magic. Anyone using folk methods got branded as witches and driven out."
+"New archbishop," the woman replied bitterly. "Decided that healing should only come through official Church magic. Anyone using folk methods got branded as heratics and driven out."
 
 "That's horrible," Willi said with uncharacteristic vehemence. "Healing people shouldn't be political."
 
