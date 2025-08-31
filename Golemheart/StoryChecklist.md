@@ -64,6 +64,7 @@ Be extreamly nitpicky and preform a master level Critique, be brutally honest, p
 **Tone Alignment:** Does this match the intended arc tone from the outline?
 **Show don't Tell:** Limit Exposition, when something big is happening go over the top with details. Ask “how would a reader experience this?” Convert to sensory detail.
 **Pacing & Immersion:** Does each scene linger long enough for the reader to experience events in real time, with vivid sensory detail and emotional presence? Avoid summarizing or rushing through moments—let the reader see, hear, and feel the action as it unfolds, rather than being told what happened after the fact.
+**Foreshadowing** Look for and assess any opertunities for forshadowing the next chapters or next Arc.
 
 Imagine I said this chapter actually is really bad and look for reasons why I said that. Nothing is perfect, just good enough. Why isn't this perfect? 
 
