@@ -66,7 +66,7 @@ Lin felt Greta's grip tighten on her hand, knuckles white beneath armor as her f
 
 "Show us," Greta said finally, her voice carrying the determined honesty that had earned her knighthood.
 
-New voices filled the air, speaking with casual cruelty that made Lin's throat tighten.
+New voices filled the air, speaking with casual cruelty that made Lin's throat close.
 
 "...these primitive practices will disappear within a generation through systematic elimination. Remove children for 'education,' disrupt traditional cycles, ensure the next generation associates ancestral ways with shame..."
 
