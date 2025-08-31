@@ -44,7 +44,7 @@ City Transformation
 
 **Theme**: Ancient Knowledge vs. Modern Control - Lin discovers runic magic that predates both Academy and Church, representing humanity's oldest supernatural traditions.
 
-**Setting**: The Northern Reaches - Beyond Holy Roman Empire borders into clan-based societies with oral traditions, stone circles, and shamanic practices drawing from Celtic/Norse/Pictish cultures.
+**Setting**: The Northern Reaches - Beyond the Empire's borders into clan-based societies with oral traditions, stone circles, and shamanic practices drawing from Celtic/Norse/Pictish cultures.
 
 ### The Three Pillars of Supernatural Power
 - **Holy Power**: Church of the Luminous Light - divine magic through faith, prayer, blessing
@@ -52,66 +52,6 @@ City Transformation
 - **Witchcraft**: Ancient traditions - partnership with natural forces, spirits, seasonal cycles
 
 Lin's journey represents the rediscovery and revolutionizing of the third pillar.
-
-## Chapter 17: Northern Runes
-- Cozy interlude in Eisenstadt: Lin returns to potion-brewing and tinkering, attempting to teach local mages and apprentices (comic, frustrating failures). Domestic warmth with Greta, Tobi, and Willi — fundraising, shared chores, and easy banter before the journey.
-- A traveling adventuring party arrives wanting to go to the new Academy dungeon, carved runestones, traditional clan religous relics.
-- Because laylines remain disturbed, the item resonates unpredictably — flaring light, a singing tone. Lin, selling potions notices a commotion.
-
-## Chapter 18: Into the Wild Lands  
-- Party travels beyond Empire borders into lawless territories between kingdoms
-- Encounters refugee communities fleeing religious persecution and clan wars, learning about suppressed traditions
-
-## Chapter 19: The First Stone Circle
-- Ancient megalithic site where Lin witnesses runic magic weakly channeling natural forces during seasonal ritual
-- Local wise-woman tests Lin's worthiness by having her spend night alone among standing stones
-
-## Chapter 20: Bone and Antler Arts
-- Lin studies clan bone-carver's ceremonial work - decorative symbols used only for religious rituals
-- Realizes the "decorations" are dormant runic script; begins experimenting with reactivating the magic
-
-## Chapter 21: The Skald's Memory Runes
-- Traveling storyteller shows ancient carved staves used in religious ceremonies to honor ancestors
-- Lin discovers the ceremonial carvings can actually store and replay memories when properly activated
-
-## Chapter 22: Sea-Witch Wards
-- Coastal settlement has ships with carved hulls - locals just believe a traditional blessing ceremonies (does nothing)
-- Lin attempts first large-scale ward creation, using ship hull as canvas to protect against ocean storms and sea monsters
-
-## Chapter 23: The Clan Moot
-- Multiple clans display ceremonial carved stones and weapons from their ancestors
-- Lin realizes each clan preserved fragments of larger runic system; begins piecing together lost magical tradition
-
-## Chapter 24: Speaking with the Dead
-- Ancient burial ground has megalithic stones with worn carvings that locals consider purely decorative
-- Lin experiments with necromantic applications, successfully viewing past events and communicating with lingering spirits
-
-## Chapter 25: Wolf-Winter Survival
-- Trapped by harsh weather with only basic supplies and ceremonial carved items from local clan
-- Lin innovates survival techniques by adapting religious symbol-work into practical magic for warmth and shelter
-- Attacked by Winter Monsters
-
-## Chapter 26: Spring Awakening Mastery
-- Lin demonstrates revolutionary runic system at spring festival, shocking locals who thought their symbols were powerless
-- Successfully combines rediscovered ancient techniques with her Threadcraft to create entirely new magical approach
-
-### Lin's Expanding Runic Arsenal:
-
-**Spirit Partnerships**: Etched contracts with local spirits for ongoing magical assistance and information gathering
-
-**Protective Wards**: Multi-layered runic arrays that can protect areas, buildings, or people from supernatural and mundane threats
-
-**Memory Runes**: Preserving and viewing past events, storing knowledge, creating magical "recordings" of experiences
-
-**Curse Work**: Offensive magic through binding runes - causing misfortune, confusion, or compelling specific behaviors
-
-**Scrying Arrays**: Using runic focus to observe distant locations or track individuals across great distances
-
-**Seasonal Magic**: Runes that draw power from natural cycles - stronger during specific weather, moon phases, or times of year
-
-**Binding Circles**: Runic traps that can immobilize enemies, contain dangerous spirits, or create magical barriers
-
-**Transmutation Runes**: Temporarily altering the properties of materials - making wood hard as steel, water thick as honey, etc.
 
 ### Revolutionary Innovations:
 - **Hybrid Runic Scripts**: Combining multiple cultural traditions into more powerful unified system
@@ -121,7 +61,7 @@ Lin's journey represents the rediscovery and revolutionizing of the third pillar
 
 ### Political Ramifications:
 - Academy views Lin's "primitive superstitions" as threat to scientific magical advancement
-- Church condemns shamanic practices as "pagan witchcraft" opposing divine order
+- Church condemns shamanic practices as "pagan heratics" opposing divine order
 - Northern clans see Lin as bridge between old ways and southern political power
 - Sets up conflicts over whether ancient magical knowledge should be preserved or suppressed
 
