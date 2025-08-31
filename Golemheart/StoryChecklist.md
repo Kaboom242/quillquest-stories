@@ -98,7 +98,7 @@ Be extremely thorough - analyze the arc as a cohesive whole before diving into i
 **MANDATORY REMINDER: MAINTAIN BRUTAL STANDARDS. This is draft #[X] - do NOT lower your expectations. Find every flaw.**
 
 Be extreamly nitpicky and preform a master level Critique, be brutally honest, providing an experienced critical analysis of this rough draft.
-**Factual Consistency:** Does anything contradict World-Bible.md? Or History.md 
+**Factual Consistency:** Does anything contradict `World-Bible.md`? Or `History.md`  
 **Outline Adherence:** Does each scene serve the outlined beats?
 **Immersion:** POV anchor: Who sees, hears, smells in this paragraph? (limit to 1–2 characters)
 **List Mode Detection:** Are there 3+ consecutive sentences describing different characters' reactions? Pick only 1 or 2 characters to react. 
@@ -108,7 +108,8 @@ Be extreamly nitpicky and preform a master level Critique, be brutally honest, p
 **Show don't Tell:** Limit Exposition, when something big is happening go over the top with details. Ask “how would a reader experience this?” Convert to sensory detail.
 **Pacing & Immersion:** Does each scene linger long enough for the reader to experience events in real time, with vivid sensory detail and emotional presence? Avoid summarizing or rushing through moments—let the reader see, hear, and feel the action as it unfolds, rather than being told what happened after the fact.
 **Foreshadowing** Look for and assess any opertunities for forshadowing the next chapters or next Arc.
-**Arc Theme Service:** How does this chapter explore a new aspect of the arc's central theme? What specific question about the theme does it answer that previous chapters haven't addressed?
+**Arc Theme Service:** How does this chapter explore a new aspect of the arc's central theme? What specific question about the theme does it answer that previous chapters haven't addressed? Referece the `Arcs/Arc04-final.md` document
+**Continueity:** Does the story flow naturally from the previous chapter? Make sure there isn't any abrupt timejumps.
 **Character Progression Anchoring:** Document where each main character ended emotionally in the previous chapter. What specific growth milestone will they reach? How does this build on rather than repeat previous development?
 **New Discovery Requirement:** What genuinely new information, magical ability, location, or conflict is introduced? How does this expand the world/story rather than rehashing known elements?
 **Stakes Progression:** Are the consequences of failure greater than in previous chapters? What new pressures force harder choices than before?

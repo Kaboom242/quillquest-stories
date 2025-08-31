@@ -1,4 +1,4 @@
-# Chapter 018: Into the Wild Lands
+# Chapter 018: Into the Wild Lands - Draft 6
 
 The runestones hummed beside Lin's chair like restless insects, their wrapped forms pulsing with soft light that seemed to respond to her heartbeat. Three days had passed since the travel-worn adventurers had deposited the artifacts in their care, and the decision of what to do next hung over their comfortable domestic routine like storm clouds gathering on a clear horizon.
 
