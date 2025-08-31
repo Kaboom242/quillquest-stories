@@ -1,4 +1,4 @@
-# Chapter 19: The First Stone Circle
+# Chapter 19: The First Stone Circle - Revision
 
 Lin woke to the sound of approaching footsteps and the unmistakable sensation that someone was watching their camp. Her hand found her staff before her eyes opened, the Forest Spirit stirring with alertness that made her skin prickle. Their campfire had been carefully banked rather than extinguished—whoever was out there knew enough woodcraft to read their intentions.
 
@@ -86,11 +86,11 @@ The silence stretched between them like a drawn bowstring. Lin could feel her fr
 
 "Dangerous times call for dangerous choices," Greta replied, her hand moving from her sword to her holy symbol. "If my oath is to serve the Light, then I must follow where truth leads."
 
-"Well," Tobi said with forced lightness, "at least if we're all going to be branded heretics, we'll have good company. Though I have to ask—are we talking about the kind of heresy that gets you burned at the stake, or just the regular excommunication variety?"
+"Well," Tobi said with forced lightness, "at least if we're all going to be branded heretics, we'll have good company."
 
 "Speak for yourself," Willi muttered, but she was already checking their supplies with the resigned efficiency of someone who'd accepted the inevitable. "We'll need to ration carefully if we're traveling through territories where buying food might attract unwanted attention."
 
-As they broke camp and followed Korren deeper into clan territory, Lin felt the last threads connecting them to their old lives beginning to fray. The familiar routines of Academy life and Guild contracts seemed impossibly distant. Each step carried them further from everything they'd known and deeper into knowledge that would make them enemies of the very institutions that had shaped them.
+As they broke camp and followed Korren deeper into clan territory, Lin felt the weight of transformation beginning. The familiar routines of Academy life and Guild contracts seemed impossibly distant. They were becoming something far more dangerous to institutional authority: seekers of truth willing to examine knowledge their own government had branded as heretical.
 
 The path wound through landscapes that spoke of systematic cultural elimination. Sacred groves reduced to stumps, stone markers toppled and broken, burned patches where Inquisitor teams had eliminated what they called "sites of pagan corruption." Yet life persisted in hidden places: wildflowers growing in patterns too deliberate for chance, trees that seemed to whisper when the wind touched them just right, streams that sang with voices too clear for simple water over stone.
 
@@ -126,7 +126,7 @@ But even here, damage was evident. Some of the terraces had been deliberately br
 
 "Church methodology," Korren confirmed grimly. "They learned that destroying traditional sites outright provoked too much resistance. Better to modify them gradually, making changes that looked like practical improvements while actually severing the connections that made traditional magic possible."
 
-When they finally crested the ridge overlooking the stone circle, Lin understood why the clans were willing to risk everything for this gathering. Below lay seven ancient megaliths arranged in a near-perfect ring, their carved faces catching the late afternoon light like windows into forgotten wisdom. But even from a distance, damage was evident—deliberate defacement where carved symbols had been chiseled away, gaps in the circle where stones had been moved slightly out of alignment, scars in the earth where connecting patterns had been broken.
+When they finally crested the ridge overlooking the stone circle, Lin understood why the clans were willing to risk everything for this gathering. Below lay seven ancient megaliths arranged in a near-perfect ring, their carved faces catching the late afternoon light. But even from a distance, damage was evident—deliberate defacement where carved symbols had been chiseled away, gaps in the circle where stones had been moved slightly out of alignment.
 
 "Church teams hit this site two years ago," Korren confirmed. "Tried to 'cleanse' the stones of pagan influence. Left enough intact to claim historical preservation while destroying the functional elements that made traditional magic possible."
 
@@ -147,55 +147,3 @@ Lin watched something fundamental shift behind Greta's eyes as her friend confro
 As the sun set and preparations for the ritual began, Lin understood that they weren't just witnessing cultural preservation. They were participating in desperate resistance against systematic elimination of knowledge that might be crucial to preventing magical catastrophe.
 
 And whatever happened when the stones awakened would determine not just their own futures, but the survival of magical traditions that had sustained human civilization for millennia.
-
-As elders brought torches lit from fires that had been carried across miles without extinguishing, Lin noticed some flames flickered with instability that spoke of magical currents no longer fully reliable. When they touched the torches to the prepared kindling, the flames burned impossible colors—deep blues threaded with silver—but the light wavered uncertainly, as if the ancient magic was struggling against interference.
-
-The carved runes responded, but weakly. Tiny filaments of luminescence ran between glyphs, weaker than they should have been and occasionally stuttering as if the power flow was being disrupted. The ground vibrated with a low, steady tone that Lin felt in the soles of her feet, but it carried overtones of distress that spoke of damage to foundational systems.
-
-And then the ring looked at her—not with the overwhelming authority she'd expected, but with something approaching desperation. The pull wasn't purely mystical recognition; it felt like a plea for help from powers that were losing their connection to the world they'd once shaped.
-
-"Do you understand what you're seeing?" Korren asked softly.
-
-"The circle is... dying," Lin said quietly, watching the silver light flicker uncertainly along damaged runes. "The Church interference didn't just damage the stones—it severed connections that took centuries to establish."
-
-"And without those connections," Korren continued, "the protective patterns that have maintained magical balance in this region for millennia are breaking down. That's why practitioners across the Wild Lands are losing their abilities. The foundational systems that supported traditional magic are being systematically eliminated."
-
-Greta stood abruptly, her armor clanking as she moved toward the wounded stones with obvious internal turmoil. Lin watched her friend kneel before the largest megalith—not in formal prayer position, but in the desperate posture of someone seeking guidance from powers she was no longer certain she understood.
-
-"The Light..." Greta whispered, her voice barely audible over the circle's struggling harmonics. "The Light wouldn't want this. This isn't corruption—this is... this is broken beauty. Wounded truth."
-
-"Approach," Korren told Lin softly. "Alone. But know that touching those stones will change you. The circle is damaged, but it still remembers what was lost. It will show you why the Church feared this knowledge enough to destroy it."
-
-Lin crossed the marked threshold feeling like she was stepping through water that left no wetness but altered the world. The ambient noise thinned to a careful hush broken by the sounds of Greta's quiet weeping as three centuries of Church doctrine crumbled against the evidence of her own eyes.
-
-When Lin placed her palm against the largest monolith, the vision hit with the force of weather—but it was a broken vision, fragmented by the damage Church teams had inflicted on the connecting patterns.
-
-She saw glimpses of construction: fingers the color of river-stone callused from shaping; a woman with ritual scars setting a chisel and singing in harmony with stone's natural frequency; builders who worked not to impose their will on raw material but to coax forth the sacred potential sleeping within rock and earth. But the memories were incomplete, corrupted by the systematic destruction of the patterns that preserved them.
-
-What the builders had created wasn't merely a monument but a machine of shared belief that supported magical stability across vast regions. The songs they sang were grammatical frameworks for power; the carved patterns both instruction and living memory. Lin felt their patience—how long a generation might sing to establish these connections, how they taught children to trace runes as they learned to walk.
-
-But threaded through the collective memory was grief for all that had been lost: generations of knowledge eliminated by authorities who saw ancient wisdom as theological threat, protective systems destroyed by people who couldn't distinguish between spiritual power and political competition.
-
-When the vision finally released her, Lin staggered back to find Greta kneeling where she'd left her, tears streaming down her face as she grappled with the recognition that her Church had systematically destroyed something beautiful, functional, and spiritually profound.
-
-"The Light guides truth," Greta whispered, her voice broken. "And this... this was truth. This served the Light's purpose better than anything I've seen from Church authorities."
-
-Lin helped her friend to her feet, feeling the weight of what they'd both witnessed. The stone circle had shown them not just ancient knowledge, but the scope of what had been lost when systematic persecution replaced three millennia of accumulated wisdom with three centuries of institutional control.
-
-Around them, the other ritual participants continued their ceremonies with the desperate intensity of people trying to preserve traditions that were fading from the world despite their best efforts. But now Lin understood what they were really doing: not just honoring ancestors, but trying to repair magical foundations that Church interference had systematically damaged.
-
-And she was beginning to suspect that unless those foundations could be restored, the growing magical instability would eventually destroy far more than just traditional practices. It might destroy magic itself.
-
-What the builders had created wasn't merely a monument but a machine of shared belief that supported magical stability across vast regions. The songs they sang were grammatical frameworks for power; the carved patterns both instruction and living memory. Lin felt their patience—how long a generation might sing to establish these connections, how they taught children to trace runes as they learned to walk.
-
-But threaded through the collective memory was grief for all that had been lost: generations of knowledge eliminated by authorities who saw ancient wisdom as theological threat, protective systems destroyed by people who couldn't distinguish between spiritual power and political competition.
-
-When the vision finally released her, Lin staggered back to find Greta kneeling where she'd left her, tears streaming down her face as she grappled with the recognition that her Church had systematically destroyed something beautiful, functional, and spiritually profound.
-
-"The Light guides truth," Greta whispered, her voice broken. "And this... this was truth. This served the Light's purpose better than anything I've seen from Church authorities."
-
-Lin helped her friend to her feet, feeling the weight of what they'd both witnessed. The stone circle had shown them not just ancient knowledge, but the scope of what had been lost when systematic persecution replaced three millennia of accumulated wisdom with three centuries of institutional control.
-
-Around them, the other ritual participants continued their ceremonies with the desperate intensity of people trying to preserve traditions that were fading from the world despite their best efforts. But now Lin understood what they were really doing: not just honoring ancestors, but trying to repair magical foundations that Church interference had systematically damaged.
-
-And she was beginning to suspect that unless those foundations could be restored, the growing magical instability would eventually destroy far more than just traditional practices. It might destroy magic itself.

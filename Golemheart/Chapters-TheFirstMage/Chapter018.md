@@ -1,4 +1,4 @@
-# Chapter 18: Into the Wild Lands (Revised)
+# Chapter 18: Into the Wild Lands
 
 Lin's stomach tightened as their horses approached the weathered stone markers that served as the Empire's final border checkpoint. Beyond the bored Imperial guards, the Wild Lands stretched toward distant mountains where smoke columns suggested either cooking fires or burning villages. After weeks of Guild-regulated contracts and Academy-sanctioned magic, they were about to enter territories where different rules applied—if any rules applied at all.
 
