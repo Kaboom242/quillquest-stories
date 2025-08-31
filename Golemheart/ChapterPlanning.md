@@ -124,4 +124,4 @@ Lin's journey represents the rediscovery and revolutionizing of the third pillar
 - Northern clans see Lin as bridge between old ways and southern political power
 - Sets up conflicts over whether ancient magical knowledge should be preserved or suppressed
 
-## Arc 05 - The Luminant Church 
+## Arc 05 - The Luminant Church and Spreading Layline Fracture

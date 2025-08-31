@@ -10,6 +10,129 @@
   - Royal Academies – centers of magical research and education.
   - Merchant Consortiums – wealthy trade families, fund expeditions.
   - Military Orders – defend borders, contract elite adventurers.
+  - Luminant Church – dominant religious authority controlling magical orthodoxy, healing, and spiritual purity.
+- Currency: copper, silver, and gold coins. Most daily transactions use copper and silver; gold is reserved for large purchases, contracts, or savings.
+- Monsters, dungeons, and magical anomalies are frequent threats, shaping daily life and the economy.
+
+- The story takes place in a fantasy version of the Holy Roman Empire, set in the late Middle Ages (circa 14th–15th centuries).
+- German place names for cities, towns, and regions (e.g., Eisenstadt, Silberwald, Drachenberg, Königshafen, etc.).
+- Nobility and political structures follow Germanic styles: barons, counts, dukes, margraves, electors, and emperors. Castles, fiefdoms, and knightly orders are common.
+- Guilds are central to society, regulating adventurers, trade, and magical research. The Adventurer's Guild, Merchant Guilds, and Craft Guilds all play major roles.
+
+## Historical & Cultural Setting
+
+- The story takes place in a fantasy version of the Holy Roman Empire, set in the late Middle Ages (circa 14th–15th centuries).
+- German place names for cities, towns, and regions (e.g., Eisenstadt, Silberwald, Drachenberg, Königshafen, etc.).
+- Nobility and political structures follow Germanic styles: barons, counts, dukes, margraves, electors, and emperors. Castles, fiefdoms, and knightly orders are common.
+- Guilds are central to society, regulating adventurers, trade, and magical research. The Adventurer's Guild, Merchant Guilds, and Craft Guilds all play major roles.
+
+### Current Magical Crisis
+
+The world faces an escalating series of magical disasters that Luminant Church-approved methods cannot solve:
+
+**Recent Catastrophes**:
+- **Grenzfeld Disaster**: Complete layline corruption across three city blocks, growing despite Academy and Church intervention.
+- **Pattern of Failure**: Luminant purification protocols often worsen corruption rather than healing it.
+- **Evacuation Protocols**: Multiple settlements require emergency evacuation as magical damage spreads.
+
+**Institutional Response**:
+- **Scapegoating**: Church Inquisitors blame disasters on "heretical influence" rather than acknowledging method failures.
+- **Increased Persecution**: Practitioners whose alternative methods show success become targets of investigation.
+- **Political Tension**: Growing desperation leads some authorities to consider previously forbidden approaches.
+
+**Underground Knowledge**:
+- Traditional magical practices survive in border regions and clan territories.
+- Practitioners of old knowledge are often forced into exile or hiding. (past 300+ years)
+- Success of alternative methods creates dangerous political implications for established authorities.
+
+//TODO: Flush out with more historical Events.
+
+## The Luminant Church – Religious Authority & Magical Control
+
+### Doctrine & Theological Foundation
+
+The Luminant Church teaches that all legitimate magical power flows from the Light's divine grace, channeled through sanctified practitioners following approved methods. Their core doctrine holds that humans must impose divine order on chaotic natural forces, viewing magic as a sacred responsibility that requires proper blessing and institutional oversight.
+
+### Three-Century Campaign of Magical Suppression
+
+For three centuries, the Luminant Church has systematically suppressed any magical practice that doesn't flow through their approved channels. What began as theological guidance evolved into active persecution of alternative magical traditions:
+
+- **Academic Integration**: Church doctrine shapes Academy curricula, emphasizing control and domination over partnership-based approaches.
+- **Cultural Erasure**: Traditional practices dismissed as "superstitions" or "primitive folklore" unworthy of proper magical education.
+- **Legal Framework**: Church authority influences Imperial law regarding acceptable magical practices.
+
+### Church Hierarchy & Enforcement
+
+**Luminant Clergy**:
+- **Priests & Healers**: Provide sanctified healing and cleansing magic in communities.
+- **Church Scholars**: Develop theological justifications for magical restrictions.
+- **Regional Bishops**: Oversee Church doctrine enforcement in their territories.
+
+**Inquisitors** (Church Investigators):
+- **Training**: Specialized in identifying and "correcting" deviations from approved magical practice.
+- **Authority**: Can request detailed records of magical practitioners from Guild and Academy sources.
+- **Methods**: Investigation, interrogation, and enforcement of Church-approved magical orthodoxy.
+- **Jurisdiction**: Increasingly active in border regions where old traditions persist.
+
+### "Correction" Methods for Heretical Practitioners
+
+The Church employs escalating measures for those practicing unauthorized magic:
+
+1. **Public Recantation**: Required public confession and promise to abandon forbidden practices.
+2. **Magical Binding**: Spiritual/magical constraints to prevent future "spiritual contamination."
+3. **Severe Penalties**: For those who refuse correction entirely (imprisonment, exile, or worse).
+
+### Theological Classifications
+
+**Approved Magic**:
+- Academy-taught spellcraft with proper formulaic structure.
+- Church-sanctified healing and cleansing magic (Luminism).
+- Guild-regulated magical practices with institutional oversight.
+
+**Heretical Magic** (Considered Spiritually Dangerous):
+- Partnership with spirits or natural forces.
+- Magic that suggests inherent rather than granted power.
+- Consciousness awakening or plant/spirit communication.
+- Any practice implying magic can exist without divine blessing.
+
+### Political Implications
+
+**Institutional Relationships**:
+- **Royal Academies**: Influence curriculum and acceptable research areas.
+- **Adventurer's Guild**: Pressure for practitioner registration and orthodox methods.
+- **Imperial Authority**: Provide religious justification for magical regulations.
+
+**Current Crisis Response**:
+- Magical disasters blamed on "heretical influence" when orthodox methods fail.
+- Inquisitors investigate practitioners whose methods fall outside approved channels.
+- Growing persecution of anyone whose successful techniques challenge Church doctrine.
+
+### Regional Influence & Border Activities
+
+The Church maintains strongest control in Imperial heartlands, with influence decreasing toward frontier regions. Border areas experience:
+- **Increased Inquisitor Activity**: Hunting practitioners of old traditions.
+- **Cultural Suppression**: Systematic elimination of non-orthodox magical knowledge.
+- **Scapegoating**: Blaming magical disasters on practitioners they can't control.
+
+### Theological Contradictions
+
+**Internal Tensions**:
+- Church doctrine emphasizes divine order, yet orthodox methods often worsen magical crises.
+- Successful healing by "heretical" practitioners challenges core theological assumptions.
+- Growing evidence that partnership-based magic serves divine purposes better than control-based approaches.
+
+**Knight Orders**: Some Knights of the Light (like Greta) face profound spiritual conflict when Church authority diverges from actual divine will, leading to individual crises of faith and conscience.
+
+## World Overview
+
+### Setting
+
+- Continent: Elarion – diverse land of walled cities, monster-infested wilds, and ancient ruins.
+- Major Powers:
+  - Adventurer’s Guild – independent, works with military and merchant houses.
+  - Royal Academies – centers of magical research and education.
+  - Merchant Consortiums – wealthy trade families, fund expeditions.
+  - Military Orders – defend borders, contract elite adventurers.
   - Luminant Church – healing, cleansing magic, protects soul and land from corruption.
 - Currency: copper, silver, and gold coins. Most daily transactions use copper and silver; gold is reserved for large purchases, contracts, or savings.
 - Monsters, dungeons, and magical anomalies are frequent threats, shaping daily life and the economy.
