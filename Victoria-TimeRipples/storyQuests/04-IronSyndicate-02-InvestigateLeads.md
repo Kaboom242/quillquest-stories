@@ -96,7 +96,6 @@ Time pacing tips
 ---
 
 ## Scene 2 — Professor Greaves (Ravensreach Heights) (65–75 min) — PRIMARY INTEREST
-Note: expect players to spend time here; this scene is self-contained and rich enough to push the session forward even if Scene 3 is reduced.
 Beats
 - Entry method: Social (CHA pool) or forged invite (DEX/Deception pool).  
   - Required: 1S = brief access / 2S = private study access. Fail (0S): Greaves seals papers and requests time; party loses 10 minutes and must use another approach.
