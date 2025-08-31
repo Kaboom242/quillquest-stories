@@ -1,4 +1,4 @@
-# Chapter 22: Sea-Witch Wards
+# Chapter 22: Sea-Witch Wards - Draft 6
 
 The salt wind carried more than ocean spray as their cart rolled down the steep coastal road toward Hafenmund—it carried the weight of yesterday's revelations and the promise of new dangers ahead. Lin watched fishing boats bob in the harbor below, their carved hulls catching morning light like jeweled ornaments scattered across dark water.
 
@@ -58,7 +58,7 @@ Erik's ship, the *Sturmbrecher*, displayed some of the most elaborate hull carvi
 
 "Because traditional practitioners built safety into the system," Lin said with growing confidence. "Look at these connection points—every symbol feeds into a central distribution network with built-in overflow channels. It's designed for controlled activation."
 
-"Approved methods that aren't working," Tobi added, grinning at the prospect of spectacular rule-breaking, "while sea monsters are eating people who followed official protocols."
+"Approved methods that aren't working," Tobi added, grinning at the prospect of spectacular rule-breaking. "While sea monsters are eating people who followed official protocols."
 
 "You're talking about witch-work, aren't you?" Erik asked with the calculating expression of someone weighing risks against potential rewards. "Old magic that the Church says is dangerous superstition."
 
@@ -98,7 +98,7 @@ The sensation was extraordinary. Lin felt her magical energy flowing through the
 
 "Can you feel that?" Greta asked, her paladin training making her sensitive to major magical workings. "The air itself is changing."
 
-"Like the ship's waking up," young Jorik whispered, watching family carvings transform from decorative heritage into something alive with purpose.
+"Like the ship's waking up," one of Erik's sailors whispered, watching family carvings transform from decorative heritage into something alive with purpose.
 
 Lin poured more energy through the staff, feeling the ward array accepting her magic and weaving it into protective patterns that grew stronger with each passing moment. The wood beneath her hands began to glow with soft silver light as dormant runic framework awakened to its intended purpose. Each symbol sequence activated in turn, creating a cascade of illumination that followed precise mathematical pathways.
 
@@ -142,7 +142,7 @@ The ship rode through mountainous waves as if they were mere ripples. Lightning 
 
 "The wards work with natural forces instead of fighting them," Lin called back, her theoretical understanding proven by practical demonstration. Water that struck the ship's sides parted around runic barriers that guided destructive energy away from vulnerable areas. "Traditional magic was always about partnership rather than domination."
 
-"This is impossible," young Jorik shouted while staring at lightning that curved away from their mast like it was avoiding deliberate contact. "Storms don't just decide to leave ships alone."
+"This is impossible," young Jorik, the newest crew member, shouted while staring at lightning that curved away from their mast like it was avoiding deliberate contact. "Storms don't just decide to leave ships alone."
 
 "This one does," Greta replied with growing conviction, watching divine will manifest through traditional magic that served protective purposes better than any Church blessing she'd ever witnessed. "The Light guides truth, wherever it may be found."
 

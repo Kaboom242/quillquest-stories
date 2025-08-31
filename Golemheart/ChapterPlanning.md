@@ -89,6 +89,7 @@ Lin's journey represents the rediscovery and revolutionizing of the third pillar
 ## Chapter 25: Wolf-Winter Survival
 - Trapped by harsh weather with only basic supplies and ceremonial carved items from local clan
 - Lin innovates survival techniques by adapting religious symbol-work into practical magic for warmth and shelter
+- Attacked by Winter Monsters
 
 ## Chapter 26: Spring Awakening Mastery
 - Lin demonstrates revolutionary runic system at spring festival, shocking locals who thought their symbols were powerless

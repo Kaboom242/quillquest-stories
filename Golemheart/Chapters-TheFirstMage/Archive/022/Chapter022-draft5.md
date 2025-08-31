@@ -1,4 +1,4 @@
-# Chapter 22: Sea-Witch Wards
+# Chapter 22: Sea-Witch Wards - Draft 5
 
 The salt wind carried more than ocean spray as their cart rolled down the steep coastal road toward Hafenmund—it carried the weight of yesterday's revelations and the promise of new dangers ahead. Lin watched fishing boats bob in the harbor below, their carved hulls catching morning light like jeweled ornaments scattered across dark water.
 
@@ -8,9 +8,9 @@ The salt wind carried more than ocean spray as their cart rolled down the steep 
 
 "Of course the Church would say that," Tobi muttered, guiding their cart around a particularly deep rut. "Can't have people thinking they can protect themselves without proper institutional oversight."
 
-"Speaking of oversight," Willi interjected with characteristic practicality, "how exactly are we paying for passage to northern waters? Our potion earnings might cover dinner, not ocean transport for four people plus gear."
+"Speaking of oversight," Willi said with characteristic practicality, "how exactly are we paying for passage to northern waters? Our potion earnings won't cover ocean transport for four people plus gear."
 
-Lin felt her magical senses stirring as they drew closer to the harbor, but Willi's question demanded attention first. "We'll figure something out. Maybe trade services for passage."
+Lin felt her magical senses stirring as they drew closer to the harbor, but Willi's question demanded attention first. "Good point. We'll need to negotiate something more creative than straight payment."
 
 "What if they're not just symbolic?" Lin continued, returning to the carved patterns that made her runic instincts tingle with recognition. "What if they're actually runic frameworks that nobody remembers how to activate?"
 
@@ -18,9 +18,7 @@ Lin felt her magical senses stirring as they drew closer to the harbor, but Will
 
 "We're already heretics," Greta said quietly, her hand automatically checking the holy symbol at her throat—a gesture that had become nervous habit since her theological crisis began. "The moment we chose truth over institutional loyalty, we crossed that line."
 
-"True," Tobi grinned. "Makes decision-making much simpler when you've already committed to the interesting path."
-
-The harbor master's office sat at the end of a weathered wooden pier, its windows facing the sea through glass that had been polished clear by generations of salt spray. Captain Erik Nordhal looked exactly like Lin had expected a northern seafarer to look—weathered skin, gray beard braided with small shells, and eyes that held the particular wariness of someone who'd spent decades reading ocean moods and human nature.
+The harbor master's office sat at the end of a weathered wooden pier, its windows facing the sea through glass that had been polished clear by generations of salt spray. Captain Erik Nordhal looked exactly like Lin had expected a northern seafarer to look—weathered skin, gray beard braided with small shells, and eyes that held the particular wariness of someone who'd spent decades reading ocean moods.
 
 "Passage to the Nordmark Islands?" he repeated, studying their travel documents with the suspicion that came naturally to someone who'd learned that unusual requests usually meant unusual trouble. "Those waters have been rough lately. Sea spirits restless, storms appearing without warning. Lost three fishing boats last month to something that shouldn't have been there."
 
@@ -34,9 +32,9 @@ The harbor master's office sat at the end of a weathered wooden pier, its window
 
 "Captain," Willi interjected with her practical directness, "what would you say to a trade arrangement? Free passage in exchange for... pest control services?"
 
-Erik's weathered face showed skeptical interest. "What kind of pest control are you talking about, exactly?"
+Erik's weathered face showed skeptical interest. "What kind of pest control are you talking about?"
 
-"The kind that might actually work," Lin said, feeling pieces clicking together with the horrible clarity that had become familiar during their investigation of magical failures. "May I examine the carvings on your ship? The traditional patterns your family probably carved generations ago?"
+Lin felt pieces clicking together with the horrible clarity that had become familiar during their investigation of magical failures. "The kind that might actually work. May I examine the carvings on your ship? The traditional patterns your family probably carved generations ago?"
 
 "The old decorations?" Erik looked puzzled by the request. "Haven't given those much thought. Just tradition passed down from my great-grandfather. Pretty woodwork, nothing more."
 
@@ -56,11 +54,11 @@ Erik's ship, the *Sturmbrecher*, displayed some of the most elaborate hull carvi
 
 "That would be a rather significant departure from approved maritime protection methods," Willi pointed out with characteristic understatement. "Also, how do we know it won't explode when you try to activate six centuries of dormant magic?"
 
-"Because traditional practitioners built safety into the system," Lin said with growing confidence. "Look at these connection points—every symbol feeds into a central distribution network with built-in overflow channels. It's designed for controlled activation."
+"Because traditional practitioners knew what they were doing," Lin said with growing confidence. "Look at these connection points—every symbol feeds into a central distribution network. It's designed for controlled activation."
 
-"Approved methods that aren't working," Tobi added, grinning at the prospect of spectacular rule-breaking, "while sea monsters are eating people who followed official protocols."
+"Approved methods that aren't working," Tobi added, grinning at the prospect of spectacular rule-breaking. "While sea monsters are eating people who followed official protocols."
 
-"You're talking about witch-work, aren't you?" Erik asked with the calculating expression of someone weighing risks against potential rewards. "Old magic that the Church says is dangerous superstition."
+Erik studied the group with the calculating expression of someone weighing risks against potential rewards. "You're talking about witch-work, aren't you? Old magic that the Church says is dangerous superstition."
 
 "I'm talking about magic that actually functions," Lin replied with quiet conviction. "Magic designed to work with natural forces instead of trying to dominate them. Magic that might keep your crew alive when conventional protections fail."
 
@@ -76,7 +74,7 @@ Erik looked at his ship's elaborate carvings with new understanding, seeing fram
 
 "I think your great-grandfather knew exactly what he was carving," Lin replied. "And I think he'd be proud to see it finally used as intended."
 
-The preparation took the better part of the morning while Erik's five-man crew watched with expressions ranging from skepticism to fascination. Lin spent the first hour mapping every symbol sequence, understanding how the various runic elements connected to form an integrated protective array. The carvings followed natural mathematical progressions that made her Threadcraft instincts sing with recognition—spirals that channeled energy inward, knotwork that bound protective intentions into permanent form, and barrier symbols that would activate when threatened.
+The preparation took the better part of the morning. Lin spent the first hour mapping every symbol sequence, understanding how the various runic elements connected to form an integrated protective array. The carvings followed natural mathematical progressions that made her Threadcraft instincts sing with recognition—spirals that channeled energy inward, knotwork that bound protective intentions into permanent form, and barrier symbols that would activate when threatened.
 
 "This is incredible work," she murmured, tracing a particularly complex junction where seven different pattern sequences converged into a central focus point. "Whoever designed this understood runic magic at a level that would shame most Academy scholars."
 
@@ -86,25 +84,25 @@ The preparation took the better part of the morning while Erik's five-man crew w
 
 "How exactly does the activation work?" Greta asked, her strategic training emerging as she prepared to assess potential complications. "What are the risks if something goes wrong?"
 
-Lin pressed her palm against the ship's central focusing symbol, feeling dormant pathways respond to magical contact. "Traditional ward activation is designed for safety. The framework includes natural limits—if it can't handle the energy properly, the overflow channels redirect excess power harmlessly into the ocean rather than allowing catastrophic failure."
+Lin pressed her palm against the ship's central focusing symbol, feeling dormant pathways respond to magical contact. "Traditional ward activation is designed for safety. If the framework can't handle the energy properly, it simply refuses to accept the charge rather than failing catastrophically."
 
-"Simply redirects," Tobi repeated with amusement. "Because magical theory is always that straightforward in practice."
+"Simply refuses," Tobi repeated with amusement. "Because magical theory is always that straightforward in practice."
 
-"The patterns themselves provide the safety mechanisms," Lin explained, tracing symbol connections that showed built-in distribution controls. "Energy flows through predetermined channels with multiple release valves. Overload protection is carved into the framework itself."
+"The patterns themselves provide the safety mechanisms," Lin explained, tracing symbol connections that showed built-in distribution controls. "Energy flows through predetermined channels. Overload protection is carved into the framework itself."
 
-She began the activation process by placing her blackthorn staff against the ship's central focusing symbol, feeling the Forest Spirit within respond to patterns that predated Academy and Church by centuries. The staff's wood resonated with the ship's carved channels, creating harmonic vibrations that spread through the entire runic array like a tuning fork awakening sympathetic responses.
+She began the activation process by placing her blackthorn staff against the ship's central focusing symbol, feeling the Forest Spirit within respond to patterns that predated Academy and Church by centuries. The staff's wood resonated with the ship's carved channels, creating harmonic vibrations that spread through the entire runic array.
 
 The sensation was extraordinary. Lin felt her magical energy flowing through the staff into channels that guided and amplified her power, turning individual effort into ship-wide protection. The carved symbols began to warm beneath her touch, wood responding to deliberate magical contact for the first time in generations.
 
 "Can you feel that?" Greta asked, her paladin training making her sensitive to major magical workings. "The air itself is changing."
 
-"Like the ship's waking up," young Jorik whispered, watching family carvings transform from decorative heritage into something alive with purpose.
+"It's working," Erik breathed, watching his family's traditional carvings transform from decorative heritage into functional magical defense. "I can actually feel the ship responding."
 
-Lin poured more energy through the staff, feeling the ward array accepting her magic and weaving it into protective patterns that grew stronger with each passing moment. The wood beneath her hands began to glow with soft silver light as dormant runic framework awakened to its intended purpose. Each symbol sequence activated in turn, creating a cascade of illumination that followed precise mathematical pathways.
+Lin poured more energy through the staff, feeling the ward array accepting her magic and weaving it into protective patterns that grew stronger with each passing moment. The wood beneath her hands began to glow with soft silver light as dormant runic framework awakened to its intended purpose.
 
-"How much energy does this require?" Willi asked with practical concern, watching Lin's intense concentration as magical forces built within the ship's structure. "Can you maintain this level without exhausting yourself?"
+"How much energy does this require?" Willi asked with practical concern, watching Lin's intense concentration as magical forces built within the ship's structure. "Can you maintain this level of output without exhausting yourself?"
 
-"The framework does most of the work," Lin replied, though sweat beaded on her forehead from the sustained magical effort. "I'm just providing the initial charge. Once the array is fully active, it draws ambient energy from natural sources—wind pressure against the sails, wave motion beneath the hull, even the ship's movement through water becomes fuel for the protective system."
+"The framework does most of the work," Lin replied, though sweat beaded on her forehead from the sustained magical effort. "I'm just providing the initial charge. Once the array is fully active, it draws energy from natural sources—wind, waves, the ship's own movement through water."
 
 The glow intensified, silver light racing along carved channels like liquid moonlight following predetermined paths. Each symbol sequence flared as it received and processed magical energy, creating a chain reaction that spread throughout the ship's entire protective network. When the illumination reached the vessel's extremities, the entire runic framework pulsed once with brilliant radiance before settling into a steady, barely visible shimmer.
 
@@ -112,7 +110,7 @@ The glow intensified, silver light racing along carved channels like liquid moon
 
 Erik ran his hands along his ship's glowing carvings with wonder and healthy caution. "How long will it last?"
 
-"Years, if not decades," Lin replied confidently. "The runic framework was designed for permanence. As long as the carvings remain intact and the ship continues moving through water, the wards will continue functioning. They're essentially self-sustaining now."
+"Years, if not decades," Lin replied confidently. "The runic framework was designed for permanence. As long as the carvings remain intact, the wards will continue functioning."
 
 "Remarkable," Greta said, her theological concerns temporarily overwhelmed by witnessing magic that actually served its intended protective purpose. "Church doctrine insists such elaborate protective workings are impossible without continuous divine blessing. Yet this operates independently."
 
@@ -124,17 +122,15 @@ Erik studied his transformed ship with the expression of someone whose worldview
 
 The sea voyage began that afternoon under skies that promised rough weather ahead. Lin stood at the ship's prow, watching dark clouds gather on the northern horizon while salt spray misted across her face. The *Sturmbrecher* cut through increasingly choppy waters with confidence that felt almost supernatural—which, she supposed, it now was.
 
-"Storm approaching fast," Erik called from the wheel, his experienced eye reading weather patterns that spoke of trouble ahead. "Should reach us within the hour. Used to be we'd turn back rather than face something like that in open water."
+"Storm approaching fast," Erik called from the wheel, his experienced eye reading weather patterns that spoke of trouble ahead. "Should reach us within the hour. Might be wise to turn back rather than face it in open water."
 
 "Test the wards," Lin called back, excitement building as she anticipated seeing her magical work prove itself under real conditions. "If the protection holds, we'll know the system functions properly."
 
 "Famous last words," Willi muttered, checking their gear was properly secured as wind began to pick up around them. "Right up there with 'what could possibly go wrong?'"
 
-"Have some faith in traditional craftsmanship," Tobi said with a grin that suggested he was thoroughly enjoying the prospect of spectacular magical demonstration. "Besides, if we sink, at least we'll go down fighting Church orthodoxy."
+"Have some faith in traditional craftsmanship," Tobi said with a grin that suggested he was thoroughly enjoying the prospect of spectacular magical demonstration. "Plus, if we sink, at least we'll go down fighting Church orthodoxy."
 
-"That's... actually not as comforting as you think it is," Greta replied with dry humor that showed her theological crisis hadn't destroyed her sense of irony.
-
-The storm struck with the sudden fury that marked northern waters during the dangerous season. Wind howled across the deck with enough force to knock unwary sailors overboard, while waves crashed over the rails in great sheets of freezing spray that should have driven everyone below decks for safety. Instead, Lin gripped the forward rail and felt the ward array responding to threats by intensifying its protective influence.
+The storm struck with the sudden fury that marked northern waters during the dangerous season. Wind howled across the deck with enough force to knock unwary sailors overboard, while waves crashed over the rails in great sheets of freezing spray that should have driven everyone below decks. Instead, Lin gripped the forward rail and felt the ward array responding to threats by intensifying its protective influence.
 
 The ship rode through mountainous waves as if they were mere ripples. Lightning that should have shattered the mast simply slid away from the vessel's protected areas, electrical energy deflected by runic barriers that turned destruction into harmless discharge. Winds that had been strong enough to tear sails merely ruffled the canvas without causing damage, their force distributed through the ship's structure rather than concentrating on vulnerable points.
 
@@ -142,15 +138,15 @@ The ship rode through mountainous waves as if they were mere ripples. Lightning 
 
 "The wards work with natural forces instead of fighting them," Lin called back, her theoretical understanding proven by practical demonstration. Water that struck the ship's sides parted around runic barriers that guided destructive energy away from vulnerable areas. "Traditional magic was always about partnership rather than domination."
 
-"This is impossible," young Jorik shouted while staring at lightning that curved away from their mast like it was avoiding deliberate contact. "Storms don't just decide to leave ships alone."
+"This is impossible," one of Erik's crew shouted, staring at lightning that curved away from their mast like it was avoiding deliberate contact. "Storms don't just decide to leave ships alone."
 
 "This one does," Greta replied with growing conviction, watching divine will manifest through traditional magic that served protective purposes better than any Church blessing she'd ever witnessed. "The Light guides truth, wherever it may be found."
 
-The storm's intensity continued to build around them, but the ship sailed through chaos as if protected by invisible barriers that turned natural fury into harmless spectacle. Lin felt the ward array drawing energy from the tempest itself, using the storm's own power to strengthen protective barriers—traditional magic that worked with natural forces rather than opposing them.
+The storm's intensity continued to build around them, but the ship sailed through chaos as if protected by invisible barriers that turned natural fury into harmless spectacle. Lin felt the ward array drawing energy from the tempest itself, using the storm's own power to strengthen protective barriers. Traditional magic that worked with natural forces rather than opposing them.
 
-As the weather began to clear, revealing calmer waters ahead, Erik's crew gathered on deck with expressions that mixed awe, fear, and desperate hope. These were men who'd watched friends die in storms like the one they'd just sailed through without taking a single casualty.
+As the weather began to clear, revealing calmer waters ahead, the crew gathered on deck with expressions that mixed awe, fear, and desperate hope. These were men who'd watched friends die in storms like the one they'd just sailed through without taking a single casualty.
 
-"How?" Old Henrik asked, his voice shaking with the recognition that everything he'd believed about maritime survival had just been proven wrong. "How is this possible?"
+"How?" one sailor asked, his voice shaking with the recognition that everything he'd believed about maritime survival had just been proven wrong. "How is this possible?"
 
 "Traditional knowledge that was never actually lost," Lin replied gently. "Just suppressed by people who preferred control over effectiveness."
 
@@ -170,8 +166,6 @@ The creature that broke the surface resembled no natural sea life Lin had ever s
 
 "No," Lin agreed grimly, feeling malevolent intelligence pressing against the ward boundaries like a predator testing fence strength. "It's something else. Something that's learned to hunt ships specifically."
 
-"At least it's only one," Tobi said with forced optimism, though his usual humor carried a sharp edge of genuine concern.
-
 The monster's first attack came without warning—massive tentacles erupting from the water to wrap around the ship's hull with crushing force that should have splintered wood and collapsed the vessel's structure. Instead, the runic wards flared to brilliant life, creating barriers of silver energy that turned supernatural strength aside like it was striking solid stone.
 
 The impact sent shockwaves through the ship's frame, but the ward array distributed the crushing force harmlessly through the vessel's entire structure. Lin felt the protective magic responding to threat by drawing more power from natural sources—wind, waves, the ocean's own energy turned toward defensive purposes.
@@ -186,10 +180,6 @@ The creature recoiled with what sounded like surprise, bioluminescent patterns s
 
 The monster's second assault came from below—tentacles wrapping around the ship's keel with crushing pressure designed to crack the hull and send them to the bottom. The ward array responded instantly, protective energy racing through carved channels to create barriers that extended below the waterline, turning the creature's strength against itself.
 
-"It's trying to crush us from underneath," young Jorik called out, his voice tight with fear as the ship shuddered under supernatural pressure.
-
-"And failing spectacularly," Tobi replied with growing confidence. "I'm starting to like these old traditions."
-
 "Magnificent," Greta murmured, watching divine will manifest through magic that actually served its protective purpose. "This is what the Light intended. Protection that actually protects."
 
 The creature's third attack demonstrated the intelligence that made it truly dangerous. Instead of using brute force, it began creating a whirlpool around the ship designed to drag them down through hydrodynamic pressure rather than direct assault. The ward array responded by extending protective barriers into the water itself, creating stable zones that allowed the ship to sail through the artificial maelstrom without being caught by its pull.
@@ -202,11 +192,9 @@ The monster's final assault came as a coordinated barrage—tentacles striking f
 
 "Multiple contacts," she warned, feeling predatory intelligence multiplying around their vessel. "It's calling for backup."
 
-"Of course it is," Willi said with grim resignation. "Because one sea monster wasn't enough excitement for today."
+But the ward array was drawing energy from the ocean itself now, using the creatures' own movements through water to strengthen protective barriers. The more force they applied, the stronger the defenses became, traditional magic working with natural principles rather than fighting them.
 
-But the ward array was drawing energy from the ocean itself now, using the creatures' own movements through water to strengthen protective barriers. The more force they applied, the stronger the defenses became—traditional magic working with natural principles rather than fighting them.
-
-Faced with defenses that grew stronger under attack and attracted by easier prey elsewhere, the creatures finally withdrew. Lin watched their bioluminescent patterns fade into the depths, feeling through the ward connection as supernatural predators decided to seek targets that couldn't turn their own strength against them.
+Faced with defenses that grew stronger under attack, the creatures finally withdrew. Lin watched their bioluminescent patterns fade into the depths, feeling through the ward connection as supernatural predators decided to seek easier prey elsewhere.
 
 "They're gone," she announced, allowing the runic array to return to its passive state as immediate danger passed. "The wards convinced them to hunt somewhere else."
 
@@ -220,7 +208,7 @@ Faced with defenses that grew stronger under attack and attracted by easier prey
 
 As they approached the Nordmark Islands under clearing skies, Lin watched other ships in the distance—vessels that bobbed helplessly in rough waters, their crews struggling with conventional methods that couldn't match what traditional knowledge had accomplished. The contrast between functional magic and institutional failure was becoming too obvious to ignore.
 
-The harbor at Nordmark welcomed them with carved stone piers that made Lin's magical senses sing with familiar recognition. More runic framework, waiting for someone who understood how to wake it from centuries of dormancy. Ancient symbols covered dock pylons and harbor walls, creating patterns that suggested coordinated defensive arrays designed to protect the entire port.
+The harbor at Nordmark welcomed them with carved stone piers that made Lin's magical senses sing with familiar recognition. More runic framework, waiting for someone who understood how to wake it from centuries of dormancy. More opportunities to restore what had been systematically destroyed.
 
 "This is just the beginning," she said, feeling possibilities expanding as she began to understand how much lost knowledge waited to be rediscovered. "If one ship's carvings can create this level of protection, imagine what we could accomplish with complete runic systems."
 
