@@ -124,4 +124,9 @@ Lin's journey represents the rediscovery and revolutionizing of the third pillar
 - Northern clans see Lin as bridge between old ways and southern political power
 - Sets up conflicts over whether ancient magical knowledge should be preserved or suppressed
 
-## Arc 05 - The Luminant Church and Spreading Layline Fracture
+## Arc 05 – The Luminant Church and the Spreading Leyline Fracture
+
+- Lin’s conflict with the Luminant Church escalates as they actively block her efforts to stabilize the spreading leyline fracture.
+- A radical sect within the Church—believing that light cannot exist without darkness—works to manufacture chaos as a pretext for total Church dominance. Their goal: fabricate a *casus belli* for widespread oppression.
+- As the fracture worsens, demonic and hellish entities begin to leak into the world—twisted anti-spirits from a parallel plane, twisted monsters in corrupted form.
+- **The Emergence and Catastrophe**: A Demon Lord rises from the fracture, erects a fortress, and plunges the realm into war. The Church and the Academy are outmatched, and the tide turns in favor of the abyss.

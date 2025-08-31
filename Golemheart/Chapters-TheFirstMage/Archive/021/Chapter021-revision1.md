@@ -1,4 +1,4 @@
-# Chapter 21: Songs of Memory
+# Chapter 21: Songs of Memory - Revised
 
 The morning after Madern's revelations brought lessons that tested everything Lin thought she understood about magic's relationship to truth. The weight of what they'd learned about systematic cultural destruction hung over their group like storm clouds, but Korren seemed determined to show them something that would deepen their understanding even further.
 
@@ -62,7 +62,7 @@ The voices faded, leaving the grove heavy with the weight of preserved betrayal.
 
 Greta hesitated, clearly dreading what she might hear but recognizing her duty to understand the full scope of institutional betrayal. "Show us."
 
-She touched the tree again, and new voices filled the air—but these spoke with the calculated cruelty of people who believed themselves safe from accountability.
+Korren touched the tree again, and new voices filled the air—but these spoke with the calculated cruelty of people who believed themselves safe from accountability.
 
 "...these primitive practices will disappear within a generation if we're systematic about it. Remove the children for 'education,' disrupt the traditional gathering cycles, make sure the next generation associates their ancestors' ways with shame and backwardness..."
 

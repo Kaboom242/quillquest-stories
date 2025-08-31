@@ -46,7 +46,7 @@ Korren stood, brushing dirt from her worn traveling clothes. "There's a stone ci
 
 The words hit their small group like a physical blow. Lin felt the weight of choice settling over them as Korren continued.
 
-"The circle responds to those with proper sensitivity, but participating in pre-Christian ritual makes you heretics by Church law. The rest will witness magic your authorities have spent three centuries trying to eliminate."
+"The circle responds to those with proper sensitivity, but participating in pre-Luminant ritual makes you heretics by Church law. The rest will witness magic your authorities have spent three centuries trying to eliminate."
 
 "You're asking us to commit spiritual treason," Greta said quietly.
 

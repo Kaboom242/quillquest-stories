@@ -46,14 +46,17 @@ Rate only: PASS/NEEDS REVISION + specific fixes needed
 
 ---
 ## Write Story
-- Create a separate Draft document (e.g., under Archive/Chapter###-draft#.md)
+- Create a separate Draft document (e.g., under Archive/###/Chapter###-draft#.md)
 - Use the Outline to Write the next chapter in smoothly flowing paragraph form. 
 - Do not use bullet points, headers, emojis, or numbered lists.
 - Use natural paragraph breaks and avoid any structural markdown elements. 
 - Story should flow from chapter to chapter, avoid end of chapter summaries, or internal reflections.
 
 ### Critique Checklist
-- Create a separate critique document (e.g., under Archive/Chapter###-draft#-critique.md)
+- Create a separate critique document (e.g., under Archive/###/Chapter###-draft#-critique.md)
+
+**MANDATORY REMINDER: MAINTAIN BRUTAL STANDARDS. This is draft #[X] - do NOT lower your expectations. Find every flaw.**
+
 Be extreamly nitpicky and preform a master level Critique, be brutally honest, providing an experienced critical analysis of this rough draft.
 **Factual Consistency:** Does anything contradict World-Bible.md? Or History.md 
 **Outline Adherence:** Does each scene serve the outlined beats?
@@ -66,12 +69,27 @@ Be extreamly nitpicky and preform a master level Critique, be brutally honest, p
 **Pacing & Immersion:** Does each scene linger long enough for the reader to experience events in real time, with vivid sensory detail and emotional presence? Avoid summarizing or rushing through moments—let the reader see, hear, and feel the action as it unfolds, rather than being told what happened after the fact.
 **Foreshadowing** Look for and assess any opertunities for forshadowing the next chapters or next Arc.
 
-Imagine I said this chapter actually is really bad and look for reasons why I said that. Nothing is perfect, just good enough. Why isn't this perfect? 
+**CRITICAL: MAINTAIN BRUTAL STANDARDS THROUGHOUT THE ENTIRE PROCESS. DO NOT GET SOFTER IN LATER ROUNDS.**
 
-Rate only: PASS/NEEDS REVISION + specific fixes needed
+Imagine I said this chapter is actually terrible and will embarrass me if published. Find every flaw, no matter how minor. The goal is EXCELLENCE, not "good enough."
+
+**Rating System:** Provide both a numerical score (1-10) AND a PASS/NEEDS REVISION rating:
+- 9-10/10 = PASS (ready for finalization)
+- 1-8/10 = NEEDS REVISION (continue the revision loop)
+
+**Scoring Standards (DO NOT LOWER THESE IN LATER CRITIQUES):**
+- 10/10: Flawless execution, publishable quality
+- 9/10: Minor polish needed, essentially ready
+- 8/10: Good but noticeable issues that hurt reading experience  
+- 7/10: Functional but multiple problems
+- 6/10 and below: Major issues requiring substantial revision
+
 If large sections need to be added or expanded, give a word count estimate and directions for revision
 
+**REMINDER: Each critique must maintain the SAME BRUTAL STANDARDS. Do not get lenient because this is the 3rd or 4th revision.**
+
 ## Story Revision
+- Create the next Draft document (e.g., under Archive/###/Chapter###-draft#.md)
 - Address all critique points from the Critique Checklist, making targeted changes to factual consistency, outline adherence, character depth, and tone alignment.
 - Rewrite or expand scenes that feel flat, rushed, or lack emotional impact.
 - Remove or revise any passages that contradict the World Bible, Narrative Bible, or established character arcs.
@@ -81,11 +99,14 @@ If large sections need to be added or expanded, give a word count estimate and d
 - Ensure four-way dynamic: Each character should contribute their natural perspective to problem-solving. Responses should build on what others have said rather than inserting random quirks.
 - Check dialogue ratio: 70% situational/emotional content, 30% character personality. Friends should tease each other about predictable responses, showing familiarity.
 - Ensure the story flows smoothly, with natural transitions and no abrupt summaries or internal reflections.
-- If the rating is less than 10/10, rewrite the chapter and repeat the critique/revision process until it passes.
+- **MANDATORY REVISION LOOP**: If the numerical score is less than 9/10, you MUST create another draft and repeat the critique/revision process. Do not stop until the chapter scores 9/10 or higher.
+- **CONSISTENT STANDARDS WARNING**: Each new critique must maintain the SAME brutal standards as the first critique. Do not become more lenient in later rounds - if anything, become MORE demanding as the chapter should be approaching perfection.
 
 ### Finalize
 - Write to Chapter document (e.g., Chapter###.md)
+- **ONLY PROCEED TO FINALIZATION IF THE CHAPTER SCORED 9/10 OR HIGHER**
 - Do a polishing step on the final Draft using the passing critique.
-- Run one last critique of the chapter being brutally honest looking for any flaw. Imagine I said this chapter actually is really bad and look for reasons why I said that. Nothing is perfect, just good enough. Why isn't this perfect? 
+- Run one last critique of the chapter with the SAME BRUTAL STANDARDS as all previous critiques. Score it numerically (1-10). If it drops below 9/10 due to polishing errors, return to revision process.
+- **FINAL QUALITY CHECK**: Ask yourself "Would I be proud to publish this chapter as-is?" If the answer isn't an enthusiastic yes, continue revisions. 
 
 ---

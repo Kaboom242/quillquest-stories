@@ -54,11 +54,11 @@ Lin watched Greta stand abruptly, armor chiming discordant notes that seemed to 
 
 "But what I do next is." Greta's voice cracked like breaking glass. "If the Church has been systematically destroying spiritual truth while I defended their righteousness..."
 
-Lin stood without thinking, followed by Willi. They flanked their friend in movements automatic as breathing—friendship habits deeper than conscious thought. She could see Greta shaking now, her friend's world fracturing along fault lines that had been building since they'd first witnessed the broken circle.
+Lin stood without thinking, followed by Willi. They flanked their friend in movements automatic as breathing—friendship patterns deeper than conscious thought. She could see Greta shaking now, her friend's world fracturing along fault lines that had been building since they'd first witnessed the broken circle.
 
 "Then either the Light isn't guiding the Church, or the Church isn't serving the Light," Madern said gently from behind them. "That's your conclusion to reach, Knight. But know this—Light shines equally on ancient wisdom and modern institutions."
 
-Greta turned back toward them, tears catching firelight. "Tell me about phase two."
+Greta turned back toward them, tears catching firelight like scattered diamonds. "Tell me about phase two."
 
 Lin reached out instinctively, touching her friend's armored shoulder. The metal was cold under her palm, but she could feel Greta's warmth beneath it, solid and real despite everything cracking apart.
 
@@ -88,7 +88,7 @@ Lin looked beyond the fire toward the wounded circle, its broken patterns flicke
 
 "Removed key stones under pretense of preventing collapse. Chiseled away 'weathered carvings' supposedly becoming illegible. Replaced traditional sacred plants with Church-approved vegetation." Madern gestured toward the distant circle. "Same methodology used here eighteen months ago."
 
-"But that would completely sever the magical connections," Lin protested, her understanding of leyline networks recoiling from such systematic destruction.
+"But that would completely sever the magical connections," Lin protested, her understanding of layline networks recoiling from such systematic destruction.
 
 "Which was exactly the intended result," Madern replied with bitter clarity. "Within two years, our hereditary circle was reduced to seven random stones in a rough ring—no power, no memory, no ability to support the practices that had anchored our survival for thirty generations."
 
@@ -136,7 +136,7 @@ Lin squeezed Greta's hand, feeling her friend's strength beneath the armor and u
 
 "Which is exactly why we can't walk away," Greta replied, her grip tightening on Lin's hands. "Some things are worth the risk."
 
-The clan feast continued around them—conversations and laughter mixing with night sounds and distant music. But Lin now understood what she was witnessing. Not celebration but defiance. Not cultural preservation but desperate attempts to maintain fragments of essential knowledge that might be all standing between their communities and complete magical collapse.
+The clan feast continued beyond their circle—conversations and laughter mixing with night sounds and distant music. But Lin now understood what she was witnessing. Not celebration but defiance. Not cultural preservation but desperate attempts to maintain fragments of essential knowledge that might be all standing between their communities and complete magical collapse.
 
 Tomorrow they would return to Church territories where this systematic destruction continued, presented as spiritual progress. But now they carried the weight of truth.
 

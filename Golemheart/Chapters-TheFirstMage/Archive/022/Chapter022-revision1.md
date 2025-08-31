@@ -1,30 +1,6 @@
-# Chapter 22: Tides of Truth
+# Chapter 22: Tides of Truth - Revised
 
-The coastal journey that followed their time in the memory grove cAs the storm reached full fury outside, Lin watched Nerida begin the work that kept their community alive. Not the flashy demonstration magic of Academy training, but the patient, careful craft of someone who'd learned to partner with forces that could destroy her if she made mistakes.
-
-The sea-song that filled the chamber carried harmonies that spoke of accumulated wisdom—not just Nerida's individual knowledge, but generations of inherited understanding about how to work with oceanic powers. But Lin could hear strain in the music, places where traditional patterns no longer fit properly with the forces they were meant to guide.
-
-"Something's wrong," Lin said, feeling the discord between ancient song and current magical realities. "The traditional frameworks aren't connecting properly with the water's energy."
-
-"The foundations have been damaged," Nerida confirmed, her voice tight with concentration as she adapted centuries-old techniques to work with destabilized magical currents. "Not just here—reports from sea-singers across the coast describe the same problems."
-
-Around them, the gathered families listened with the focused attention of people whose survival depended on magical work their own government had branded as heretical. Lin felt the weight of institutional contradiction pressing down on them all.
-
-"This is completely insane," she said quietly to her friends. "The Church destroys magical infrastructure, then depends on traditional practitioners to prevent the consequences of their own destruction."
-
-"That's how institutions maintain power," Willi replied practically. "Create the problem, then position yourself as the only solution while blaming someone else for the chaos."
-
-"But what happens when traditional practitioners can't compensate anymore?" Greta asked, watching Nerida struggle with forces that should have been manageable.
-
-"Then the system collapses," Tobi said bluntly. "And the people in power blame external forces while maintaining their authority through crisis management."
-
-The storm reached its peak as Nerida's song crested in harmonies that spoke of desperate adaptation. Lin felt the young sea-singer pushing her abilities beyond safe limits, forcing damaged magical frameworks to function through pure will and accumulated skill.
-
-Thunder cracked overhead with force that shook the building's foundations. In the chamber, families held their breath as traditional protections struggled to maintain their effectiveness against forces that no longer responded predictably to ancient songs.
-
-"She's going to hurt herself," Lin said, seeing Nerida's hands shake with strain.
-
-"She's going to die if she doesn't succeed," Willi replied grimly, "and so will the sailors still at sea."rried them through landscapes where Church authority thinned like morning mist, replaced by older powers that predated institutional control by millennia. Lin felt the change in her bones as they approached the sea—laylines here flowed with different rhythms, currents that spoke of tidal magic and storm-song rather than Academy-approved frameworks.
+The coastal journey that followed their time in the memory grove carried them through landscapes where Church authority thinned like morning mist, replaced by older powers that predated institutional control by millennia. Lin felt the change in her bones as they approached the sea—laylines here flowed with different rhythms, currents that spoke of tidal magic and storm-song rather than Academy-approved frameworks.
 
 "Sea-witch territory," Korren announced as they crested the final hill before the coast. "The Church has been trying to eliminate their traditions for three centuries. Hasn't worked."
 
@@ -82,7 +58,7 @@ Lin studied the young woman, seeing someone barely older than herself bearing re
 
 "The storm's worse than usual," Nerida said, her voice carrying undertones that resonated with tidal rhythms. "The sea feels... angry. Disturbed. Like something fundamental has been broken and the water can't find its proper courses."
 
-Lin felt a chill of recognition. "The layline disruptions are affecting oceanic magic too?"
+"The layline disruptions are affecting oceanic magic too?" Lin asked, feeling a chill of recognition.
 
 "Everything's affected," Nerida replied grimly. "Traditional protections that worked for my grandmother's generation are failing. Sea-songs that once calmed storms now seem to agitate them. Navigation magic that helped sailors find safe passage for centuries is becoming unreliable."
 
@@ -102,7 +78,7 @@ Around the chamber, Lin saw the same desperate tension she'd witnessed at the st
 
 As the storm reached full fury outside, Lin watched Nerida begin the work that kept their community alive. Not the flashy demonstration magic of Academy training, but the patient, careful craft of someone who'd learned to partner with forces that could destroy her if she made mistakes.
 
-The sea-song that filled the chamber carried harmonies that spoke of accumulated wisdom—not just Nerida's individual knowledge, but generations of inherited understanding about how to work with oceanic powers rather than attempting to control them. But Lin could hear strain in the music, places where traditional patterns no longer fit properly with the forces they were meant to guide.
+The sea-song that filled the chamber carried harmonies that spoke of accumulated wisdom—not just Nerida's individual knowledge, but generations of inherited understanding about how to work with oceanic powers. But Lin could hear strain in the music, places where traditional patterns no longer fit properly with the forces they were meant to guide.
 
 "Something's wrong," Lin said, feeling the discord between ancient song and current magical realities. "The traditional frameworks aren't connecting properly with the water's energy."
 
