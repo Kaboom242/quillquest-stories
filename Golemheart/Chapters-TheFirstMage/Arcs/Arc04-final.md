@@ -65,12 +65,12 @@
 - **Comedy Beat**: Memory Rune playback accidentally includes embarrassing personal moments, creating awkward but humanizing situations for historical figures
 
 ## Chapter 22 — Sea-Witch Wards
-- **Plot Beats**: 1) Coastal fishing port where ships receive traditional blessing ceremonies (currently ineffective) 2) Lin attempts ambitious large-scale ward creation using ship hull as canvas 3) Willi's systematic engineering approach improves runic array design and power distribution 4) Sea voyage to Northern Island with partial ward failure during supernatural storm 5) Sea monster attack tests party's combat coordination and magical teamwork 6) Church interrogators spread "southern witchcraft" rumors, party defends crew loyalty
+- **Plot Beats**: 1) Coastal fishing port where ships receive traditional blessing ceremonies (currently ineffective) 2) Lin attempts ambitious large-scale ward creation using ship hull as canvas 3) Willi's systematic engineering approach improves runic array design and power distribution 4) Sea voyage to Northern Island with partial ward failure during supernatural storm 5) Sea monster attack tests party's combat coordination and magical teamwork 6) Church interrogators spread "witchcraft" rumors, party defends crew loyalty
 - **Prev → Target**: Willi - supportive engineer → magical innovation leader taking initiative; Party - individual skill contributors → coordinated combat team with tactical unity
 - **Progression Note**: Lin masters large-scale Protective Wards with Willi's engineering innovations; party develops effective combat teamwork; public suspicion grows but crew loyalty maintained through shared danger
 - **Location**: Hafenmund weathered fishing port, granite fjords cutting deep into coastline with wheeling seabirds, winter gales bringing salt spray and fishing boat preparations
 - **Supporting-Cast Beat**: Tobi helps repair storm damage while aggressively defending fishing crew against Church accusations, showing fierce protective loyalty
-- **Failure Check**: Ward array partially fails during supernatural storm, ship nearly sinks with crew casualties, creates persistent "southern witchcraft" rumors requiring reputation management
+- **Failure Check**: Ward array partially fails during supernatural storm, ship nearly sinks with crew casualties, creates persistent "witchcraft" rumors requiring reputation management
 - **Cozy Beat**: Shared meals with hardworking fishing crew, learning sea shanties and maritime cultural traditions, warm camaraderie despite constant dangers
 - **Comedy Beat**: Severe seasickness affects party members differently, creating humorous role reversals and unexpected maritime incompetence situations
 
