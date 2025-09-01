@@ -13,6 +13,11 @@
   - Supporting-Cast Beat: one micro-POV line for at least one non-protagonist to preserve series dynamics.
   - Failure Check: list one credible thing that can go wrong here and its immediate consequence.
 
+## Transition Guidelines
+- Always include a travel sequence when moving between locations: show the physical journey, weather, logistics, and small social beats that reveal character and foreshadow upcoming conflict.
+- Travel beats should include at least one sensory anchor (weather, road condition, smell, sound), one short scene of four-way banter or a minor encounter (refugees, merchants, shepherds), and one concrete obstacle (storm, road closure, political checkpoint) that can drive a chapter's opening scene.
+
+
 - Each chapter must serve the arc's central theme and introduce at least one distinct new element (ability, cultural detail, political complication, or location). If it introduces nothing new, merge or rewrite the chapter.
 
 ### Chapter template (copy into arc file for each chapter)
@@ -109,7 +114,7 @@ Be extreamly nitpicky and preform a master level Critique, be brutally honest, p
 **Pacing & Immersion:** Does each scene linger long enough for the reader to experience events in real time, with vivid sensory detail and emotional presence? Avoid summarizing or rushing through moments—let the reader see, hear, and feel the action as it unfolds, rather than being told what happened after the fact.
 **Foreshadowing** Look for and assess any opertunities for forshadowing the next chapters or next Arc.
 **Arc Theme Service:** How does this chapter explore a new aspect of the arc's central theme? What specific question about the theme does it answer that previous chapters haven't addressed? Referece the `Arcs/Arc04-final.md` document
-**Continueity:** Does the story flow naturally from the previous chapter? Make sure there isn't any abrupt timejumps.
+**Continueity:** Does the story flow naturally from the previous chapter? Make sure there isn't any abrupt time jumps.
 **Character Progression Anchoring:** Document where each main character ended emotionally in the previous chapter. What specific growth milestone will they reach? How does this build on rather than repeat previous development?
 **New Discovery Requirement:** What genuinely new information, magical ability, location, or conflict is introduced? How does this expand the world/story rather than rehashing known elements?
 **Stakes Progression:** Are the consequences of failure greater than in previous chapters? What new pressures force harder choices than before?

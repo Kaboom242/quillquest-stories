@@ -47,7 +47,7 @@ Their conversations should feel organic, with each person contributing their nat
 - Infectious enthusiasm that makes everyone want to join her adventures
 - Happy chaos that turns mundane situations into memorable experiences
 - Deep love for her friends that shows through protective instincts and fierce loyalty
-- Traditional stories and songs from her grandmother that connect to ancient wisdom
+- (Rarely) Traditional stories and songs from her grandmother that connect to ancient wisdom (Flashback)
 - Impulsive suggestions that sound terrible but somehow work out wonderfully
 - Genuine curiosity about people that helps her make instant friends everywhere
 - Cheerful disregard for proper procedure in favor of what feels right
@@ -186,7 +186,7 @@ Every scene should feature the four-way dynamic contributing to whatever challen
 ## Example Dialogue Patterns
 
 ### Problem-Solving Scene:
-**Lin:** "Oh! What if we just ask the laylines really nicely? My grandmother always said spirits respond better to friendship than force!"
+**Lin:** "Oh! What if we just ask the laylines really nicely?"
 **Greta:** "That's... highly irregular. Honor demands we protect the innocent first with proper procedures."
 **Tobi:** "Or I could just charm the locals into telling us everything. Works better when I have three beautiful companions to impress them with." *winks*
 **Willi:** "Lin, dear, that's sweet but dangerous. The Royal Academy protocols suggest we map the layline intersections first. And Tobi, eat this before you charm anyone—you think better on a full stomach."

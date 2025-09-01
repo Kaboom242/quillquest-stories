@@ -46,95 +46,115 @@
 - **Comedy Beat**: Greta's obsessive note-taking—rapid shorthand of runic strokes and the elder's muttered oral cues—appears absurd mid-crisis but later provides the exact sequence needed to reverse the miscalibration, earning incredulous gratitude.
 
 ## Chapter 20 — Bone and Antler Arts
-- **Plot Beats**: 1) Lin studies master bone-carver's ceremonial work in isolated mountain village 2) Realizes decorative symbols are actually dormant runic script with magical potential 3) Seasonal magic experiments with Willi's engineering assistance and systematic approach 4) Academy agent Albrecht arrives offering institutional patronage with strings attached 5) Magic practice causes uncontrolled environmental anomaly affecting village 6) Village feast celebrating successful magical collaboration despite complications
-- **Prev → Target**: Willi - nervous magical supporter → confident engineering partner developing magical applications; Lin - growing magical competence → awareness of political implications
-- **Progression Note**: Lin masters Seasonal Magic and complex runic grammar; Willi develops innovative magical engineering skills; Academy surveillance officially begins; stronger party collaboration emerges
-- **Location**: Mountain village Steinholm nestled in pine valleys where ancient elk migration routes cross three river forks, early winter snow beginning to fall
-- **Supporting-Cast Beat**: Greta refuses Academy ledger exemption and insists on transparent ethical protocols when Albrecht offers patronage, demonstrating moral backbone
-- **Failure Check**: Seasonal magic experiment causes unexpected bloom/dormancy environmental anomaly, frightening superstitious villagers and drawing unwanted Church suspicion to region
-- **Cozy Beat**: Traditional village feast with bone-carver's extended family, sharing ancient craft techniques around warm hearth, cultural exchange deepening understanding
-- **Comedy Beat**: Willi's systematic engineering approach to intuitive magic produces unexpected but effective results, amusing traditionalist craftsmen
+- **Plot Beats**:
+	1) Travel sequence from the stone circle to the high valley: muddy roads, worsening weather, and a forced delay as a storm closes the pass; the journey reveals small social beats and foreshadows seasonal themes.
+	2) Shelter encounter with a master bone-carver (Ciar) whose workshop preserves ceremonial antler and bone craft; the party exchanges hospitality for knowledge.
+	3) Lin recognizes dormant runic syntax in carved bone and antler—material previously thought decorative now appears to encode seasonal memory and timing.
+	4) Controlled seasonal experiment proposed: a low-energy stimulus to test early sprouting in stable seed-beds, documented by Willi and ethically cleared by Greta with local consent.
+	5) Unintended amplification via an underground moisture vein creates a localized bloom/dormancy ripple across nearby stores—immediate, fixable damage that nevertheless alarms villagers and spreads rumor.
+	6) Collaborative repair: Willi engineers damping arrays (lead-lined pouches, rowan bindings), Greta organizes consent and restitution, Tobi manages social fallout, and Lin learns restraint.
+	7) Cozy beat: communal meal and cultural exchange; villagers accept aid but gossip spreads toward neighboring roads and county centers (foreshadowing institutional interest).
+	8) Aftermath and travel: party documents results, formalizes reversal protocol, and departs once safe passage reopens—travel sequence includes weather, mood, and signs of growing institutional attention.
+- **Prev → Target**: Willi - nervous magical supporter → confident engineering partner developing applied runic tools; Lin - curious experimenter → humbled researcher increasingly aware of political consequences
+- **Progression Note**: Lin discovers seasonal runic grammar embodied in bone/antler craft; Willi prototypes engineering safety measures; party learns the political cost of applied runic work as rumors and institutional eyes begin to gather
+- **Location**: Mountain village Steinholm nestled in pine valleys where elk routes cross three river forks, early winter snow starting to fall
+- **Supporting-Cast Beat**: Ciar the bone-carver demonstrates craft traditions and acts as local moral authority; Hella the stable-owner personifies small-village risk and stakes
+- **Failure Check**: Seasonal experiment triggers localized agricultural/stock disturbance (e.g., early sprout triggers fungal flush or chilled brood) that requires coordinated reversal and generates damaging gossip
+- **Cozy Beat**: Traditional village feast with bone-carver's extended family, sharing craft techniques around warm hearth; cultural exchange deepens mutual trust while political stakes rise
+- **Comedy Beat**: Willi's systematic engineering approach to intuitive craft produces awkward but useful inventions that amuse traditionalists
 
-## Chapter 21 — The Skald's Memory Runes
-- **Plot Beats**: 1) Traveling storyteller demonstrates ancient carved ceremonial staves used for ancestor honoring 2) Lin discovers genuine memory preservation and replay capabilities in carvings 3) Attempts to access preserved memories of Church persecution for historical evidence 4) Memory Rune misread creates false accusation against allied clan leader 5) Tobi's moral intervention forces difficult choice between truth and political stability 6) Party unity strengthened through collaborative ethical crisis resolution
-- **Prev → Target**: Tobi - supportive moral compass → active ethical challenger forcing difficult decisions; Lin - focused researcher → accountable truth-seeker balancing knowledge and consequences
-- **Progression Note**: Lin develops Memory Runes but ethical crisis deepens sense of responsibility; Tobi emerges as party's moral authority using his fellowship values to protect vulnerable people; group develops sophisticated conflict resolution skills
-- **Location**: Ravensford crossroads trading post beneath towering black cliffs, winter storms gathering overhead, meeting point of five different clan territories
-- **Supporting-Cast Beat**: Willi rigs technical safety containment for Memory Rune playback while Tobi insists on ethical usage protocols despite significant political costs, showing his commitment to fellowship over convenience
-- **Failure Check**: Misread Memory Rune creates fabricated evidence falsely incriminating allied clan leader, nearly causing moot rupture requiring dangerous truth revelation
-- **Cozy Beat**: Evening storytelling session with experienced skald around fire, sharing cultural tales and deepening appreciation for oral tradition preservation
-- **Comedy Beat**: Memory Rune playback accidentally includes embarrassing personal moments, creating awkward but humanizing situations for historical figures
+## Chapter 21 — The Storm Runes
+- **Plot Beats**:
+	1) Travel: overland from Steinholm to Ravensford — broken cart tracks, low clouds, and a tense checkpoint with clan scouts; a roadside storyteller mentions old staves said to "call the weather."
+	2) The party meets a coastal craftswoman who preserves ceremonial antler staves carved with storm-runes and weather sigils.
+	3) Lin performs a careful, small-scale test: a carved sigil, on her blackthorn staff shifts a drizzle into a brief gust and clears a cloud—proof the runes can shape micro-weather.
+	4) Excitement grows; the party debates practical uses versus cultural taboo for manipulating weather (harvest aid, safe passage, or military misuse).
+	5) A misread etching produces a sudden wind-shear that topples a trader's cart and injures a bystander, forcing an immediate ethical and practical response.
+	6) Tobi brokers immediate aid and a local compact: Willi builds safety dampers while Greta argues for strict consent and containment; Lin leaves with a powerful new, tempting capability.
+- **Prev → Target**: Tobi — from supportive companion to active moral arbiter in crisis; Lin — from curious researcher to dangerously enthused practitioner testing limits.
+- **Progression Note**: Lin gains demonstrable control over weather-runic micro-effects and tastes the power of applied weather manipulation; the party institutes temporary safety protocols but Lin's confidence is subtly inflated, setting up risk in Chapter 22.
+- **Location**: Ravensford crossroads and nearby craft-alleys beneath black cliffs, where maritime weather and clan jurisdictions meet under low winter skies.
+- **Supporting-Cast Beat**: A master craftswoman (Hesra) demonstrates safe etching technique; Willi improvises mechanical dampers to limit atmospheric spread during tests.
+- **Failure Check**: A mis-etched rune produces harmful gusts—property damage and a wounded bystander escalate local tensions and create rumor that the party is meddling with the elements.
+- **Cozy Beat**: Night fires and skalding tales about sailors who once tricked storms into mercy, shared with wary locals and the party.
+- **Comedy Beat**: Small, accidental weather effects (a sudden gust scattering hats, a sputtering rain turning into a comedic sun-sneak) provide levity amid growing concern.
 
-## Chapter 22 — Sea-Witch Wards
-- **Plot Beats**: 1) Coastal fishing port where ships receive traditional blessing ceremonies (currently ineffective) 2) Lin attempts ambitious large-scale ward creation using ship hull as canvas 3) Willi's systematic engineering approach improves runic array design and power distribution 4) Sea voyage to Northern Island with partial ward failure during supernatural storm 5) Sea monster attack tests party's combat coordination and magical teamwork 6) Church interrogators spread "witchcraft" rumors, party defends crew loyalty
-- **Prev → Target**: Willi - supportive engineer → magical innovation leader taking initiative; Party - individual skill contributors → coordinated combat team with tactical unity
-- **Progression Note**: Lin masters large-scale Protective Wards with Willi's engineering innovations; party develops effective combat teamwork; public suspicion grows but crew loyalty maintained through shared danger
-- **Location**: Hafenmund weathered fishing port, granite fjords cutting deep into coastline with wheeling seabirds, winter gales bringing salt spray and fishing boat preparations
-- **Supporting-Cast Beat**: Tobi helps repair storm damage while aggressively defending fishing crew against Church accusations, showing fierce protective loyalty
-- **Failure Check**: Ward array partially fails during supernatural storm, ship nearly sinks with crew casualties, creates persistent "witchcraft" rumors requiring reputation management
-- **Cozy Beat**: Shared meals with hardworking fishing crew, learning sea shanties and maritime cultural traditions, warm camaraderie despite constant dangers
-- **Comedy Beat**: Severe seasickness affects party members differently, creating humorous role reversals and unexpected maritime incompetence situations
+## Chapter 22 — Sea-Witch Wards (Storm Runes Demonstration)
+- **Plot Beats**:
+	1) Travel: Ravensford → Hafenmund by cliff-road and ferry; fishermen warn of strange tides and failing blessing rites — Lin listens, eager to try storm-runic solutions.
+	2) Hafenmund's crews report that blessing rites and small wards no longer steady the tides; captains plead for a practical fix to save the fishing season.
+	3) Lin proposes a bold experiment: a ship-hull ward that integrates weather-runic micro-control into a distributed array; Willi converts ritual templates into engineering schematics.
+	4) Installation and launch: the party paints and binds runic sigils across the hull and rigging; the first demonstrations are spectacular—Lin sculpts wind-lanes, calms a sudden squall, and routes the ship through a treacherous channel with uncanny precision.
+	5) Confidence grows. Lin pushes for a larger test to shield a whole fleet from an incoming front; the amplified resonance interacts with sea currents and leyline eddies in an unpredicted way.
+	6) Catastrophe: the amplification creates a feedback storm—winds shear, waves jackknife the ship, the ward overloads and fails in places, leaving the vessel exposed to a massive sea-monster attack and crew injuries.
+	7) Emergency response: Willi improvises useing her ice magic while Greta organizes triage and negotiated compensation; The Group Fight to keep the Seamonster from sinking them all.
+	8) Aftermath: the ship survives but with heavy damage and casualties; word spreads quickly — the Church and local authorities arrive to investigate, and rumors of witchcraft harden into public outrage.
+- **Prev → Target**: Willi — from supportive technician to indispensable crisis engineer; Lin — from confident practitioner to chastened, guilt-bearing innovator whose hubris has real cost.
+- **Progression Note**: Lin's Storm Runes prove powerfully practical but dangerously amplifiable; Willi's engineering skill saves lives and proves indispensable; the party's public standing suffers a major blow, creating a direct political target for institutional actors.
+- **Location**: Hafenmund and the granite fjords — salt-worn docks, tight channels, and exposed coastlines where sea-weather and leylines collide.
+- **Supporting-Cast Beat**: A battle-scarred ship's captain and seasoned fishermen provide seamanship and local lore; a sympathetic shipwright helps salvage damaged hull sections.
+- **Failure Check**: Lin's overreach amplifies a storm-runic resonance that partially fries the array; ship damage, injured crew, and one or two fatalities turn local sympathy into fear and legal action.
+- **Cozy Beat**: After the wreck, cramped recovery berths and dockside kitchens offer warm meals and raw, earnest conversations as the party reckons with what happened.
+- **Comedy Beat**: Seasickness, drenched ceremonial banners, and botched maritime superstitions produce grimly comic moments even amid crisis (e.g., a priest's denunciation ruined by falling overboard).
 
-## Chapter 23 — The Clan Moot
-- **Plot Beats**: 1) Sacred gathering on tidal island with ceremonial artifacts from multiple clan histories 2) Lin realizes each clan preserved different runic specializations forming puzzle pieces 3) Academy scouts monitor gathering covertly, requiring careful diplomatic maneuvering 4) Greta successfully mediates complex artifact custody negotiations between competing clans 5) Lin synthesizes disparate clan fragments into revolutionary unified runic system 6) Critical discovery that modular runic arrays can stabilize fracturing leyline nodes 7) Inter-clan celebration feast with cultural exchange and honorary membership
-- **Prev → Target**: Greta - ethical documenter → skilled diplomatic mediator earning respect; Lin - synthesizing researcher → revolutionary innovator with global crisis implications
-- **Progression Note**: Lin develops Hybrid Runic Scripts and discovers leyline stabilization method with global implications; Greta gains sophisticated diplomatic skills by applying her honor and order values to clan negotiations; party becomes cultural bridge between traditions
-- **Location**: Thornspire Isle accessible only during lowest tide, surrounded by tidal pools and sea caves, midwinter solstice with ceremonial fires and colorful clan banners
-- **Supporting-Cast Beat**: Greta mediates intricate custody negotiations while insisting on shared archive protocols that protect clan interests, earning widespread respect by applying chivalric honor to clan customs
-- **Failure Check**: Academy scouts nearly seize critical artifacts during moot, requiring hasty diplomatic negotiations and strategic loss of some ceremonial pieces to institutional pressure
-- **Cozy Beat**: Grand inter-clan feast with traditional foods, music, and cultural sharing, party gains honorary clan member status with formal recognition ceremonies
-- **Comedy Beat**: Cultural misunderstandings create amusing diplomatic situations, party learns complex clan etiquette through embarrassing but endearing mistakes
+## Chapter 23 — Raven-Sight & The Gathering Storm
+- **Plot Beats**:
+	1) Travel: Hafenmund → high ridge settlements and coastal watchposts; the route shows anxious townsfolk, Church banners in the distance, and whispered rumors about the party's experiments.
+	2) The party arrives at a remote keeper's croft where a practitioner of bird-lore tends ravens and old weather-motes; locals are wary and ask the party to leave.
+	3) Lin performs a carefully framed runic communion with a raven spirit (Corax), learning a new art: runic scrying that perceives distant scenes through avian sight and leyline threads.
+	4) Initial uses are dazzling and practical — Lin spies a Church council plotting a regional crack-down and overhears scouts coordinating troop movements via coastal signals.
+	5) Word leaks: terrified villagers and opportunistic observers interpret Lin's sight as unnatural communion with spirits and a threat to local safety; some allies distance themselves for fear of reprisals.
+	6) Lin uses Raven-Sight to warn a nearby hamlet of an approaching militia, averting immediate violence but revealing the party's involvement to Church agents monitoring unusual runic signatures.
+	7) The Church responds: local clergy begin organizing a formal inquiry and mobilizing forces; the party is officially marked as dangerous. Tension rises into the arc-level institutional escalation.
+	8) Closing beat: Lin's bond with Corax deepens — runic scrying becomes a language with nature and leylines, but the power's visibility makes them a target; the party prepares for flight or defense.
+- **Prev → Target**: Lin — from experimental weather-runic tinkerer to adept runic seer who bridges living threads and spirits; Party — from practitioners to hunted custodians of dangerous knowledge.
+- **Progression Note**: Lin's mastery expands into spirit-lore and scrying; she learns to read leylines as living threads through raven perception, connecting weather, spirit, and leyline phenomena; political consequence escalates as Church mobilizes against visible supernatural activity.
+- **Location**: Coastal ridge settlements, crow-haunted crofts, and watchposts where sea-air, salt tang, and leyline hum are palpable.
+- **Supporting-Cast Beat**: A bird-keeper/keeper named Hesra and her ravens guide ritual procedure; a frightened hamlet elder and a sympathetic shipwright provide local color and stakes.
+- **Failure Check**: Scrying reveals hostile plans but leaves recorded signatures and echoes in the leylines; misuse or public spectacle can provoke militia action, spiritual backlash (ravens spooked, sight corroded), or permanent breach of local trust.
+- **Cozy Beat**: Quiet nights in the keeper's croft with raven-song, peat-smoke tea, and low conversation as the party learns the ethics and limits of speaking nature's language.
+- **Comedy Beat**: Corax the raven steals small trinkets and rearranges Willi's notes, producing exasperated but human moments that ease the chapter's dread.
 
-## Chapter 24 — Speaking with the Dead
-- **Plot Beats**: 1) Ancient burial ground with worn megalithic stones for necromantic experimentation 2) Successful contact with spirits of last great runic practitioners 3) Access to complete historical knowledge about systematic magical tradition suppression 4) Spirits provide urgent warnings about imminent Church purge plans and violent reprisals 5) Tobi directly challenges Lin over publication versus protection ethics in heated confrontation 6) Party develops sophisticated plan for lexicon protection while maintaining knowledge access
-- **Prev → Target**: Tobi - moral compass → active ethical challenger willing to confront authority; Lin - knowledge seeker → protective guardian balancing competing moral responsibilities
-- **Progression Note**: Lin masters advanced Scrying Arrays and Memory Runes; gains complete historical persecution picture; Tobi develops confrontational moral leadership skills; party achieves ethical unity through conflict
-- **Location**: Ghostmere Barrows, fog-shrouded valley with grass-covered burial mounds, late winter mists swirling around ancient stone markers and memorial cairns
-- **Supporting-Cast Beat**: Tobi publicly challenges Lin when spirits warn of violent reprisals, forcing direct party confrontation about utilitarian versus protective ethical frameworks
-- **Failure Check**: Necromantic contact reveals imminent Church purge targeting specific clans, forcing impossible choice between warning targets and protecting valuable runic research
-- **Cozy Beat**: Quiet vigil among ancient graves during winter night, sharing personal fears about mortality and legacy, achieving deeper emotional bonding
-- **Comedy Beat**: Ancient spirits include petty complaints about modern life changes, creating unexpected humor during serious necromantic communication sessions
+## Chapter 24 — Fu, Wards, and the Rising Dead
+- **Plot Beats**:
+	1) Travel / Approach: The party withdraws to Ghostmere Barrows - an old burrial ground, and prepares to lay low—fog, wary watchers on ridgelines, and Church banners visible in the distance announce the tightening net.
+	2) Encircled and mistrusted: Locals bristle; some demand the party be "purified" by fire. The Church positions inquisitors and watchmen; the party barricades in a keeper's croft among the burial mounds.
+	3) Lin recalls her grandmother's eastern tales and proposes an adapted talismanic practice—etching runic-Threadcraft fu (paper charms) that combine talismans, memory-runes, and binding sigils to make field wards.
+	4) Rapid construction: the party hastily make fu wards and stake protective arrays
+	5) Wards hold at first, but prolonged siege, arson attempts, and a coordinated Church probing strike create fractures; the array snaps in places and the party becomes trapped as the outer defenses fail.
+	6) Desperation and invocation: cut off and wounded, Lin improvises—she entreats the dead and sprites, weaving fu and raven-threads into a massive scry-and-summon to bind aid; Corax and local sprite-spirits answer, and spectral ranks begin to rise.
+	7) Army of the dead: under Lin's trembling command the dead surge to hold the line—terror and awe mingle as ancestral shapes, peat-shrouds, and little-known household spirits manifest and push back Church forces.
+	8) Cost and reversal: the battle is brutal; the party suffer injuries, and for a moment the tide turns against them until allied clans, moved by debt or outrage, rise and rout the siege—saving the party but escalating the war.
+	9) Aftermath & setup: victory is pyrrhic; spiritual residue, binding echoes, and public horror mark the event. The Church brands the party heretical; local alliances harden into a nascent resistance that sets trajectory for the next chapter.
+- **Prev → Target**: Lin — from adventurous runic experimenter to a powerful, morally burdened conjurer who commands spirits but risks losing control; Party — from research group to wounded insurgents with political momentum.
+- **Progression Note**: Lin integrates talismanic fu into runic practice, expanding runic-Threadcraft into spirit-binding and large-scale scrying—powerful but costly. The party's visibility invites institutional retribution and coerces local tribes toward armed resistance.
+- **Location**: Ghostmere Barrows—fog-bound burial mounds, peat-smoke, and the electric hum of fractured leylines under late-winter skies.
+- **Supporting-Cast Beat**: Corax (raven spirit), a local sprite-keeper, a fearful hamlet elder who helps conceal the party, and a zealous Church inquisitor who becomes their public antagonist.
+- **Failure Check**: Summoning the dead leaves lingering signatures in the leylines and talismans: spiritual echoes, risk of possession, binding debt to ancestral forces, and a visible magical scent that draws further institutional attention.
+- **Cozy Beat**: Before the battle, quiet talisman-making nights—paper, ink fumes, peat tea, and whispered stories—humanize the stakes and deepen bonds.
+- **Comedy Beat**: Domestic spirits grumble about modern annoyances (stolen spoons, soggy peat) even as rank-and-file ghosts march—small, darkly comic moments that cut the tension.
 
-## Chapter 25 — Wolf-Winter Survival  
-- **Plot Beats**: 1) Severe blizzard traps party in mountain pass with dangerously minimal supplies 2) Lin desperately adapts ceremonial symbols for survival magic applications 3) Willi coordinates systematic shelter construction and resource management under extreme conditions 4) Winter monster pack attacks isolated shelter, requiring coordinated magical and physical defense 5) Transmutation rune backfires during combat, causing permanent injury to party member 6) Forced prioritization of survival over research preservation, moral reckoning with magical costs and sacrifice
-- **Prev → Target**: Willi - engineering supporter → crisis leadership coordinator taking command; Lin - confident magical practitioner → humbled by serious magical costs and necessary sacrifice
-- **Progression Note**: Lin develops powerful Transmutation Runes and Binding Circles but backfire causes lasting injury creating moral complexity; Willi proves essential for group survival using her family protection values and systematic Academy training; party bonds through shared trauma and sacrifice
-- **Location**: Frosthold Pass, treacherous mountain route known for weeks-long blizzards, ancient predator territories with isolated survival shelter carved into cliff face
-- **Supporting-Cast Beat**: Willi takes complete charge of medical care for seriously injured companion while improvising field runic applications under extreme pressure, her protective family instincts driving crisis management
-- **Failure Check**: Transmutation rune backfires during critical monster defense, causing permanent physical injury and psychological trauma to party member with lasting consequences
-- **Cozy Beat**: Huddled together for warmth during endless blizzard, sharing most personal stories and deepest fears, achieving ultimate intimacy through survival necessity
-- **Comedy Beat**: Desperate survival attempts create absurd situations, gallows humor helps party cope with extreme conditions and serious magical failures
+## Chapter 25 — The Rising of the Old Ways
+- **Plot Beats**:
+	1) Rally and Travel: News of Ghostmere spreads; clan messengers, keepers, and farmfolk converge at covert rally points as the party moves through hedged lanes and marsh tracks.
+	2) Organizing the Resistance: Greta organizes archives, consent protocols, and morale; Willi converts salvage and shipwright tools into portable dampers and fu-kits for rapid field deployment.
+	3) Public Demonstration: Lin performs a controlled, public demonstration of reforged runic arts—weather-lanes, living-shield glyphs, and talismanic anchors—turning fear into awe and galvanizing recruits.
+	4) Guerrilla Tactics: Small bands use runic signals and Corax's scouting to blind scouts, harass supply lines, and reclaim minor posts; the party trains villagers in simple, repeatable ward patterns.
+	5) The Big Stand: A coordinated strike on a fortified Church outpost aims to free prisoners and break enemy morale; Lin's land-binding runes bog artillery, reroute patrols, and shelter allies while Willi times mechanical traps and Greta manages extraction lanes.
+	6) Turning Point: Combined runic defenses and civilian courage force the invaders to retreat, but a miscast signal or overloaded anchor causes collateral damage and a moral cost.
+	7) Consolidation: With the outpost taken, clans formalize loose alliances; the party becomes symbolic leaders and tactical advisors for a decentralized resistance network.
+- **Prev → Target**: Lin — from secretive experimenter to public emblem and strategist balancing leadership and restraint; Greta — from archivist to political organizer; Willi — from engineer to logistics/siege specialist; Tobi — from conscience to local defense commander.
+- **Progression Note**: The reforged runic arts become teachable tools of community defense and communication; their public use accelerates institutional retaliation and forces the party to confront the moral and ecological costs of visible magic.
+- **Location**: Hedgelands, marsh lanes, and a reclaimed Church outpost near borderlands where leylines can be anchored to landscape features.
+- **Supporting-Cast Beat**: Clan messengers, a veteran band-leader skeptical of magic, a sympathetic shipwright-turned-armorer, and local women covertly producing fu kits and feeding fighters.
+- **Failure Check**: Miscasts or over-amplified signals risk civilian casualties, permanent leyline scarring, and propaganda victories for the Church labeling the resistance as heretical terrorists.
+- **Cozy Beat**: After raids, furtive community bread-breaks, barn celebrations, and songs rewritten to include runic refrains deepen solidarity.
+- **Comedy Beat**: Amateur ward-makers create harmless but odd side-effects (e.g., briefly glowing chickens), giving the resistance a laugh.
+  
+- The resistance marks a narrative shift from defensive secrecy to public political action; runic arts are weaponized as community tools, accelerating institutional retaliation. Chapter 25 should establish operational mechanics for the resistance (fu kits, dampers, signal-runics), demonstrate Lin's public leadership and its moral cost, and concretely show how the party scales runic practice into a teachable language.
 
-## Chapter 26 — Spring Awakening Mastery
-- **Plot Beats**: 1) Grand spring festival demonstration of complete revolutionary runic system before gathered clans 2) Triumphant successful integration of Threadcraft with runic knowledge creating unprecedented hybrid magic 3) Church envoy and Academy archivists witness full capabilities with political implications 4) Celebration with clans becomes immediate political target for institutional intervention 5) Institutional agents attempt lexicon copying while issuing public denunciation 6) Party escape as political fugitives with carefully protected lexicon copies and clan support
-- **Prev → Target**: All characters - individual growth achievements → unified team prepared for institutional conflict; Lin - local magical innovator → revolutionary figure with global implications
-- **Progression Note**: Lin achieves complete mastery synthesis representing third pillar's rebirth with global implications; party unity and individual strengths definitively proven; clear setup for Arc 05 Church conflict; leyline solution established but politically contested by institutions
-- **Location**: Greenspear Valley during Beltane celebration, five converging rivers flowing through wildflower meadows, spring renewal magic enhancing festival celebrations
-- **Supporting-Cast Beat**: Greta efficiently reads Church denunciation aloud while simultaneously organizing lexicon protection during hasty escape, proving essential for knowledge preservation
-- **Failure Check**: Institutional agents successfully copy significant portions of runic lexicon, fundamentally compromising security and making party primary targets for capture
-- **Cozy Beat**: Joyful festival celebration with complete cultural acceptance, traditional dancing and feasting representing successful integration and meaningful achievement
-- **Comedy Beat**: Festival mishaps and exuberant cultural celebration creates lighthearted moments immediately before serious political crisis forces emergency flight
 
 ### Leyline Connection Throughout Arc:
 Progressive discovery that runic syntax encodes harmonic frequencies directly matching leyline node resonant patterns. Modular runic arrays can be precisely tuned as stabilizing dampers for fracturing nodes. This knowledge makes Lin's research essential for resolving the leyline crisis but threatens established institutional control structures, explaining Academy scientific interest and Church theological fear. Directly sets up Arc 05 where Church actively blocks stabilization efforts to maintain crisis for political control and justify expanded authority.
 
----
 
-## Final Arc Assessment
-
-**Overall Arc Score: 9/10 - PASS (ready for finalization)**
-
-### Strengths:
-- Complete thematic coherence with leyline integration
-- All four characters achieve meaningful development arcs  
-- Required failures with lasting consequences included
-- Proper tonal balance with cozy beats and comedy
-- Strong setup for Arc 05 institutional conflict
-- Each chapter serves theme while introducing distinct elements
-
-### Minor Polish Items:
-- Ensure supporting character micro-POV beats are consistently placed in chapter outlines
-- Maintain sensory anchors for each location
-- Verify failure consequences carry forward appropriately
-
-**Status**: Ready for chapter writing using established critique and revision procedures.
