@@ -83,14 +83,15 @@
 
 ## Chapter 22 — Sea-Witch Wards (Storm Runes Demonstration)
 - **Plot Beats**:
-	1) Travel: Ravensford → Hafenmund by cliff-road and ferry; fishermen warn of strange tides and failing blessing rites — Lin listens, eager to try storm-runic solutions.
-	2) Hafenmund's crews report that blessing rites and small wards no longer steady the tides; captains plead for a practical fix to save the fishing season.
-	3) Lin proposes a bold experiment: a ship-hull ward that integrates weather-runic micro-control into a distributed array; Willi converts ritual templates into engineering schematics.
-	4) Installation and launch: the party paints and binds runic sigils across the hull and rigging; the first demonstrations are spectacular—Lin sculpts wind-lanes, calms a sudden squall, and routes the ship through a treacherous channel with uncanny precision.
-	5) Confidence grows. Lin pushes for a larger test to shield a whole fleet from an incoming front; the amplified resonance interacts with sea currents and leyline eddies in an unpredicted way.
-	6) Catastrophe: the amplification creates a feedback storm—winds shear, waves jackknife the ship, the ward overloads and fails in places, leaving the vessel exposed to a massive sea-monster attack and crew injuries.
-	7) Emergency response: Willi improvises useing her ice magic while Greta organizes triage and negotiated compensation; The Group Fight to keep the Seamonster from sinking them all.
-	8) Aftermath: the ship survives but with heavy damage and casualties; word spreads quickly — the Church and local authorities arrive to investigate, and rumors of witchcraft harden into public outrage.
+	1) Immediate fallout: the party arrives in Hafenmund under a cloud of rumor—word of the Ravensford demonstration and the Grove incident has spread; Church investigators and local informants are already asking questions. Brother Aldric's network is active along the coast.
+	2) Travel: Ravensford → Hafenmund by cliff-road and ferry; fishermen warn of strange tides and failing blessing rites — Lin listens, eager to try storm-runic solutions.
+	3) Hafenmund's crews report that blessing rites and small wards no longer steady the tides; captains plead for a practical fix to save the fishing season.
+	4) Lin proposes a bold experiment: a ship-hull ward that integrates weather-runic micro-control into a distributed array; Willi converts ritual templates into engineering schematics.
+	5) Installation and launch: the party paints and binds runic sigils across the hull and rigging; the first demonstrations are spectacular—Lin sculpts wind-lanes, calms a sudden squall, and routes the ship through a treacherous channel with uncanny precision.
+	6) Confidence grows. Lin pushes for a larger test to shield a whole fleet from an incoming front; the amplified resonance interacts with sea currents and leyline eddies in an unpredicted way.
+	7) Catastrophe: the amplification creates a feedback storm—winds shear, waves jackknife the ship, the ward overloads and fails in places, leaving the vessel exposed to a massive sea-monster attack and crew injuries.
+	8) Emergency response: Willi improvises useing her ice magic while Greta organizes triage and negotiated compensation; The Group Fight to keep the Seamonster from sinking them all.
+	9) Aftermath: the ship survives but with heavy damage and casualties; word spreads quickly — the Church and local authorities arrive to investigate, and rumors of witchcraft harden into public outrage.
 - **Prev → Target**: Willi — from supportive technician to indispensable crisis engineer; Lin — from confident practitioner to chastened, guilt-bearing innovator whose hubris has real cost.
 - **Progression Note**: Lin's Storm Runes prove powerfully practical but dangerously amplifiable; Willi's engineering skill saves lives and proves indispensable; the party's public standing suffers a major blow, creating a direct political target for institutional actors.
 - **Location**: Hafenmund and the granite fjords — salt-worn docks, tight channels, and exposed coastlines where sea-weather and leylines collide.
