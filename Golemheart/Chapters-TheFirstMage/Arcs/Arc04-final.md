@@ -65,19 +65,21 @@
 
 ## Chapter 21 — The Storm Runes
 - **Plot Beats**:
-	1) Travel: overland from Steinholm to Ravensford — broken cart tracks, low clouds, and a tense checkpoint with clan scouts; a roadside storyteller mentions old staves said to "call the weather."
-	2) The party meets a coastal craftswoman who preserves ceremonial antler staves carved with storm-runes and weather sigils.
-	3) Lin performs a careful, small-scale test: a carved sigil, on her blackthorn staff shifts a drizzle into a brief gust and clears a cloud—proof the runes can shape micro-weather.
-	4) Excitement grows; the party debates practical uses versus cultural taboo for manipulating weather (harvest aid, safe passage, or military misuse).
-	5) A misread etching produces a sudden wind-shear that topples a trader's cart and injures a bystander, forcing an immediate ethical and practical response.
-	6) Tobi brokers immediate aid and a local compact: Willi builds safety dampers while Greta argues for strict consent and containment; Lin leaves with a powerful new, tempting capability.
-- **Prev → Target**: Tobi — from supportive companion to active moral arbiter in crisis; Lin — from curious researcher to dangerously enthused practitioner testing limits.
-- **Progression Note**: Lin gains demonstrable control over weather-runic micro-effects and tastes the power of applied weather manipulation; the party institutes temporary safety protocols but Lin's confidence is subtly inflated, setting up risk in Chapter 22.
-- **Location**: Ravensford crossroads and nearby craft-alleys beneath black cliffs, where maritime weather and clan jurisdictions meet under low winter skies.
-- **Supporting-Cast Beat**: A master craftswoman (Hesra) demonstrates safe etching technique; Willi improvises mechanical dampers to limit atmospheric spread during tests.
-- **Failure Check**: A mis-etched rune produces harmful gusts—property damage and a wounded bystander escalate local tensions and create rumor that the party is meddling with the elements.
-- **Cozy Beat**: Night fires and skalding tales about sailors who once tricked storms into mercy, shared with wary locals and the party.
-- **Comedy Beat**: Small, accidental weather effects (a sudden gust scattering hats, a sputtering rain turning into a comedic sun-sneak) provide levity amid growing concern.
+	1) Immediate fallout: they leave Steinholm under the shadow of Church riders; the road toward the coast is patrolled and checkpoints are watchful — tension from Chapter 20's ending carries straight into travel.
+	2) Travel: overland to Ravensford — broken cart tracks, low clouds, a tense clan checkpoint where scouts ask pointed questions about "unnatural" experiments; a roadside storyteller mentions old staves said to "call the weather," framed now as dangerous knowledge.
+	3) The party meets a coastal craftswoman (Hesra) who preserves ceremonial antler staves carved with storm-runes and weather sigils — Hesra is cautious because she knows investigators have been asking about such craft.
+	4) With explicit village consent and careful concealment plans in place, Lin performs a small, tightly controlled test: a carved sigil on her blackthorn staff turns a fine drizzle into a deliberate gust that parts a low cloud—proof the runes can shape micro-weather when framed as folk craft rather than witchcraft.
+	5) Political friction: word of the demonstration leaks despite precautions; a misread etching during a later, public demonstration produces a wind-shear that topples a trader's cart and injures a bystander. Because Church agents are already active in the region, the incident is immediately politicized.
+	6) Immediate response: Tobi and the party manage triage and restitution while Willi improvises portable dampers and concealment measures; Greta insists on strict consent protocols and records every corrective step to limit legal exposure.
+	7) Local compact: Hesra and community elders broker a local agreement — safety dampers, public disclaimers framing the work as craft, and strict limits on demonstrations — but the Church interprets the event as confirmation to escalate inquiries.
+	8) The party leaves Ravensford with demonstrable weather-runic micro-control but with Lin's satisfaction tempered by the political visibility and the knowledge that public experiments now have consequences.
+- **Prev → Target**: Tobi — from supportive companion to active moral arbiter and political negotiator; Lin — from curious researcher to a practitioner learning the cost of visible power under institutional scrutiny.
+- **Progression Note**: Lin proves weather-runic micro-effects are practical, but the chapter ties those capabilities directly to institutional exposure: the Church's presence turns technical mistake into political crisis. The party formalizes safer protocols, but Lin's confidence is tempered rather than simply inflated — she now understands that effectiveness invites danger.
+- **Location**: Ravensford crossroads and craft-alleys beneath black cliffs, where maritime weather, clan jurisdictions, and Church patrols intersect under low winter skies.
+- **Supporting-Cast Beat**: Hesra the master craftswoman demonstrates safe etching technique and reluctantly assists with concealment; a local Church observer or informant (unnamed) notes the party's movements, later feeding rumors to officials.
+- **Failure Check**: A mis-etched rune produces harmful gusts during a public moment—property damage and an injured bystander become evidence the Church can use to justify formal investigation and arrests.
+- **Cozy Beat**: Night fires, low stories of sailors who tricked storms, and hushed conversations about safety protocols; the party shares food with Hesra's apprentices and local keepers.
+- **Comedy Beat**: Small, accidental weather effects (a sudden gust scattering hats, a sputtering rain turning into a comic sun-sneak) still provide levity but are now tinged with risk.
 
 ## Chapter 22 — Sea-Witch Wards (Storm Runes Demonstration)
 - **Plot Beats**:
