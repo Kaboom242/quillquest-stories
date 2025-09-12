@@ -64,7 +64,7 @@ Criminal & secret societies
 - Hallowshade Ward: neighbors who are 'too perfect'—suspected mind control or temporal alteration.
 
 ## Connected times / linked realities (seeds)
-- Victoria — 1873 (near-future local change)
+- Victoria — 1873 Current Time
 - Modern day (~1983) — potential player origin era
 - 2020s apocalypse — zombie virus timeline
 - Ancient Egypt — 5‑dimensional aliens
@@ -74,7 +74,7 @@ Criminal & secret societies
 - Dinosaur era — primal threats
 - 1910 Titanic vs Cthulhu — nautical horror seed
 - Edo period Japan — samurai and culture clash
-- Roman eras — mythological rifts from the underworld
+~~- Roman eras — mythological rifts from the underworld~~
 - Cyberpunk 2077‑style future — psychics and demons
 - 2112 — religious fundamentalist control; operation to retake Earth
 - Space opera settings — vampires or cosmic aristocrats
@@ -121,9 +121,3 @@ Criminal & secret societies
 
 ---
 
-If you want, I can now:
-- Expand any single district into a full location writeup with NPCs and adventure hooks.
-- Produce a simple map (ASCII or a labeled image placeholder) showing district relationships.
-- Extract the factions into a separate `factions.md` with goals, resources, and key NPCs.
-
-Tell me which of the above you'd like next.

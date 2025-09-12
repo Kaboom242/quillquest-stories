@@ -1,24 +1,18 @@
 # Chapter 21 — The Storm Runes
 
-The Church riders' hoofbeats still echoed in Lin's mind as their cart rolled away from Steinholm in the gray pre-dawn light. She pressed her palms against the rough wooden seat, trying to focus on the muddy track ahead rather than the memory of those approaching horsemen. The spiritual trace from the stone circle pulsed with each jolt of the wheels, and she found herself wondering if that persistent magical signature was what had drawn the investigators to their door.
+They were still close enough to Steinholm that Lin could have sworn she heard a faint echo of the villagers' murmurs in the cart's rattle. The pre-dawn light was a hard gray that refused to warm, and the memory of Church riders at the ridge sat in her chest like cold iron. The stone circle's signature prickled under her skin with every bump.
 
-"You're doing it again," Willi observed from beside her, adjusting her pack to better conceal the lead-lined pouches that had become their standard traveling equipment.
+Willi leaned over and nudged a rolled cloak toward Lin. "Less mourning, more watching, please. We can't afford theatrical gloom." Her voice was blunt, useful.
 
-"Doing what?"
+"We barely got them to leave the village in one piece," Lin said. "If Willi's dampers hadn't held—"
 
-"Brooding so loudly I can practically hear the guilt grinding in your head." Willi's practical tone carried just enough warmth to take the sting out. "We left Steinholm intact, the villagers are safe, and Harald got us out before any awkward questions were asked."
+"They held," Greta cut in from behind, tapping a stack of travel papers. "And I recorded everything. We're learning fast."
 
-Lin managed a weak smile. "I nearly turned an entire village into magical evidence. If your dampers hadn't worked..."
+Lin let the argument die; there was no point proving anything while the road still had ears.
 
-"But they did work," Greta said from behind them, looking up from the travel papers she'd been organizing. "And my notes documented everything. We're getting better at containing mishaps."
+Tobi's voice came from beside Harald: "Checkpoint ahead. Three guards and a clerk. Keep your heads light."
 
-"That's what worries me," Lin said quietly. "The fact that we're getting good at causing mishaps to contain."
-
-"Says the woman who once turned my hair blue for a week," Willi added with mock exasperation. "At least now your experiments don't require me to wear a hat until the effects wear off."
-
-From his perch beside Harald, Tobi called back to them. "Checkpoint ahead. Three guards and a clerk. More official than usual."
-
-Lin felt her stomach tighten as their cart approached the wooden barrier. Armed men in clan colors flanked the road, but these weren't the usual traders' inspections she remembered from childhood travels. A clerk sat at a field desk with an open ledger and what looked suspiciously like wanted notices.
+As they neared the barrier, the field desk looked businesslike in the gray light—a clerk with a ledger and a posted notice. The guards moved with a practiced, uncomfortable precision that made Lin's stomach knot.
 
 "Papers," the lead scout called as Harald pulled them to a stop. His eyes moved over their group with the practiced assessment of someone looking for specific targets. "Names and business in the coastal territories."
 

@@ -1,12 +1,12 @@
 # Chapter 20 — Bone and Antler Arts
 
-The spiritual trace from the stone circle clung to Lin like morning mist—a persistent reminder of power mishandled and trust damaged. She pressed her palms against the rough wooden seat as their cart lurched through another rut, trying to focus on the muddy track ahead rather than the elder's disappointed face that haunted her thoughts.
+Snow rimed the cart's edges and the wheel hubs sang a thin, metallic note as they rolled. Under that music, Lin could still feel the stone circle's echo—an almost-personal frequency that made the air around her hum. She kept her hands flat against the rough wood and watched the road, folding the elder's disappointed face into the back of her mind where it couldn't steer her.
 
-"You're brooding again," Willi observed from beside her, adjusting her satchel as the cart swayed. "I can practically hear the guilt grinding in your head."
+Willi tapped Lin's knee with the toe of a boot. "You look like you swallowed the weather," she said, tightening her strap. "Enough of the mournful artist act."
 
-"I nearly got us exiled," Lin said quietly. "If your dampers hadn't worked..."
+"I nearly got us exiled," Lin admitted instead of answering the joke. "If your dampers hadn't worked..."
 
-"But they did work. And Greta's notes saved the day." Willi's practical tone carried just enough warmth to take the sting out. "We learned something valuable about containing mishaps. That's not failure—that's education."
+Willi shrugged and produced a small, wry smile. "They worked. Greta's notes kept us honest. We didn't lose the village—only a little pride. That counts as progress."
 
 Greta looked up from her ledger with a mock-serious expression. "Though I notice you still packed three extra sets of notes this time, just in case Lin decides to turn the entire countryside into a leyline web again."
 
@@ -14,9 +14,9 @@ Greta looked up from her ledger with a mock-serious expression. "Though I notice
 
 "One time that required me to invent entirely new classes of dampening equipment," Willi added with exaggerated suffering. "Do you know how hard it is to explain 'runic cascade prevention' to a metalsmith who thinks magic is just fancy storytelling?"
 
-From his perch beside the driver, Tobi called back to them. "Storm's closing the pass ahead. We'll need shelter before it hits properly." His tone carried the careful authority of someone who'd learned to anticipate Lin's experiments and their consequences.
+From his perch beside the driver, Tobi called back to them. "Storm's closing the pass ahead. We'll need shelter before it hits properly." His voice had the steady certainty that kept a group like theirs practical.
 
-Lin pulled her cloak tighter as the first fat snowflakes began to fall. The highland moors were falling behind them now, replaced by pine-covered slopes that dropped toward a valley where three silver rivers converged. She could smell woodsmoke on the cold air, and something else—something wild and earthy that made her think of deep forests and ancient paths.
+Lin cinched her cloak as large, wet flakes began to fall. The moors gave way to pine slopes and a valley where three silver rivers braided together. Woodsmoke and something wilder—deep forest earth—stung the cold air and made the hair on her arms prickle.
 
 "Elk," said their driver, Harald, speaking for the first time in miles. "Big herds come through this time of year. Folk here know their ways."
 

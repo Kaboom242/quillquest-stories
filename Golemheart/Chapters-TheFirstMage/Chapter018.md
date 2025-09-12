@@ -116,7 +116,7 @@ Lin laughed, feeling the bubbling excitement that always accompanied the beginni
 
 The northern road stretched ahead like an invitation to discovery, and for the first time in days, Lin felt completely certain they'd made the right choice.
 
-The first refugee camp appeared two days into their journey, a sprawling collection of makeshift shelters pressed against the southern edge of Millbrook village like a desperate plea for sanctuary. Smoke from cook fires mixed with the acrid smell of too many people living in too little space, while autumn rain turned the camp into a maze of mud and misery.
+The first refugee camp appeared two days into their journey, a sprawling collection of makeshift shelters pressed against the southern edge of Mittenwald village like a desperate plea for sanctuary. Smoke from cook fires mixed with the acrid smell of too many people living in too little space, while autumn rain turned the camp into a maze of mud and misery.
 
 "Light preserve us," Greta breathed, her knightly training warring with the reality of systematic displacement. "How many people?"
 
