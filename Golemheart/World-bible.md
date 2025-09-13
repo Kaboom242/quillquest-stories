@@ -156,7 +156,7 @@ The Church maintains strongest control in Imperial heartlands, with influence de
 - Spellcraft: studied/practiced like chemistry, requires formulas, reagents, rituals; innovation or error leads to discoveries or mishaps; taught in academies.
 - Dungeons: formed by twisted/knotted laylines, magical hotspots, spawn loot/resources/creatures, regulated by Adventurer’s Guild, can cause Dungeon Breaks, strongest monsters at deepest levels, evolve over time. A typical Gygaxian style dungeon.
 
-## Western Magic – Traditions of Elarion
+## Magisterium Arcanum – Traditions of Elarion
 
 ### Structure & Practice
 

@@ -1,0 +1,16 @@
+{
+  "cSpell.enabled": true,
+  "#cSpell.enabledFileTypes#": [
+    "plaintext",
+    "markdown",
+    "latex",
+    "git-commit"
+  ],
+  "cSpell.language": "en",
+  "cSpell.allowCompoundWords": false,
+  "cSpell.diagnosticLevel": "Information",
+  "spellright.documentTypes": [
+    "markdown",
+    "plaintext"
+  ]
+}
